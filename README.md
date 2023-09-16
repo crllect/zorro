@@ -1,5 +1,6 @@
 # **Zorro**  <img src="https://komarev.com/ghpvc/?username=crllect&color=e70056&style=for-the-badge&label=Bugs+In+My+Code" alt="crllect" />
 ---
+### **This is not ment to be anything serious, just a fun side project**
 ```java
 while (true) {
 	String name = "Crllect";
