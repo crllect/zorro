@@ -1,11 +1,11 @@
 {
   "compilerOptions": {
     "outDir": "./dist",
-    "rootDir": "/home/kali/Documents/FrontEndDev/crashCourse/src",
+    "rootDir": "/src",
     "esModuleInterop": true,
     "module": "commonjs",
     "target": "es6"
   },
-  "include": ["/home/kali/Documents/FrontEndDev/crashCourse/**/*.ts"],
+  "include": ["/*.ts"],
   "exclude": ["node_modules"]
 }
