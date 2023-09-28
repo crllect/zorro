@@ -10,8 +10,8 @@ while (true) {
 	String[] webBrowsers = {"Firefox", "Tor"};
 	String[] browserExtensions = {"FirefoxRelay", "uBlockOrigin", "Violentmonkey", "NoScript"};
 	String[] intrests = {"programming", "exploiting", "music", "cyberSecurity"};
-	// learning: HTML, CSS, JavaScript, TypeScript, C++
-	String[] programmingLanguages = {"Java", "Lua", "Python", "Markdown"};
+	// learning: C++
+	String[] programmingLanguages = {"Java", "Lua", "Python", "Markdown", "HTML", "CSS", "JavaScript", "TypeScript"};
 	String[] cyberSecUtils = {"burpsuite", "nmap", "amass", "ciscoTools", "wpscan", "wireshark", "metasploit-framework", "recon-ng", "hydra", "sqlMap", "aircrack-ng", "traceroute", "john", "hashcat"}; //kali-linux suite && extra installed tools
 	String[] codeEditors = {"eclipse", "neoVim", "VSCodium", "pyCharm"};
 	Object[][] emailAddresses = {
