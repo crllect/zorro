@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "OutOfCtrl",
+"productVersion": "1.1",
+"dataUrl": "OutOfCtrl_v1_2.data.unityweb",
+"wasmCodeUrl": "OutOfCtrl_v1_2.wasm.code.unityweb",
+"wasmFrameworkUrl": "OutOfCtrl_v1_2.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.5f1"
+}
