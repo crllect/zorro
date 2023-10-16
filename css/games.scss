@@ -1,0 +1,230 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root {
+    --primary-color: #ffffff;
+    --secondary-color: #e70056;
+    --link-color: #e70056;
+    --div-color: #ffffff;
+    --navBar-color: #25252a;
+    --navBar2-color: #4c4c4f;
+    --background-color: #060607;
+    --background2-color: #141415;
+    --primaryLight-color: #ffdce9;
+    --primaryDark-color: #430019;
+}
+
+body {
+    background-image: linear-gradient(100deg, var(--background-color), var(--background2-color));
+    transition: 0.3s linear;
+    margin: 0;
+    font-family: 'Work Sans';
+    overflow: visible;
+    min-height: 100vh
+}
+
+.navbar {
+    background-color: var(--background-color);
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 20px 40px #0c00049c;
+    background-image: linear-gradient(to top, var(--navBar-color), var(--navBar2-color));
+    border-bottom-left-radius: 35px;
+    border-bottom-right-radius: 35px;
+    user-select: none;
+    pointer-events: none;
+    transition: width 0.3s ease-in-out, height 0.3s ease-in-out;
+
+    .logo {
+        text-decoration: none;
+        font-weight: 700;
+        color: var(--secondary-color);
+        font-size: 2em;
+        pointer-events: auto;
+
+        span {
+            color: var(--primary-color);
+            text-shadow: #e70056 0px 0px 25px;
+        }
+
+        &:hover {
+            text-shadow: #e70056 0px 0px 25px;
+            transition: 0.7s;
+        }
+    }
+    
+/*
+this is just a note to self because I have shitty memory, all rights for this code go to crllect:
+
+if you are on a page e.g. exploits, then add a text shadow of 0px 0px 25px
+and remove these lines from that one:
+
+&:hover {
+            text-shadow: #e70056 0px 0px 25px;
+            transition: 0.7s;
+        }
+
+this is just a note to self because I have shitty memory
+
+so a selected .exploitsNavButton will look like this:
+
+.exploitsNavButton {
+    text-shadow: #e70056 0px 0px 25px;
+}
+
+with no &:hover text
+*/
+
+    .primaryNav {
+        display: flex;
+        text-decoration-line: none;
+        font-size: 2em;
+        pointer-events: auto;
+        span {
+            color: var(--div-color);
+        }
+        .exploitsNavButton {
+            text-shadow: #e70056 0px 0px 0px;
+            &:hover {
+                text-shadow: #e70056 0px 0px 25px;
+                transition: 0.7s;
+            }
+        }
+        .homeNavButton {
+            text-shadow: #e70056 0px 0px 0px;
+            &:hover {
+                text-shadow: #e70056 0px 0px 25px;
+                transition: 0.7s;
+            }
+        }
+        .gamesNavButton {
+            text-shadow: #e70056 0px 0px 25px;
+        }
+        .proxiesNavButton {
+            text-shadow: #e70056 0px 0px 0px;
+            &:hover {
+                text-shadow: #e70056 0px 0px 25px;
+                transition: 0.7s;
+            }
+        }
+    }
+
+    .container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+        max-width: 2400px;
+        margin: 0 auto;
+    }
+
+    .rightNavItems {
+        display: flex;
+        gap: 1em;
+        cursor: pointer;
+        #blankOpener {
+            width: 70px;
+            height: 90%;
+            cursor: pointer;
+            pointer-events: auto;
+        }
+        #panicButton {
+            width: 70px;
+            height: 35%;
+            cursor: pointer;
+            pointer-events: auto;
+        }
+    }
+
+    nav {
+        display: flexbox;
+    }
+}
+
+.githubCorner {
+    cursor: pointer;
+}
+
+a {
+    color: var(--link-color);
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    padding: 5em 2em;
+}
+
+$cell-width: 400px;
+$cell-height: 500px;
+$bevel-amount: 35px;
+$horizontal-gap: 100px;
+$vertical-gap: 200px;
+$transition-time: 0.7s;
+$gradient-color: linear-gradient(to bottom, #4c4c4f, #25252a);
+
+
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.table {
+    margin-top: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, $cell-width);
+    grid-gap: $horizontal-gap $vertical-gap;
+    justify-items: center;
+    position: absolute;
+}
+
+.cell {
+    width: $cell-width;
+    height: $cell-height;
+    
+    border: 2.5px solid #e70052;
+    border-radius: $bevel-amount;
+
+    background-size: 100% 70%, 100% 30%;
+    background-repeat: no-repeat;
+
+    cursor: pointer;
+    pointer-events: all;
+    transition: $transition-time;
+    position: relative;
+
+    &::before {
+        content: "";
+        position: absolute;
+        width: 100%;
+        height: 30%;
+        bottom: 0;
+        left: 0;
+        background: $gradient-color;
+        border-radius: 0 0 $bevel-amount $bevel-amount;
+    }
+
+    &:hover {
+        text-shadow: 0px 0px 25px var(--secondary-color);
+        transform: translateY(-35px);   
+    }
+}
+
+.cell-content {
+    position: absolute;
+    bottom: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    color: white;
+    font-size: 50px;
+}

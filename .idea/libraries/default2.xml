@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="default2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/game-assets/classicube/texpacks/default.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

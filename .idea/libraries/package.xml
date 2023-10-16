@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="package">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/game-assets/HexGL/package.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

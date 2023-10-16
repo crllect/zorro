@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="default">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/game-assets/minecraftbeta/default.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

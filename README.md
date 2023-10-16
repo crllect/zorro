@@ -1,6 +1,6 @@
 # **Zorro**  <img src="https://komarev.com/ghpvc/?username=crllect&color=e70056&style=for-the-badge&label=Bugs+In+My+Code" alt="crllect" />
 ---
-### **This is not ment to be anything serious, just a fun side project**
+### **This is not meant to be anything serious, just a fun side project**
 ---
 ```java
 while (true) {
@@ -13,7 +13,7 @@ while (true) {
 	// learning: C++
 	String[] programmingLanguages = {"Java", "Lua", "Python", "Markdown", "HTML", "CSS", "JavaScript", "TypeScript"};
 	String[] cyberSecUtils = {"burpsuite", "nmap", "amass", "ciscoTools", "wpscan", "wireshark", "metasploit-framework", "recon-ng", "hydra", "sqlMap", "aircrack-ng", "traceroute", "john", "hashcat"}; //kali-linux suite && extra installed tools
-	String[] codeEditors = {"eclipse", "neoVim", "VSCodium", "pyCharm"};
+	String[] codeEditors = {"eclipse", "neoVim", "VSCodium", "pyCharm", "intelliJ-IDEA"};
 	Object[][] emailAddresses = {
 		{"crllect@proton.me"},
 		{"crllection@gmail.com"},

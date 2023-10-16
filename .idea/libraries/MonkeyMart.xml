@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="MonkeyMart">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/game-assets/MonkeyMart/resources.zip!/" />
+      <root url="jar://$PROJECT_DIR$/game-assets/MonkeyMart/archive.zip!/" />
+      <root url="jar://$PROJECT_DIR$/game-assets/MonkeyMart/pack.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="roms">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/game-assets/webretro/roms/nsmb.zip!/" />
+      <root url="jar://$PROJECT_DIR$/game-assets/webretro/roms/mkds.zip!/" />
+      <root url="jar://$PROJECT_DIR$/game-assets/webretro/roms/mother3.zip!/" />
+      <root url="jar://$PROJECT_DIR$/game-assets/webretro/roms/pm64.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
