@@ -34,6 +34,7 @@ body {
     border-bottom-right-radius: 35px;
     user-select: none;
     pointer-events: none;
+    transition: width 0.3s ease-in-out, height 0.3s ease-in-out;
 
     .logo {
         text-decoration: none;
@@ -54,6 +55,8 @@ body {
     }
     
 /*
+this is just a note to self because I have shitty memory, all rights for this code go to crllect:
+
 if you are on a page e.g. exploits, then add a text shadow of 0px 0px 25px
 and remove these lines from that one:
 

@@ -14,9 +14,9 @@ let LINE_THICKNESS = 3.25; // Line thickness
 let DOT_COLOR = '#FFFFFF'; // Dot color
 let DOT_SIZE = 1.0; // Dot size
 let DOT_SIZE_VARIATION = 2.0; // Dot size variation
-let DOT_SIZE_ANIMATION_SPEED = 0; // Animation speed for dot size variation
+let DOT_SIZE_ANIMATION_SPEED = 0.01; // Animation speed for dot size variation
 
-let DOT_SPEED = 0.02; // Dot speed in pixels per frame
+let DOT_SPEED = 0.05; // Dot speed in pixels per frame
 let DOT_SPEED_VARIATION = 0.01; // Variation in dot speed
 
 let GLOW_INNER_COLOR = '#E70056'; // Inner color of the radial gradient
@@ -113,12 +113,16 @@ class Dot {
 
 // Create an initial set of dots with random positions
 function createDots() {
+  // Clear the existing dots
+  dots.length = 0;
+
   for (let i = 0; i < DOT_COUNT; i++) {
     const x = Math.random() * canvas.width;
     const y = Math.random() * canvas.height;
     dots.push(new Dot(x, y, DOT_SPEED));
   }
 }
+
 
 // Function to handle canvas update
 function handleCanvasUpdate(event: MouseEvent) {
@@ -157,12 +161,12 @@ function handleCanvasUpdate(event: MouseEvent) {
 }
 
 // Event listener for mouse movement
-canvas.addEventListener('mousemove', (event) => {
+document.addEventListener('mousemove', (event) => {
   handleCanvasUpdate(event);
 });
 
 // Event listener for mouse clicks to spawn dots
-canvas.addEventListener('click', (event) => {
+document.addEventListener('click', (event) => {
   const mouseX = event.clientX;
   const mouseY = event.clientY;
 
@@ -177,3 +181,12 @@ canvas.addEventListener('click', (event) => {
 // Initialize the dots and start the animation loop
 createDots();
 handleCanvasUpdate(new MouseEvent('mousemove')); // Initial call
+
+// Event listener for window resize
+window.addEventListener('resize', () => {
+  canvas.width = window.innerWidth;
+  canvas.height = window.innerHeight;
+  // Recreate the entire set of dots when the window is resized
+  createDots();
+  handleCanvasUpdate(new MouseEvent('mousemove'));
+});

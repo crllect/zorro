@@ -36,6 +36,27 @@ body {
           user-select: none;
   pointer-events: none;
   transition: width 0.3s ease-in-out, height 0.3s ease-in-out;
+  /*
+  this is just a note to self because I have shitty memory, all rights for this code go to crllect:
+
+  if you are on a page e.g. exploits, then add a text shadow of 0px 0px 25px
+  and remove these lines from that one:
+
+  &:hover {
+              text-shadow: #e70056 0px 0px 25px;
+              transition: 0.7s;
+          }
+
+  this is just a note to self because I have shitty memory
+
+  so a selected .exploitsNavButton will look like this:
+
+  .exploitsNavButton {
+      text-shadow: #e70056 0px 0px 25px;
+  }
+
+  with no &:hover text
+  */
 }
 .navbar .logo {
   text-decoration: none;
@@ -48,6 +69,10 @@ body {
   color: var(--primary-color);
   text-shadow: #e70056 0px 0px 25px;
 }
+.navbar .logo:hover {
+  text-shadow: #e70056 0px 0px 25px;
+  transition: 0.7s;
+}
 .navbar .primaryNav {
   display: flex;
   text-decoration-line: none;
@@ -58,7 +83,11 @@ body {
   color: var(--div-color);
 }
 .navbar .primaryNav .exploitsNavButton {
+  text-shadow: #e70056 0px 0px 0px;
+}
+.navbar .primaryNav .exploitsNavButton:hover {
   text-shadow: #e70056 0px 0px 25px;
+  transition: 0.7s;
 }
 .navbar .primaryNav .homeNavButton {
   text-shadow: #e70056 0px 0px 0px;
@@ -106,37 +135,12 @@ body {
   cursor: pointer;
   pointer-events: auto;
 }
-.navbar .container {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  width: 100%;
-  max-width: 2400px;
-  margin: 0 auto;
-}
-.navbar .rightNavItems {
-  display: flex;
-  gap: 1em;
-  cursor: pointer;
-}
-.navbar .rightNavItems #blankOpener {
-  width: 70px;
-  height: 90%;
-  cursor: pointer;
-  pointer-events: auto;
-}
-.navbar .rightNavItems #panicButton {
-  width: 70px;
-  height: 35%;
-  cursor: pointer;
-  pointer-events: auto;
-}
 .navbar nav {
   display: flexbox;
 }
 
 .githubCorner {
-  box-shadow: 0px 0px -40px rgb(0, 0, 0);
+  cursor: pointer;
 }
 
 a {
@@ -152,69 +156,4 @@ ul {
 
 section {
   padding: 5em 2em;
-}
-
-.exploits-content {
-  margin-top: 4em;
-  color: var(--primary-color);
-  font-size: 1.2em;
-  padding: 2em;
-  /* Style for the file input and label */
-}
-.exploits-content h1 {
-  font-size: 2em;
-}
-.exploits-content i {
-  font-style: italic;
-}
-.exploits-content b {
-  font-weight: bold;
-}
-.exploits-content table {
-  width: 100%;
-  border-collapse: collapse;
-  margin-top: 1em;
-}
-.exploits-content table th, .exploits-content table td {
-  text-align: left;
-  padding: 0.5em;
-  border-bottom: 1px solid var(--div-color);
-}
-.exploits-content table th {
-  font-weight: bold;
-}
-.exploits-content h2 {
-  font-size: 1.5em;
-  margin-top: 1em;
-}
-.exploits-content p {
-  margin-bottom: 1em;
-}
-.exploits-content .file-input {
-  display: none;
-}
-.exploits-content .upload-button {
-  display: inline-block;
-  cursor: pointer;
-  background-color: transparent;
-  border: 2px solid #e70056;
-  color: var(--primary-color);
-  font-size: 1em;
-  padding: 0.5em 1em;
-  transition: background-color 0.3s ease;
-  border-radius: 8px;
-  text-align: center;
-  /* Add bevel effect */
-  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2) inset, -1px -1px 2px rgba(255, 255, 255, 0.2) inset;
-}
-.exploits-content .upload-button:hover {
-  background-color: rgba(231, 0, 86, 0.2);
-  text-shadow: 0px 0px 6px #e70056;
-}
-.exploits-content #log {
-  margin-top: 1em;
-}
-.exploits-content p:last-child {
-  text-align: right;
-  margin-top: 2em;
-}/*# sourceMappingURL=policyExploit.css.map */
+}/*# sourceMappingURL=base.css.map */
