@@ -1,1 +1,5 @@
-/*# sourceMappingURL=homePageBg.css.map */
+#canvas {
+  position: absolute;
+  height: 100vh;
+  width: 100vw;
+}/*# sourceMappingURL=homePageBg.css.map */

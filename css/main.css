@@ -22,6 +22,7 @@ body {
 }
 
 .navbar {
+  transition: width 0.3s ease-in-out, height 0.3s ease-in-out;
   background-color: var(--background-color);
   padding: 1em;
   display: flex;
@@ -47,6 +48,10 @@ body {
   color: var(--primary-color);
   text-shadow: #e70056 0px 0px 25px;
 }
+.navbar .logo:hover {
+  text-shadow: #e70056 0px 0px 25px;
+  transition: 0.7s;
+}
 .navbar .primaryNav {
   display: flex;
   text-decoration-line: none;
@@ -56,8 +61,29 @@ body {
 .navbar .primaryNav span {
   color: var(--div-color);
 }
+.navbar .primaryNav .exploitsNavButton {
+  text-shadow: #e70056 0px 0px 0px;
+}
+.navbar .primaryNav .exploitsNavButton:hover {
+  text-shadow: #e70056 0px 0px 25px;
+  transition: 0.7s;
+}
 .navbar .primaryNav .homeNavButton {
   text-shadow: #e70056 0px 0px 25px;
+}
+.navbar .primaryNav .gamesNavButton {
+  text-shadow: #e70056 0px 0px 0px;
+}
+.navbar .primaryNav .gamesNavButton:hover {
+  text-shadow: #e70056 0px 0px 25px;
+  transition: 0.7s;
+}
+.navbar .primaryNav .proxiesNavButton {
+  text-shadow: #e70056 0px 0px 0px;
+}
+.navbar .primaryNav .proxiesNavButton:hover {
+  text-shadow: #e70056 0px 0px 25px;
+  transition: 0.7s;
 }
 .navbar .container {
   display: flex;
