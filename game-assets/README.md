@@ -1,0 +1,1 @@
+## A massive thanks to 3kh0 for all of the games, and any who have contributed to the massive list. This website was just ment to be a fun sideproject, so dont expect common updates or anything of the sort. If you have any takedown requests or general inquiries please email me at crllect@proton.me, also if you like what your seeing, please star or follow on github.com/crllect!
