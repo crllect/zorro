@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Object>
+
+		<!--THIS ARRAY HOLDS ALL THE DIFFERENT SOUNDTRACKS WHICH ARE TO BE USED WITHIN THE APPLICATION -->	
+		<!-- Holds information which different tracks and how they link up to the different views within the application -->		
+				
+				<Array instance="soundtracks">				
+
+					
+					<!--//////////////////////////////////////////////////////////////-->
+					<!-- CORE WEBSITE SECTIONS -->	
+					<!--//////////////////////////////////////////////////////////////-->
+						
+						<Object>
+							<String instance="identifer"><![CDATA[homepage]]></String>
+							<String instance="contentUrl"><![CDATA[assets/music/animalia_openng_theme.mp3]]></String>
+							<Boolean instance="enabled">true</Boolean>
+							<Boolean instance="loop">false</Boolean>
+						</Object>
+
+						<Object>
+							<String instance="identifer"><![CDATA[send_an_ecard]]></String>
+							<String instance="contentUrl"><![CDATA[assets/music/zed_look_down_there.mp3]]></String>
+							<Boolean instance="enabled">true</Boolean>
+							<Boolean instance="loop">false</Boolean>
+						</Object>
+				
+					
+					<!--//////////////////////////////////////////////////////////////-->
+					<!-- GAMES AND ACTIVITES -->	
+					<!--//////////////////////////////////////////////////////////////-->	
+						
+						<Object>
+							<String instance="identifer"><![CDATA[games_and_activites]]></String>
+							<String instance="contentUrl"><![CDATA[assets/music/animalia_openng_theme.mp3]]></String>
+							<Boolean instance="enabled">false</Boolean>
+							<Boolean instance="loop">false</Boolean>
+						</Object>
+						
+						<Object>
+							<String instance="identifer"><![CDATA[code_breaking_game]]></String>
+							<String instance="contentUrl"><![CDATA[assets/music/animalia_openng_theme.mp3]]></String>
+							<Boolean instance="enabled">false</Boolean>
+							<Boolean instance="loop">false</Boolean>
+						</Object>
+					
+					
+					<!--//////////////////////////////////////////////////////////////-->
+					<!-- ANIMALIA TOUR -->	
+					<!--//////////////////////////////////////////////////////////////-->			
+						
+						<Object>
+							<String instance="identifer"><![CDATA[tour_introduction]]></String>
+							<String instance="contentUrl"><![CDATA[assets/music/animalia_openng_theme.mp3]]></String>
+							<Boolean instance="enabled">true</Boolean>
+							<Boolean instance="loop">true</Boolean>
+						</Object>
+						
+						<Object>
+							<String instance="identifer"><![CDATA[town_centre_tour_section]]></String>
+							<String instance="contentUrl"><![CDATA[assets/music/animalia_openng_theme.mp3]]></String>
+							<Boolean instance="enabled">true</Boolean>
+							<Boolean instance="loop">true</Boolean>
+						</Object>
+						
+						<Object>
+							<String instance="identifer"><![CDATA[eatery_tour_section]]></String>
+							<String instance="contentUrl"><![CDATA[assets/music/animalia_openng_theme.mp3]]></String>
+							<Boolean instance="enabled">true</Boolean>
+							<Boolean instance="loop">true</Boolean>
+						</Object>
+						
+						<Object>
+							<String instance="identifer"><![CDATA[treehouse_tour_section]]></String>
+							<String instance="contentUrl"><![CDATA[assets/music/animalia_openng_theme.mp3]]></String>
+							<Boolean instance="enabled">true</Boolean>
+							<Boolean instance="loop">true</Boolean>
+						</Object>
+						
+						<Object>
+							<String instance="identifer"><![CDATA[swamp_tour_section]]></String>
+							<String instance="contentUrl"><![CDATA[assets/music/animalia_openng_theme.mp3]]></String>
+							<Boolean instance="enabled">true</Boolean>
+							<Boolean instance="loop">true</Boolean>
+						</Object>
+						
+						<Object>
+							<String instance="identifer"><![CDATA[hogs_tour_section]]></String>
+							<String instance="contentUrl"><![CDATA[assets/music/animalia_openng_theme.mp3]]></String>
+							<Boolean instance="enabled">true</Boolean>
+							<Boolean instance="loop">true</Boolean>
+						</Object>
+						
+						<Object>
+							<String instance="identifer"><![CDATA[tyrannicus_tour_section]]></String>
+							<String instance="contentUrl"><![CDATA[assets/music/animalia_openng_theme.mp3]]></String>
+							<Boolean instance="enabled">true</Boolean>
+							<Boolean instance="loop">true</Boolean>
+						</Object>
+						
+						<Object>
+							<String instance="identifer"><![CDATA[livingstone_tour_section]]></String>
+							<String instance="contentUrl"><![CDATA[assets/music/animalia_openng_theme.mp3]]></String>
+							<Boolean instance="enabled">true</Boolean>
+							<Boolean instance="loop">true</Boolean>
+						</Object>
+							
+						<Object>
+							<String instance="identifer"><![CDATA[core_tour_section]]></String>
+							<String instance="contentUrl"><![CDATA[assets/music/animalia_openng_theme.mp3]]></String>
+							<Boolean instance="enabled">true</Boolean>
+							<Boolean instance="loop">true</Boolean>
+						</Object>
+						
+						
+						
+							
+					<!--//////////////////////////////////////////////////////////////-->
+					<!-- CHARACTERS -->	
+					<!--//////////////////////////////////////////////////////////////-->
+						
+						<Object>
+							<String instance="identifer"><![CDATA[meet_the_characters]]></String>
+							<String instance="contentUrl"><![CDATA[assets/music/animalia_openng_theme.mp3]]></String>
+							<Boolean instance="enabled">false</Boolean>
+							<Boolean instance="loop">false</Boolean>
+						</Object>
+						
+						<Object>
+							<String instance="identifer"><![CDATA[alex]]></String>
+							<String instance="contentUrl"><![CDATA[assets/music/characters/alex.mp3]]></String>
+							<Boolean instance="enabled">true</Boolean>
+							<Boolean instance="loop">false</Boolean>
+						</Object>
+						
+						<Object>
+							<String instance="identifer"><![CDATA[zoe]]></String>
+							<String instance="contentUrl"><![CDATA[assets/music/characters/zoe.mp3]]></String>
+							<Boolean instance="enabled">true</Boolean>
+							<Boolean instance="loop">false</Boolean>
+						</Object>
+						
+						<Object>
+							<String instance="identifer"><![CDATA[livingstone]]></String>
+							<String instance="contentUrl"><![CDATA[assets/music/characters/livingstone.mp3]]></String>
+							<Boolean instance="enabled">true</Boolean>
+							<Boolean instance="loop">false</Boolean>
+						</Object>
+						
+						<Object>
+							<String instance="identifer"><![CDATA[allegra]]></String>
+							<String instance="contentUrl"><![CDATA[assets/music/characters/allegra.mp3]]></String>
+							<Boolean instance="enabled">true</Boolean>
+							<Boolean instance="loop">false</Boolean>
+						</Object>
+						
+						<Object>
+							<String instance="identifer"><![CDATA[iggy]]></String>
+							<String instance="contentUrl"><![CDATA[assets/music/characters/iggy.mp3]]></String>
+							<Boolean instance="enabled">true</Boolean>
+							<Boolean instance="loop">false</Boolean>
+						</Object>
+						
+						<Object>
+							<String instance="identifer"><![CDATA[gbubu]]></String>
+							<String instance="contentUrl"><![CDATA[assets/music/characters/gbubu.mp3]]></String>
+							<Boolean instance="enabled">true</Boolean>
+							<Boolean instance="loop">false</Boolean>
+						</Object>
+						
+						<Object>
+							<String instance="identifer"><![CDATA[rheenie]]></String>
+							<String instance="contentUrl"><![CDATA[assets/music/characters/rheenie.mp3]]></String>
+							<Boolean instance="enabled">true</Boolean>
+							<Boolean instance="loop">false</Boolean>
+						</Object>
+						
+						<Object>
+							<String instance="identifer"><![CDATA[tyrannicus]]></String>
+							<String instance="contentUrl"><![CDATA[assets/music/characters/tyrannicus.mp3]]></String>
+							<Boolean instance="enabled">true</Boolean>
+							<Boolean instance="loop">false</Boolean>
+						</Object>
+						
+						<Object>
+							<String instance="identifer"><![CDATA[fushia]]></String>
+							<String instance="contentUrl"><![CDATA[assets/music/characters/fushia.mp3]]></String>
+							<Boolean instance="enabled">true</Boolean>
+							<Boolean instance="loop">false</Boolean>
+						</Object>
+						
+						<Object>
+							<String instance="identifer"><![CDATA[elephants]]></String>
+							<String instance="contentUrl"><![CDATA[assets/music/characters/elephants.mp3]]></String>
+							<Boolean instance="enabled">true</Boolean>
+							<Boolean instance="loop">false</Boolean>
+						</Object>
+						
+						<Object>
+							<String instance="identifer"><![CDATA[hogs]]></String>
+							<String instance="contentUrl"><![CDATA[assets/music/characters/hogs.mp3]]></String>
+							<Boolean instance="enabled">true</Boolean>
+							<Boolean instance="loop">false</Boolean>
+						</Object>
+						
+					
+				</Array>	
+</Object>

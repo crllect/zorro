@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Object>
+
+		<!--//////////////////////////////////////////////////////////////-->
+		<!-- CORE VIEWS (REQUIRED BY APPLICATION) -->	
+		<!--//////////////////////////////////////////////////////////////-->
+			
+				<String instance="idenifier"><![CDATA[core]]></String>
+	
+			<!--THIS ARRAY HOLDS ALL THE DIFFERENT VIEWS WHICH ARE TO BE LOADED INTO THE APPLICATION -->	
+			<!-- Holds information which different Views are to be shown to the user when running the application -->		
+				
+				<Array instance="views">				
+
+					
+					<!--//////////////////////////////////////////////////////////////-->
+					<!-- CORE WEBSITE COMPONENTS -->	
+					<!--//////////////////////////////////////////////////////////////-->
+						
+						
+						<Object>
+							<String instance="identifer"><![CDATA[homepage]]></String>
+							<String instance="contentUrl"><![CDATA[assets/swf/homepage.swf]]></String>
+							<Boolean instance="remainLoaded">true</Boolean>
+							<Boolean instance="preloadAtStart">false</Boolean>
+						</Object>
+						
+						
+						
+						<Object>
+							<String instance="identifer"><![CDATA[ecards]]></String>
+							<String instance="contentUrl"><![CDATA[assets/swf/ecards.swf]]></String>
+							<Boolean instance="remainLoaded">true</Boolean>
+							<Boolean instance="preloadAtStart">false</Boolean>
+						</Object>
+						
+					<!--//////////////////////////////////////////////////////////////-->
+					<!-- GAMES AND ACTIVITES -->	
+					<!--//////////////////////////////////////////////////////////////-->	
+						
+						<Object>
+							<String instance="identifer"><![CDATA[games_and_activites]]></String>
+							<String instance="contentUrl"><![CDATA[assets/swf/games_and_activites.swf]]></String>
+							<Boolean instance="remainLoaded">true</Boolean>
+							<Boolean instance="preloadAtStart">false</Boolean>
+						</Object>
+						
+						<Object>
+							<String instance="identifer"><![CDATA[code_breaking_game]]></String>
+							<String instance="contentUrl"><![CDATA[assets/swf/code_breaking_game.swf]]></String>
+							<Boolean instance="remainLoaded">true</Boolean>
+							<Boolean instance="preloadAtStart">false</Boolean>
+						</Object>
+						
+	
+					<!--//////////////////////////////////////////////////////////////-->
+					<!-- ANIMALIA TOUR -->	
+					<!--//////////////////////////////////////////////////////////////-->		
+							
+							
+						<Object>
+							<String instance="identifer"><![CDATA[tour_introduction]]></String>
+							<String instance="contentUrl"><![CDATA[assets/swf/tour_introduction.swf]]></String>
+							<Boolean instance="remainLoaded">true</Boolean>
+							<Boolean instance="preloadAtStart">false</Boolean>
+						</Object>
+						
+						<Object>
+							<String instance="identifer"><![CDATA[town_centre_tour_section]]></String>
+							<String instance="contentUrl"><![CDATA[assets/swf/town_centre_tour_section.swf]]></String>
+							<Boolean instance="remainLoaded">true</Boolean>
+							<Boolean instance="preloadAtStart">false</Boolean>
+						</Object>
+						
+						<Object>
+							<String instance="identifer"><![CDATA[eatery_tour_section]]></String>
+							<String instance="contentUrl"><![CDATA[assets/swf/eatery_tour_section.swf]]></String>
+							<Boolean instance="remainLoaded">true</Boolean>
+							<Boolean instance="preloadAtStart">false</Boolean>
+						</Object>
+						
+						<Object>
+							<String instance="identifer"><![CDATA[treehouse_tour_section]]></String>
+							<String instance="contentUrl"><![CDATA[assets/swf/treehouse_tour_section.swf]]></String>
+							<Boolean instance="remainLoaded">true</Boolean>
+							<Boolean instance="preloadAtStart">false</Boolean>
+						</Object>
+						
+						<Object>
+							<String instance="identifer"><![CDATA[swamp_tour_section]]></String>
+							<String instance="contentUrl"><![CDATA[assets/swf/swamp_tour_section.swf]]></String>
+							<Boolean instance="remainLoaded">true</Boolean>
+							<Boolean instance="preloadAtStart">false</Boolean>
+						</Object>
+						
+						<Object>
+							<String instance="identifer"><![CDATA[hogs_tour_section]]></String>
+							<String instance="contentUrl"><![CDATA[assets/swf/hogs_tour_section.swf]]></String>
+							<Boolean instance="remainLoaded">true</Boolean>
+							<Boolean instance="preloadAtStart">false</Boolean>
+						</Object>
+						
+						<Object>
+							<String instance="identifer"><![CDATA[tyrannicus_tour_section]]></String>
+							<String instance="contentUrl"><![CDATA[assets/swf/tyrannicus_tour_section.swf]]></String>
+							<Boolean instance="remainLoaded">true</Boolean>
+							<Boolean instance="preloadAtStart">false</Boolean>
+						</Object>
+						
+						<Object>
+							<String instance="identifer"><![CDATA[livingstone_tour_section]]></String>
+							<String instance="contentUrl"><![CDATA[assets/swf/livingstone_tour_section.swf]]></String>
+							<Boolean instance="remainLoaded">true</Boolean>
+							<Boolean instance="preloadAtStart">false</Boolean>
+						</Object>
+							
+						<Object>
+							<String instance="identifer"><![CDATA[core_tour_section]]></String>
+							<String instance="contentUrl"><![CDATA[assets/swf/core_tour_section.swf]]></String>
+							<Boolean instance="remainLoaded">true</Boolean>
+							<Boolean instance="preloadAtStart">false</Boolean>
+						</Object>	
+							
+					<!--//////////////////////////////////////////////////////////////-->
+					<!-- CHARACTERS -->	
+					<!--//////////////////////////////////////////////////////////////-->
+						
+						
+						<Object>
+							<String instance="identifer"><![CDATA[meet_the_characters]]></String>
+							<String instance="contentUrl"><![CDATA[assets/swf/meet_the_characters.swf]]></String>
+							<Boolean instance="remainLoaded">true</Boolean>
+							<Boolean instance="preloadAtStart">true</Boolean>
+						</Object>
+						
+						<Object>
+							<String instance="identifer"><![CDATA[alex]]></String>
+							<String instance="contentUrl"><![CDATA[assets/swf/alex.swf]]></String>
+							<Boolean instance="remainLoaded">true</Boolean>
+							<Boolean instance="preloadAtStart">false</Boolean>
+						</Object>
+						
+						<Object>
+							<String instance="identifer"><![CDATA[zoe]]></String>
+							<String instance="contentUrl"><![CDATA[assets/swf/zoe.swf]]></String>
+							<Boolean instance="remainLoaded">true</Boolean>
+							<Boolean instance="preloadAtStart">false</Boolean>
+						</Object>
+						
+						<Object>
+							<String instance="identifer"><![CDATA[livingstone]]></String>
+							<String instance="contentUrl"><![CDATA[assets/swf/livingstone.swf]]></String>
+							<Boolean instance="remainLoaded">true</Boolean>
+							<Boolean instance="preloadAtStart">false</Boolean>
+						</Object>
+						
+						<Object>
+							<String instance="identifer"><![CDATA[allegra]]></String>
+							<String instance="contentUrl"><![CDATA[assets/swf/allegra.swf]]></String>
+							<Boolean instance="remainLoaded">true</Boolean>
+							<Boolean instance="preloadAtStart">false</Boolean>
+						</Object>
+						
+						<Object>
+							<String instance="identifer"><![CDATA[iggy]]></String>
+							<String instance="contentUrl"><![CDATA[assets/swf/iggy.swf]]></String>
+							<Boolean instance="remainLoaded">true</Boolean>
+							<Boolean instance="preloadAtStart">false</Boolean>
+						</Object>
+						
+						<Object>
+							<String instance="identifer"><![CDATA[gbubu]]></String>
+							<String instance="contentUrl"><![CDATA[assets/swf/gbubu.swf]]></String>
+							<Boolean instance="remainLoaded">true</Boolean>
+							<Boolean instance="preloadAtStart">false</Boolean>
+						</Object>
+						
+						<Object>
+							<String instance="identifer"><![CDATA[rheenie]]></String>
+							<String instance="contentUrl"><![CDATA[assets/swf/rheenie.swf]]></String>
+							<Boolean instance="remainLoaded">true</Boolean>
+							<Boolean instance="preloadAtStart">false</Boolean>
+							<Boolean instance="isGame">false</Boolean>
+						</Object>
+						
+						<Object>
+							<String instance="identifer"><![CDATA[tyrannicus]]></String>
+							<String instance="contentUrl"><![CDATA[assets/swf/tyrannicus.swf]]></String>
+							<Boolean instance="remainLoaded">true</Boolean>
+							<Boolean instance="preloadAtStart">false</Boolean>
+						</Object>
+						
+						
+						<Object>
+							<String instance="identifer"><![CDATA[fushia]]></String>
+							<String instance="contentUrl"><![CDATA[assets/swf/fushia.swf]]></String>
+							<Boolean instance="remainLoaded">true</Boolean>
+							<Boolean instance="preloadAtStart">false</Boolean>
+						</Object>
+						
+						<Object>
+							<String instance="identifer"><![CDATA[elephants]]></String>
+							<String instance="contentUrl"><![CDATA[assets/swf/elephants.swf]]></String>
+							<Boolean instance="remainLoaded">true</Boolean>
+							<Boolean instance="preloadAtStart">false</Boolean>
+						</Object>
+						
+						<Object>
+							<String instance="identifer"><![CDATA[hogs]]></String>
+							<String instance="contentUrl"><![CDATA[assets/swf/hogs.swf]]></String>
+							<Boolean instance="remainLoaded">false</Boolean>
+							<Boolean instance="preloadAtStart">false</Boolean>
+						</Object>
+						
+					
+				</Array>	
+</Object>

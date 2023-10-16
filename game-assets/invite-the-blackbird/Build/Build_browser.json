@@ -1,0 +1,16 @@
+{
+"companyName": "almost.robin.studio",
+"productName": "Invite The Blackbird",
+"productVersion": "0.1",
+"dataUrl": "Build_browser.data.unityweb",
+"wasmCodeUrl": "Build_browser.wasm",
+"wasmFrameworkUrl": "Build_browser.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.7f1"
+}

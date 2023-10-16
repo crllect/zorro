@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ec>
+	<preloadItems>
+		<!-- These items are to be preloaded so they are immediately ready for use in the site -->
+		<item id="swf_BASE" src="base.swf" weight="300" />
+		<item id="swf_HOME" src="swf/portals/home.swf" weight="400" />
+		
+		<item id="intro" type="video" choice="true" weight="1200" >
+			<video type="intro" double="true" id="intro1" >
+				<videoLeft src="hp_wel_a1_J_and_H.flv" id="introLeft1" xCoord="0" yCoord="312" width="420" height="338" />
+				<videoRight src="hp_wel_a3_L_and_K.flv" id="introRight1" xCoord="580" yCoord="320" width="434" height="330" />
+			</video>
+			<video type="intro" double="true" id="intro2">
+				<videoLeft src="hp_wel_b5_J_and_H.flv" id="introLeft2" xCoord="0" yCoord="320" width="450" height="330" />
+				<videoRight src="hp_wel_b1_L_and_K.flv" id="introRight2" xCoord="508" yCoord="336" width="506" height="314" />
+			</video>
+		</item>
+		
+		<item id="introBack" type="video" choice="true" weight="800" >
+			<video type="introBack" double="true" id="introBack1">
+				<videoLeft src="hp_welbac_a1_J_and_H.flv" id="introLeft3" xCoord="0" yCoord="316" width="420" height="334" />
+				<videoRight src="hp_welbac_a3_L_and_Kv1.flv" id="introRight3" xCoord="564" yCoord="336" width="450" height="314" />
+			</video>
+			<video src="hp_welbac_b1_J_and_H.flv" type="introBack" id="introBack2" xCoord="0" yCoord="320" width="450" height="330" />
+			<video src="hp_welbac_c1_L_and_K.flv" type="introBack" id="introBack3" xCoord="550" yCoord="342" width="464" height="308" />
+		</item>
+		
+		<item id="homePath" type="path" value="http://soup.pbskids.org/electriccompany/dev/#/" />
+		<item id="loginPath"  type="path" value="http://pbskids.org/LOGIN" />
+		<item id="snd_ecBgMusic_HOME" src="mp3/bg_music/bg_loop.mp3" />
+		<item id="snd_ecBgMusic_PROFILES" src="mp3/bg_music/Theme_Loop1_new.mp3" />
+		<item id="snd_ecBgMusic_GAMES" src="mp3/bg_music/Human_Loop_new.mp3" />
+		<item id="snd_ecBgMusic_VIDEOS" src="mp3/bg_music/Skillz_Loop1.mp3" />
+		<item id="snd_ecBgMusic_BATTLE" src="mp3/bg_music/Theme_Loop2_new.mp3" />
+		<item id="snd_ecRollover" src="mp3/sfx/globalrollover.mp3" />
+		<item id="snd_ecOverlayChange" src="mp3/sfx/overlay_change.mp3" />
+		<item id="snd_ecOverlayHorizontal" src="mp3/sfx/Whoosh_mild.mp3" />
+		<item id="snd_ecOverlayVertical" src="mp3/sfx/machine.mp3" />
+		<item id="snd_ecSelection" src="mp3/sfx/selection.mp3" />
+		<item id="snd_ecVoltCounter" src="mp3/sfx/volt_scorecounter.mp3" />
+		<item id="snd_ecZapUnlocked" src="mp3/sfx/zap_bg_unlocked.mp3" />
+	</preloadItems>
+</ec>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ec>
+	<globals>
+		<!-- URLS -->
+		<global name="termsURL" value="javascript:popWindow('html/terms.html', 'legalWindow', 800, 600);" />
+		<!-- server paths -->
+		<global name="homePath" value="http://pbskids.org/electriccompany/" />
+		<global name="pranksterPath" value="http://pbskids.org/electriccompany/pranksterplanet/" />
+		<global name="loginPath" value="http://pbskids.org/LOGIN" />
+		<global name="loginHelpPath" value="http://pbskids.org/cgi-registry/authentication/forgot.pl" />
+		<global name="signupPath" value="http://pbskids.org/cgi-registry/authentication/signup.pl" />
+		<global name="logoutPath" value="http://pbskids.org/LOGOUT" />
+		<global name="manageUserPath" value="php/manageUser.php" />
+		<global name="platformURL" value="http://feeds.theplatform.com/ps/API/PortalService/2.2/" />
+		
+		<global name="imagePath" value="images/" />
+		<global name="videoPath" value="videos/" />
+		<global name="audioPath" value="mp3/" />
+		<global name="smashSwfPath" value="swf/smashups/Main.swf" />
+		<global name="smashPath" value="Videos/smashups" />
+		<global name="smashPathXml" value="smashups/challenges.xml" />
+		<global name="smashThumbPathXml" value="http://pbskids.org/electriccompany/php/smashups/ListMashups.php?username=" />
+		<global name="gamePath" value="swf/games/" />
+		<global name="magPath" value="games/magazine/electric_company_magazine_fall09.swf" />
+		<global name="gameAudioPath" value="mp3/games/" />
+		<global name="gameThumbPath" value="images/games/" />
+		<global name="userIconPath" value="images/user_icons/" />
+		<global name="userIconThumbPath" value="images/thumbs/user_icons/" />
+		<global name="userIconSmallPath" value="images/user_icons/small/" />
+		<global name="zapPath" value="images/zaps/" />
+		<global name="zapAudioPath" value="mp3/zaps/" />
+		<global name="castIconPath" value="images/cast/large/" />
+		<global name="castAboutMePath" value="images/cast/bio/" />
+		<global name="castIconThumbPath" value="images/thumbs/cast/" />
+		<global name="castIconHeadPath" value="images/cast/heads/" />
+		<global name="castLargePath" value="images/cast/large/" />
+		<global name="userBgPath" value="images/user_bgs/" />
+		<global name="userBgThumbPath" value="images/thumbs/user_bgs/" />
+		<global name="instructionsAudioPath" value="mp3/instructions/" />
+		<global name="pauseonsPath" value="mp3/pauseons/" />
+		<global name="videoStillsPath" value="images/video_stills/" />
+		<global name="castPrintoutThumbPath" value="images/thumbs/printouts/" />
+		<global name="castPrintoutPdfPath" value="pdfs/" />
+		<global name="shockThumbPath" value="images/games/shock/" />
+		<global name="calloutsPath" value="swf/callouts/" />
+		
+		<global name="shockUploadPath" value="php/shocks/upload.php" />
+		<global name="shockDownloadPath" value="php/shocks/download.php" />
+
+		<global name="sceneUploadPath" value="php/scenemaker/upload.php" />
+		<global name="sceneDownloadPath" value="php/scenemaker/download.php" />
+		<global name="sceneBgPath" value="images/scene_bgs/" />
+		
+		<global name="defaultPauseonVolume" value=".7" />
+		<global name="defaultInstructionVolume" value=".7" />
+		<global name="defaultZapVolume" value=".5" />
+		<global name="idleTimeout" value="15000" />
+		
+		<global name="defaultProfileVideo">
+			<clip id="default">
+				<title>Take the Pledge!</title>
+				<releaseId>kZZnV4mg3eXkWVX6y6IuU4JbfiA00lzt</releaseId>
+				<thumbnailPath>http://www.pbs.org/upload/theplatform/staging/http/images/kidsgo/elco_pledgesong.jpg</thumbnailPath>
+			</clip>
+		</global>
+		
+		<!-- global vars -->
+		<global name="tracking" value="true" />
+	</globals>
+</ec>

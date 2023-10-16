@@ -1,0 +1,84 @@
+{
+  "name": "Geometry monster",
+  "short_name": "Geometry monster",
+  "id": "com.gdevelop.geometrymonster",
+  "description": "",
+  "orientation": "portrait",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "de76f3bd7159ec0bf0a9f0e83480380321c6b96763fd695414b86ba483b3998b-monster-idle0.png",
+        "sizes": "20x20"
+      },{
+        "src": "de76f3bd7159ec0bf0a9f0e83480380321c6b96763fd695414b86ba483b3998b-monster-idle0.png",
+        "sizes": "29x29"
+      },{
+        "src": "de76f3bd7159ec0bf0a9f0e83480380321c6b96763fd695414b86ba483b3998b-monster-idle0.png",
+        "sizes": "36x36"
+      },{
+        "src": "de76f3bd7159ec0bf0a9f0e83480380321c6b96763fd695414b86ba483b3998b-monster-idle0.png",
+        "sizes": "40x40"
+      },{
+        "src": "de76f3bd7159ec0bf0a9f0e83480380321c6b96763fd695414b86ba483b3998b-monster-idle0.png",
+        "sizes": "48x48"
+      },{
+        "src": "de76f3bd7159ec0bf0a9f0e83480380321c6b96763fd695414b86ba483b3998b-monster-idle0.png",
+        "sizes": "50x50"
+      },{
+        "src": "de76f3bd7159ec0bf0a9f0e83480380321c6b96763fd695414b86ba483b3998b-monster-idle0.png",
+        "sizes": "57x57"
+      },{
+        "src": "de76f3bd7159ec0bf0a9f0e83480380321c6b96763fd695414b86ba483b3998b-monster-idle0.png",
+        "sizes": "58x58"
+      },{
+        "src": "de76f3bd7159ec0bf0a9f0e83480380321c6b96763fd695414b86ba483b3998b-monster-idle0.png",
+        "sizes": "60x60"
+      },{
+        "src": "de76f3bd7159ec0bf0a9f0e83480380321c6b96763fd695414b86ba483b3998b-monster-idle0.png",
+        "sizes": "72x72"
+      },{
+        "src": "de76f3bd7159ec0bf0a9f0e83480380321c6b96763fd695414b86ba483b3998b-monster-idle0.png",
+        "sizes": "76x76"
+      },{
+        "src": "de76f3bd7159ec0bf0a9f0e83480380321c6b96763fd695414b86ba483b3998b-monster-idle0.png",
+        "sizes": "80x80"
+      },{
+        "src": "de76f3bd7159ec0bf0a9f0e83480380321c6b96763fd695414b86ba483b3998b-monster-idle0.png",
+        "sizes": "87x87"
+      },{
+        "src": "de76f3bd7159ec0bf0a9f0e83480380321c6b96763fd695414b86ba483b3998b-monster-idle0.png",
+        "sizes": "96x96"
+      },{
+        "src": "de76f3bd7159ec0bf0a9f0e83480380321c6b96763fd695414b86ba483b3998b-monster-idle0.png",
+        "sizes": "100x100"
+      },{
+        "src": "de76f3bd7159ec0bf0a9f0e83480380321c6b96763fd695414b86ba483b3998b-monster-idle0.png",
+        "sizes": "114x114"
+      },{
+        "src": "de76f3bd7159ec0bf0a9f0e83480380321c6b96763fd695414b86ba483b3998b-monster-idle0.png",
+        "sizes": "120x120"
+      },{
+        "src": "de76f3bd7159ec0bf0a9f0e83480380321c6b96763fd695414b86ba483b3998b-monster-idle0.png",
+        "sizes": "144x144"
+      },{
+        "src": "de76f3bd7159ec0bf0a9f0e83480380321c6b96763fd695414b86ba483b3998b-monster-idle0.png",
+        "sizes": "152x152"
+      },{
+        "src": "de76f3bd7159ec0bf0a9f0e83480380321c6b96763fd695414b86ba483b3998b-monster-idle0.png",
+        "sizes": "167x167"
+      },{
+        "src": "de76f3bd7159ec0bf0a9f0e83480380321c6b96763fd695414b86ba483b3998b-monster-idle0.png",
+        "sizes": "180x180"
+      },{
+        "src": "de76f3bd7159ec0bf0a9f0e83480380321c6b96763fd695414b86ba483b3998b-monster-idle0.png",
+        "sizes": "192x192"
+      },{
+        "src": "de76f3bd7159ec0bf0a9f0e83480380321c6b96763fd695414b86ba483b3998b-monster-idle0.png",
+        "sizes": "512x512"
+      },{
+        "src": "de76f3bd7159ec0bf0a9f0e83480380321c6b96763fd695414b86ba483b3998b-monster-idle0.png",
+        "sizes": "1024x1024"
+      }]
+}

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<levels>
+	<level iNum="0" iTurns="90" pfTimebase="1.0" piWeebitGraphMax="40" piPlantGraphMax="40">
+		<intro>You have 90 days to grow the largest possible population. Good luck!</intro>
+		<conclusion level="0" threshold="0" dialog="levelend">Nice try but none of your weebits survived. Try again and make sure to place plants next to your weebits.</conclusion>
+		<conclusion level="1" threshold="1" dialog="levelend">Level 1 Weebit Apprentice - Not bad. You grew xxx weebits. You might want to try this level again to see if you can become a Weebit pro or master.</conclusion>
+		<conclusion level="2" threshold="10" dialog="levelend_1">Level 1 Weebit Pro - Nice work. You grew xxx weebits. This is a good score.  If you can grow yyy more weebits on this level, you could become a Weebit master!</conclusion>
+		<conclusion level="3" threshold="20" dialog="levelend_1">Level 1 Weebit Master - Great job. You grew xxx weebits - an outstanding score! You're ready to tackle Level 2 (but you can play this level again if you want).</conclusion>
+		<hint>Make sure to feed the weebits different plants. And give them as many high-nutrition plants as you can.</hint>
+		<weebit pfInitGrowth="10" piHappyDur="5" pfMoveCost=".1" pfMaintenance=".05" pfMaxGrowth="20" pfGrowthThreshold="15" pfMaxVitamins="20" pfVitaminThreshold="0" pfSickThreshold="7" pfPreferredTemp=".4" pfPreferredTempRange=".3" pfWander=".5" piPushingUpDaisies="6" />
+		<plantType psMember="plant1" piInitInPlanter="4" psName = "WeeBerry Bush" pfInitSize="5" pfMaxSize ="10" pfSustenance="1.0" pfVitamins=".5" pfBiteLoss=".22" pfGrowthRate="1.5" pfGerminationRate="15" piMaxInNursery="5" pfPreferredTemp=".4" pfPreferredTempRange=".2" pfPreferredMoisture=".5" pfPreferredMoistureRange=".4">Grows quickly but provides less energy. </plantType>
+		<plantType psMember="plant2" piInitInPlanter="3"  psName = "WeeDrangea" pfInitSize="3" pfMaxSize ="10" pfSustenance="3.0" pfVitamins="3" pfBiteLoss=".12" pfGrowthRate=".8" pfGerminationRate="15" piMaxInNursery="5" pfPreferredTemp=".4" pfPreferredTempRange=".2" pfPreferredMoisture=".5" pfPreferredMoistureRange=".4">Grows slowly but provides lots of energy.</plantType>
+		<plantType psMember="plant3" piInitInPlanter="3"  psName = "WeeRocanthus" pfInitSize="4" pfMaxSize ="10" pfSustenance="2" pfVitamins="5" pfBiteLoss=".17" pfGrowthRate="1.0" pfGerminationRate="15" piMaxInNursery="5" pfPreferredTemp=".4" pfPreferredTempRange=".2" pfPreferredMoisture=".5" pfPreferredMoistureRange=".4">Grows moderately fast and provides good energy. </plantType>
+		<weather pfStartingTemp="0.4" piRainLength="5" pfRainMod="2" pfStartingPrecipitation="2" pfStartingMoisture=".5" pfMoistureLevel=".5" pfLoss=".05" pfRainPerTurn=".15" />
+		<land>
+			<plant piRow="2" piCol="4" psMember="plant1" />
+			<plant piRow="3" piCol="17" psMember="plant2" />
+			<plant piRow="4" piCol="9" psMember="plant1" />
+			<plant piRow="9" piCol="13" psMember="plant1" />
+			<plant piRow="10" piCol="11" psMember="plant2" />
+			<plant piRow="6" piCol="6" psMember="plant1" />
+			<plant piRow="9" piCol="3" psMember="plant1" />
+			<plant piRow="10" piCol="10" psMember="plant3" />
+			<plant piRow="11" piCol="16" psMember="plant3" />
+			<rock piRow="3" piCol="4" psMember="rock1"  />
+			<rock piRow="10" piCol="9" psMember="rock1" />
+			<rock piRow="8" piCol="12" psMember="rock1" />
+		</land>
+	</level>
+	<level iNum="1" iTurns="180" pfTimebase=".7" piWeebitGraphMax="50" piPlantGraphMax="50">
+		<intro>Make sure the weebits are getting enough energy. Click on the Nursery button to see which plants are highest in energy. You have 180 days to grow your weebit population.</intro>
+		<conclusion level="0" threshold="0" dialog="levelend">Nice try but none of your weebits survived. Try again and make sure to place plants next to your weebits.</conclusion>
+		<conclusion level="1" threshold="1" dialog="levelend">Level 2 Weebit Apprentice - Not too shabby. You grew xxx weebits. You might want to try this level again to see if you can finish it as a Weebit pro or master.</conclusion>
+		<conclusion level="2" threshold="30" dialog="levelend_2">Level 2 Weebit Pro - Good score. You grew xxx weebits. Try to top your score and become a Weebit master or move on to level 3.</conclusion>
+		<conclusion level="3" threshold="50" dialog="levelend_2">Level 2 Weebit Master - Excellent! You grew xxx weebits and are ready to tackle level 3, the toughest challenge yet!</conclusion>
+		<hint>Set the rainfall slider to the middle and then try to find the best  setting.</hint>
+		<weebit pfInitGrowth="10" piHappyDur="5" pfMoveCost=".15" pfMaintenance=".2" pfMaxGrowth="20" pfGrowthThreshold="15" pfMaxVitamins="20" pfVitaminThreshold="0" pfSickThreshold="7" pfPreferredTemp=".4" pfPreferredTempRange=".3" pfWander=".5" piPushingUpDaisies="6" />
+		<plantType psMember="plant4" piInitInPlanter="3" psName = "Eeplix" pfInitSize="3" pfMaxSize ="10" pfSustenance=".6" pfVitamins="1" pfBiteLoss=".22" pfGrowthRate="1.3" pfGerminationRate="20" piMaxInNursery="3" pfPreferredTemp=".4" pfPreferredTempRange=".2" pfPreferredMoisture=".5" pfPreferredMoistureRange=".3">Grows quickly but provides less energy. </plantType>
+		<plantType psMember="plant5" piInitInPlanter="3"  psName = "Junimelon" pfInitSize="3" pfMaxSize ="10" pfSustenance="4" pfVitamins="3" pfBiteLoss=".12" pfGrowthRate=".6" pfGerminationRate="20" piMaxInNursery="3" pfPreferredTemp=".4" pfPreferredTempRange=".2" pfPreferredMoisture=".5" pfPreferredMoistureRange=".3">Grows slowly but provides lots of energy. </plantType>
+		<plantType psMember="plant6" piInitInPlanter="3"  psName = "Frooby" pfInitSize="3" pfMaxSize ="10" pfSustenance="2" pfVitamins="5" pfBiteLoss=".17" pfGrowthRate=".8" pfGerminationRate="20" piMaxInNursery="3" pfPreferredTemp=".4" pfPreferredTempRange=".2" pfPreferredMoisture=".5" pfPreferredMoistureRange=".3">Grows moderately fast and provides good energy.</plantType>
+		<weather pfStartingTemp=".4" piRainLength="3" pfRainMod="3" pfStartingPrecipitation="2" pfStartingMoisture=".5" pfMoistureLevel=".5" pfLoss=".05" pfRainPerTurn=".15" />
+		<land>
+			<plant piRow="2" piCol="4" psMember="plant4" />
+			<plant piRow="3" piCol="17" psMember="plant5" />
+			<plant piRow="4" piCol="9" psMember="plant5" />
+			<plant piRow="9" piCol="13" psMember="plant4" />
+			<plant piRow="10" piCol="11" psMember="plant6" />
+			<plant piRow="9" piCol="3" psMember="plant4" />
+			<plant piRow="10" piCol="10" psMember="plant5" />
+			<rock piRow="9" piCol="16" psMember="rock1" />
+			<rock piRow="12" piCol="5" psMember="rock1" />
+			<rock piRow="3" piCol="4" psMember="rock1"  />
+			<rock piRow="10" piCol="9" psMember="rock1" />
+			<rock piRow="8" piCol="12" psMember="rock1" />
+		</land>
+	</level>
+	<level iNum="2" iTurns="365" pfTimebase=".4" piWeebitGraphMax="90" piPlantGraphMax="90">
+		<intro>Raising weebits doesn't get easier, it gets harder. At this level, the weebits and plants grow slower and are more sensitive to rainfall. So you'll have to adjust the rainfall settings and select your plants carefully. You have one year to grow the largest group of weebits possible. Good luck!</intro>
+		<conclusion level="0" threshold="0" dialog="levelend">Nice try but none of your weebits survived. Try again and make sure to place plants next to your weebits.</conclusion>
+		<conclusion level="1" threshold="1" dialog="levelend">Level 3 Weebit Apprentice - Good effort. You grew xxx weebits.  Try again and see if you can become a pro or master.</conclusion>
+		<conclusion level="2" threshold="20" dialog="levelend">Level 3 Weebit Pro - Very impressive. You grew xxx weebits and are just yyy weebits away from being a Weebit Master at the highest level!</conclusion>
+		<conclusion level="3" threshold="40" dialog="levelend">Level 3 Weebit Master - Outstanding! You grew xxx weebits - a great score. You definitely know what you're doing!  Try again if you want to beat your own score.</conclusion>
+		<conclusion level="4" threshold="50" dialog="levelend">Chief Weebit Master - Way to go! This is one of the highest scores ever! You are truly a Weebit master.</conclusion>
+		<hint>Don't place your plants right next to weebits, or they will get eaten before they have a chance to grow.</hint>
+		<weebit pfInitGrowth="10" piHappyDur="5" pfMoveCost=".1" pfMaintenance=".25" pfMaxGrowth="20" pfGrowthThreshold="15" pfMaxVitamins="20" pfVitaminThreshold="0" pfSickThreshold="7" pfPreferredTemp=".5" pfPreferredTempRange=".2" pfWander=".5" piPushingUpDaisies="6" />
+		<plantType psMember="plant7" piInitInPlanter="2" psName = "Clactus" pfInitSize="3" pfMaxSize ="10" pfSustenance=".4" pfVitamins="1" pfBiteLoss=".22" pfGrowthRate="1.2" pfGerminationRate="25" piMaxInNursery="2" pfPreferredTemp=".4" pfPreferredTempRange=".2" pfPreferredMoisture=".3" pfPreferredMoistureRange=".3">Grows quickly, provides some energy. Prefers dry conditions (little rain).</plantType>
+		<plantType psMember="plant8" piInitInPlanter="2"  psName = "Pleasum" pfInitSize="3" pfMaxSize ="10" pfSustenance="3.0" pfVitamins="3" pfBiteLoss=".15" pfGrowthRate=".6" pfGerminationRate="25" piMaxInNursery="2" pfPreferredTemp=".4" pfPreferredTempRange=".2" pfPreferredMoisture=".7" pfPreferredMoistureRange=".3">Grows slowly but provides a lot of energy. Needs a lot of rain.</plantType>
+		<plantType psMember="plant9" piInitInPlanter="2"  psName = "Kippik" pfInitSize="3" pfMaxSize ="10" pfSustenance="2" pfVitamins="5" pfBiteLoss=".19" pfGrowthRate=".8" pfGerminationRate="25" piMaxInNursery="2" pfPreferredTemp=".4" pfPreferredTempRange=".2" pfPreferredMoisture=".5" pfPreferredMoistureRange=".3">Grows fairly well, provides some energy. Prefers a moderate amount of rain.</plantType>
+		<weather pfStartingTemp=".4" piRainLength="3" pfRainMod="3" pfStartingPrecipitation="1" pfStartingMoisture="0.3" pfMoistureLevel="0.0" pfLoss=".04" pfRainPerTurn=".15" />
+		<land>
+			<plant piRow="9" piCol="3" psMember="plant7" />
+			<plant piRow="10" piCol="10" psMember="plant8" />
+			<plant piRow="11" piCol="16" psMember="plant9" />
+			<rock piRow="9" piCol="4" psMember="rock1"  />
+			<rock piRow="12" piCol="9" psMember="rock1" />
+			<rock piRow="8" piCol="14" psMember="rock1" />
+			<rock piRow="3" piCol="4" psMember="rock1"  />
+			<rock piRow="14" piCol="9" psMember="rock1" />
+			<rock piRow="8" piCol="12" psMember="rock1" />
+		</land>
+	</level>
+</levels>

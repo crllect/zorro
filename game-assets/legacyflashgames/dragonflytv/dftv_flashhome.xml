@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<flashinfo>
+    <resourcedir>web_assets/home/</resourcedir>
+    <baseurl></baseurl>
+   <scenes>
+	<scene>
+		<image>s7_bone_regrowth1.jpg</image>
+		<header>WATCH: BONE REGROWTH</header>
+		<banner_text>THE SKELETON CREW!</banner_text>
+		<url>show/boneregrowth.html</url>
+		<icon>bodybrain</icon>
+	</scene>
+	<scene>
+		<image>s7_butterflywings.jpg</image>
+		<header>WATCH: BUTTERFLY WINGS</header>
+		<banner_text>WINGING IT!</banner_text>
+		<url>show/butterflywings.html</url>
+		<icon>livingthings</icon>
+	</scene>
+	<scene>
+		<image>s7_geckofeet1.jpg</image>
+		<header>WATCH: GECKO FEET</header>
+		<banner_text>CREATURE FEATURE</banner_text>
+		<url>show/geckofeet.html</url>
+		<icon>livingthings</icon>
+	</scene>
+	<scene>
+		<image>s7_boysonice.jpg</image>
+		<header>WATCH: HOCKEY STICKS</header>
+		<banner_text>TU-BE OR NOT TU-BE?</banner_text>
+		<url>show/hockeysticks.html</url>
+		<icon>mattermotion</icon>
+	</scene>
+	<scene>
+		<image>s7_iridescent_art.jpg</image>
+		<header>DO IT: IRIDESCENT ART</header>
+		<banner_text>COLOR YOUR WORLD!</banner_text>
+		<url>superdoit/iridescent_art.html</url>
+		<icon>mattermotion</icon>
+	</scene>
+	<scene>
+		<image>s7_socks.jpg</image>
+		<header>WATCH:  NANOSILVER</header>
+		<banner_text>SOCK IT TO ME!</banner_text>
+		<url>show/nanosilver.html</url>
+		<icon>techinvention</icon>
+	</scene>
+	<scene>
+		<image>s7_nasturtium_leaves.jpg</image>
+		<header>WATCH:  NASTURTIUM LEAVES</header>
+		<banner_text>BE-LEAF IT--OR NOT!</banner_text>
+		<url>show/nasturtiumleaves.html</url>
+		<icon>livingthings</icon>
+	</scene>
+	<scene>
+		<image>s7_dr_superfine.jpg</image>
+		<header>REAL SCIENTIST:  NANO ENGINEER</header>
+		<banner_text>IT'S DR. SUPERFINE!</banner_text>
+		<url>scientists/scientist63.html</url>
+		<icon>mattermotion</icon>
+	</scene>
+	<scene>
+		<image>s7_self_assembly.jpg</image>
+		<header>WATCH:  SELF-ASSEMBLY</header>
+		<banner_text>RIGHT TO ASSEMBLE</banner_text>
+		<url>show/selfassembly.html</url>
+		<icon>mattermotion</icon>
+	</scene>
+	<scene>
+		<image>s7_stainedglass1.jpg</image>
+		<header>WATCH:  STAINED GLASS</header>
+		<banner_text>YOUR TRUE COLORS!</banner_text>
+		<url>show/stainedglass.html</url>
+		<icon>mattermotion</icon>
+	</scene>
+	<scene>
+		<image>s7_cookies.jpg</image>
+		<header>WATCH:  SURFACE AREA</header>
+		<banner_text>SMART COOKIES!</banner_text>
+		<url>show/surfacearea.html</url>
+		<icon>mattermotion</icon>
+	</scene>
+	<scene>
+		<image>s7_wansproducts.jpg</image>
+		<header>WAIT A NANOSECOND:  PRODUCTS</header>
+		<banner_text>GO NANO--OR NOT?</banner_text>
+		<url>nano/wans_702.html</url>
+		<icon>techinvention</icon>
+	</scene>
+	<scene>
+		<image>s7_watercleanup.jpg</image>
+		<header>WATCH:  WATER CLEAN UP</header>
+		<banner_text>WELL WORTH IT!</banner_text>
+		<url>show/watercleanup.html</url>
+		<icon>earthspace</icon>
+	</scene>
+	<scene>
+		<image>s7_whatnano.jpg</image>
+		<header>WATCH:  WHAT'S NANO?</header>
+		<banner_text>EXTREME MEASURES!</banner_text>
+		<url>show/whatsnano.html</url>
+		<icon>mattermotion</icon>
+	</scene>
+	<scene>
+		<image>s7_wherenano.jpg</image>
+		<header>WATCH:  WHERE'S NANO?</header>
+		<banner_text>FINDING NANO!</banner_text>
+		<url>show/wheresnano.html</url>
+		<icon>techinvention</icon>
+	</scene>
+	</scenes>
+</flashinfo>

@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<data>
+
+<!-- psVisName = the text that appears when rolling over an icon
+     psThumbnailFileName = the filename of the graphic in the 'thumbnails' folder
+	 psLinkURL = the Web page link to open when the icon is clicked
+	 psShow = the show associated with the icon.  Acceptable values: 'Show1','Show2','Show3','Show4','Show5','Show6','Misc" 
+	 psType = the type associated with the icon.  Accepetable values: 'Shows','Episodes','RealScientists','HeyWaitANanosecond','ScienceMuseums','DoIt','GameActivity'
+	 psTopic = the topic associated with the icon.  Acceptable values: 'MatterAndMotion','TechnologyAndInnovation','LivingThings','BodyAndBrain','EarthAndSpace','GoingPlacesInScience'
+	 pbActive = show this icon or not?  if 'true', then the icon will appear normally, if 'false' then the icon will not be included -->
+
+<entry psVisName='Size & Scale' psThumbnailFileName='2_sizeandscale.jpg' psLinkURL='../nano/sizeandscale.html' psShow='Show1' psType='Shows' psTopic='MatterAndMotion' pbActive='true'/>
+
+<entry psVisName='Structure Matters' psThumbnailFileName='3_structurematters.jpg' psLinkURL='../nano/structurematters.html' psShow='Show2' psType='Shows' psTopic='MatterAndMotion' pbActive='true'/>
+
+<entry psVisName='Small is Different' psThumbnailFileName='4_smallisdifferent.jpg' psLinkURL='../nano/smallisdifferent.html' psShow='Show3' psType='Shows' psTopic='MatterAndMotion' pbActive='true'/>
+
+<entry psVisName='Dominant Forces' psThumbnailFileName='5_dominantforces.jpg' psLinkURL='../nano/dominantforces.html' psShow='Show4' psType='Shows' psTopic='LivingThings' pbActive='true'/>
+
+<entry psVisName='Applications' psThumbnailFileName='6_applications.jpg' psLinkURL='../nano/applications.html' psShow='Show5' psType='Shows' psTopic='TechnologyAndInnovation' pbActive='true'/>
+
+<entry psVisName='Nano and Society' psThumbnailFileName='7_nanoinsociety.jpg' psLinkURL='../nano/nanoinsociety.html' psShow='Show6' psType='Shows' psTopic='EarthAndSpace' pbActive='true'/>
+
+<entry psVisName='What&apos;s Nano?' psThumbnailFileName='8_whatsnano.jpg' psLinkURL='../show/whatsnano.html' psShow='Show1' psType='Episodes' psTopic='MatterAndMotion' pbActive='true'/>
+
+<entry psVisName='Where&apos;s Nano?' psThumbnailFileName='9_wheresnano.jpg' psLinkURL='../show/wheresnano.html' psShow='Show1' psType='Episodes' psTopic='TechnologyAndInnovation' pbActive='true'/>
+
+<entry psVisName='Hockey Sticks' psThumbnailFileName='10_hockeysticks.jpg' psLinkURL='../show/hockeysticks.html' psShow='Show2' psType='Episodes' psTopic='MatterAndMotion' pbActive='true'/>
+
+<entry psVisName='Butterfly Wings' psThumbnailFileName='11_butterflywings.jpg' psLinkURL='../show/butterflywings.html' psShow='Show2' psType='Episodes' psTopic='LivingThings' pbActive='true'/>
+
+<entry psVisName='Surface Area' psThumbnailFileName='12_surfacearea.jpg' psLinkURL='../show/surfacearea.html' psShow='Show3' psType='Episodes' psTopic='MatterAndMotion' pbActive='true'/>
+
+<entry psVisName='Stained Glass' psThumbnailFileName='13_stainedglass.jpg' psLinkURL='../show/stainedglass.html' psShow='Show3' psType='Episodes' psTopic='MatterAndMotion' pbActive='true'/>
+
+<entry psVisName='Gecko Feet' psThumbnailFileName='14_geckofeet.jpg' psLinkURL='../show/geckofeet.html' psShow='Show4' psType='Episodes' psTopic='LivingThings' pbActive='true'/>
+
+<entry psVisName='Nasturtium Leaves' psThumbnailFileName='15_nasturtiumleaves.jpg' psLinkURL='../show/nasturtiumleaves.html' psShow='Show4' psType='Episodes' psTopic='LivingThings' pbActive='true'/>
+
+<entry psVisName='Self-Assembly' psThumbnailFileName='16_selfassembly.jpg' psLinkURL='../show/selfassembly.html' psShow='Show5' psType='Episodes' psTopic='MatterAndMotion' pbActive='true'/>
+
+<entry psVisName='Bone Regrowth' psThumbnailFileName='17_boneregrowth.jpg' psLinkURL='../show/boneregrowth.html' psShow='Show5' psType='Episodes' psTopic='BodyAndBrain' pbActive='true'/>
+
+<entry psVisName='Water Clean Up' psThumbnailFileName='18_watercleanup.jpg' psLinkURL='../show/watercleanup.html' psShow='Show6' psType='Episodes' psTopic='EarthAndSpace' pbActive='true'/>
+
+<entry psVisName='Nanosilver' psThumbnailFileName='19_nanosilver.jpg' psLinkURL='../show/nanosilver.html' psShow='Show6' psType='Episodes' psTopic='TechnologyAndInnovation' pbActive='true'/>
+
+<entry psVisName='Rich Superfine, cilia scientist ' psThumbnailFileName='20_richsuperfine.jpg' psLinkURL='../scientists/scientist63.html' psShow='Show1' psType='RealScientists' psTopic='BodyAndBrain' pbActive='true'/>
+
+<entry psVisName='Lesley Hamming, glue-ologist ' psThumbnailFileName='21_lesleyhamming.jpg' psLinkURL='../scientists/scientist64.html' psShow='Show2' psType='RealScientists' psTopic='LivingThings' pbActive='true'/>
+
+<entry psVisName='Christy Haynes, nanoparticle safety scientist' psThumbnailFileName='22_christyhaynes.jpg' psLinkURL='../scientists/scientist65.html' psShow='Show3' psType='RealScientists' psTopic='BodyAndBrain' pbActive='true'/>
+
+<entry psVisName='Jason Guerrero, nanocar engineer' psThumbnailFileName='23_jasonguerrero.jpg' psLinkURL='../scientists/scientist66.html' psShow='Show4' psType='RealScientists' psTopic='TechnologyAndInnovation' pbActive='true'/>
+
+<entry psVisName='Tejal Desai, bioengineer' psThumbnailFileName='24_tejaldesai.jpg' psLinkURL='../scientists/scientist67.html' psShow='Show5' psType='RealScientists' psTopic='BodyAndBrain' pbActive='true'/>
+
+<entry psVisName='Anil Netravali, skateboard scientist' psThumbnailFileName='25_anilnetravali.jpg' psLinkURL='../scientists/scientist68.html' psShow='Show6' psType='RealScientists' psTopic='EarthAndSpace' pbActive='true'/>
+
+<entry psVisName='Kids on nano- technology' psThumbnailFileName='26_kidsonnanotechnology.jpg' psLinkURL='../nano/wans_701.html' psShow='Show1' psType='HeyWaitANanosecond' psTopic='TechnologyAndInnovation' pbActive='true'/>
+
+<entry psVisName='Kids on nanoproducts' psThumbnailFileName='27_kidsonnanoproducts.jpg' psLinkURL='../nano/wans_702.html' psShow='Show2' psType='HeyWaitANanosecond' psTopic='TechnologyAndInnovation' pbActive='true'/>
+
+<entry psVisName='Kids on nanosafety' psThumbnailFileName='28_kidsonnanosafety.jpg' psLinkURL='../nano/wans_703.html' psShow='Show3' psType='HeyWaitANanosecond' psTopic='BodyAndBrain' pbActive='true'/>
+
+<entry psVisName='Kids on studying nano' psThumbnailFileName='29_kidsoninvestigatingnano.jpg' psLinkURL='../nano/wans_704.html' psShow='Show4' psType='HeyWaitANanosecond' psTopic='MatterAndMotion' pbActive='true'/>
+
+<entry psVisName='Kids on nanoresearch' psThumbnailFileName='30_kidsonnanoresearch.jpg' psLinkURL='../nano/wans_705.html' psShow='Show5' psType='HeyWaitANanosecond' psTopic='TechnologyAndInnovation' pbActive='true'/>
+
+<entry psVisName='Kids on nano in society' psThumbnailFileName='31_kidsonnanoinsociety.jpg' psLinkURL='../nano/wans_706.html' psShow='Show6' psType='HeyWaitANanosecond' psTopic='TechnologyAndInnovation' pbActive='true'/>
+
+<entry psVisName='Museum of Science' psThumbnailFileName='32_museumofscience.jpg' psLinkURL='../nano/museumofscience.html' psShow='Show1' psType='ScienceMuseums' psTopic='GoingPlacesInScience' pbActive='true'/>
+
+<entry psVisName='Morehead Planetarium and Science Center' psThumbnailFileName='33_moreheadplanetarium.jpg' psLinkURL='../nano/moreheadplanetarium.html' psShow='Show1' psType='ScienceMuseums' psTopic='GoingPlacesInScience' pbActive='true'/>
+
+<entry psVisName='Museum of Science ' psThumbnailFileName='34_museumofscience.jpg' psLinkURL='../nano/museumofscience.html' psShow='Show2' psType='ScienceMuseums' psTopic='GoingPlacesInScience' pbActive='true'/>
+
+<entry psVisName='Museum of Life and Science' psThumbnailFileName='35_museumoflifeandscience.jpg' psLinkURL='../gps/north_carolina_museum_life.html' psShow='Show2' psType='ScienceMuseums' psTopic='GoingPlacesInScience' pbActive='true'/>
+
+<entry psVisName='Science Museum of Minnesota' psThumbnailFileName='36_sciencemuseumofminnesota.jpg' psLinkURL='../gps/sci_museum_minnesota.html' psShow='Show3' psType='ScienceMuseums' psTopic='GoingPlacesInScience' pbActive='true'/>
+
+<entry psVisName='Museum of Science and Industry' psThumbnailFileName='37_museumofscienceandindustry.jpg' psLinkURL='../nano/msi_chicago.html' psShow='Show3' psType='ScienceMuseums' psTopic='GoingPlacesInScience' pbActive='true'/>
+
+<entry psVisName='Lawrence Hall of Science ' psThumbnailFileName='38_lawrencehallofscience.jpg' psLinkURL='../gps/lawrence_hall.html' psShow='Show4' psType='ScienceMuseums' psTopic='GoingPlacesInScience' pbActive='true'/>
+
+<entry psVisName='Exploratorium' psThumbnailFileName='39_exploratorium.jpg' psLinkURL='../gps/exploratorium.html' psShow='Show4' psType='ScienceMuseums' psTopic='GoingPlacesInScience' pbActive='true'/>
+
+<entry psVisName='Children&apos;s Museum of Houston' psThumbnailFileName='40_childrensmuseumofhouston.jpg' psLinkURL='../nano/cmhouston.html' psShow='Show5' psType='ScienceMuseums' psTopic='GoingPlacesInScience' pbActive='true'/>
+
+<entry psVisName='Oregon Museum of Science and Industry' psThumbnailFileName='41_oregonmuseumofscienceandindustry.jpg' psLinkURL='../nano/omsi.html' psShow='Show5' psType='ScienceMuseums' psTopic='GoingPlacesInScience' pbActive='true'/>
+
+<entry psVisName='The Franklin Institute ' psThumbnailFileName='42_franklininstitute.jpg' psLinkURL='../nano/fi.html' psShow='Show6' psType='ScienceMuseums' psTopic='GoingPlacesInScience' pbActive='true'/>
+
+<entry psVisName='Sciencenter' psThumbnailFileName='43_sciencecenter.jpg' psLinkURL='../nano/sciencenter.html' psShow='Show6' psType='ScienceMuseums' psTopic='GoingPlacesInScience' pbActive='true'/>
+
+<entry psVisName='Nanodetector' psThumbnailFileName='44_nanodetector.jpg' psLinkURL='../superdoit/nanodetector.html' psShow='Show1' psType='DoIt' psTopic='MatterAndMotion' pbActive='true'/>
+
+<entry psVisName='Iridescent Art' psThumbnailFileName='45_iridescentart.jpg' psLinkURL='../superdoit/iridescent_art.html' psShow='Show2' psType='DoIt' psTopic='MatterAndMotion' pbActive='true'/>
+
+<entry psVisName='Reaction Race' psThumbnailFileName='46_reactionrace.jpg' psLinkURL='../superdoit/reaction_race.html' psShow='Show3' psType='DoIt' psTopic='MatterAndMotion' pbActive='true'/>
+
+<entry psVisName='Paperclip Challenge' psThumbnailFileName='47_paperclipchallenge.jpg' psLinkURL='../superdoit/paperclip_challenge.html' psShow='Show4' psType='DoIt' psTopic='EarthAndSpace' pbActive='true'/>
+
+<entry psVisName='Bone Basics' psThumbnailFileName='48_bonebasics.jpg' psLinkURL='../superdoit/bone_basics.html' psShow='Show5' psType='DoIt' psTopic='BodyAndBrain' pbActive='true'/>
+
+<entry psVisName='Moving Molecules' psThumbnailFileName='49_movingmolecules.jpg' psLinkURL='../superdoit/moving_molecules.html' psShow='Show6' psType='DoIt' psTopic='MatterAndMotion' pbActive='true'/>
+
+<entry psVisName='Nano T-shirt' psThumbnailFileName='50_nanotshirt.jpg' psLinkURL='../nano/tshirt.html' psShow='Misc' psType='GameActivity' psTopic='BodyAndBrain' pbActive='true'/>
+
+<entry psVisName='Buckyball Challenge' psThumbnailFileName='51_buckyball.jpg' psLinkURL='../nano/buckyball.html' psShow='Misc' psType='GameActivity' psTopic='MatterAndMotion' pbActive='true'/>
+
+<entry psVisName='Nanobots Game' psThumbnailFileName='52_nanobots.jpg' psLinkURL='../games/game_nano.html' psShow='Misc' psType='GameActivity' psTopic='MatterAndMotion' pbActive='true'/>
+
+<entry psVisName='Nano Music Video' psThumbnailFileName='53_nanomusicvideo.jpg' psLinkURL='../nano/musicvideo.html' psShow='Misc' psType='GameActivity' psTopic='MatterAndMotion' pbActive='true'/>
+
+<entry psVisName='Nano Music Video 2' psThumbnailFileName='54_nanomusicvideo2.jpg' psLinkURL='../nano/musicvideo2.html' psShow='Misc' psType='GameActivity' psTopic='TechnologyAndInnovation' pbActive='true'/>
+
+
+
+</data>

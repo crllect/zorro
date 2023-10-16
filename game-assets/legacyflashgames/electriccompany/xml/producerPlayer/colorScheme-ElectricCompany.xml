@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<colorschemes>
+    <player>
+        <backgroundColor>0x000000</backgroundColor><!--video background color-->
+
+        <frameColor>0x000000</frameColor><!--Video Frame Color-->
+
+        <controlColor>0x00ABDF</controlColor><!--Icon colors-->
+
+        <controlBackgroundColor>0xFFFFFF</controlBackgroundColor><!--volume & scrubber background color-->
+
+        <controlFrameColor>0xFFFFFF</controlFrameColor><!--Control Button Color-->
+
+        <controlHighlightColor>0x00ABDF</controlHighlightColor><!--on hover state control select color-->
+
+        <controlHoverColor>0x000000</controlHoverColor><!--on hover state control color-->
+
+        <controlSelectedColor>0x00ABDF</controlSelectedColor><!--onClick control select color-->
+
+        <loadProgressColor>0x00ABDF</loadProgressColor><!--Loading Progress Color-->
+
+        <pageBackgroundColor>0x00ABDF</pageBackgroundColor><!--pageBackground Color-->
+
+        <playProgressColor>0x00ABDF</playProgressColor><!--play progress color-->
+
+        <scrubberColor>0x00ABDF</scrubberColor><!--scrubber color-->
+
+        <scrubberFrameColor>0x00ABDF</scrubberFrameColor><!--frame around the scrubber-->
+
+        <scrubTrackColor>0x00ABDF</scrubTrackColor><!--scrubber track color-->
+
+        <textBackgroundColor>0x00ABDF</textBackgroundColor><!--color over text background color-->
+
+        <textColor>0xffffff</textColor><!--text color-->
+		
+		<subtitlesBackgroundColor>0x00ABDF</subtitlesBackgroundColor>
+    </player>
+
+    <releaseList>
+        <backgroundColor>0xFFFFFF</backgroundColor>
+        
+		<frameColor>0x000000</frameColor>
+        
+		<itemBackgroundColor>0xFFFFFF</itemBackgroundColor>
+        
+		<itemBackground2Color>0xFFFFFF</itemBackground2Color>
+        
+		<itemBackgroundHoverColor>0xEEEEEE</itemBackgroundHoverColor>
+
+        
+		<itemBackgroundSelectedColor>0xffffff</itemBackgroundSelectedColor>
+        
+		<itemFrameColor>0xFFFFFF</itemFrameColor>
+        
+		<!--<itemShineHoverColor>0xffffff</itemShineHoverColor>
+        
+		<itemShineSelectedColor>0xffffff</itemShineSelectedColor>-->
+        
+		<textColor>0x000000</textColor>
+        
+		<text2Color>0x000000</text2Color>
+        
+		<textFrameColor>0xFFFFFF</textFrameColor>
+
+        
+		<!--<textHighlightHoverColor>0x7CABD7</textHighlightHoverColor>
+        
+		<textHighlightSelectedColor>0x7CABD7</textHighlightSelectedColor>-->
+        
+		<textHoverColor>0x00ABDF</textHoverColor>
+        
+		<textSelectedColor>0x00ABDF</textSelectedColor>
+        
+		<thumbnailFrameColor>0x000000</thumbnailFrameColor>
+        
+		<scrollButtonColor>0xFFFFFF</scrollButtonColor>
+			  
+        <scrollIconColor>0xFFFFFF</scrollIconColor>
+
+              
+		<scrollThumbColor>0xFFFFFF</scrollThumbColor>
+              
+		<scrollTrackColor>0x00ABDF</scrollTrackColor>
+              
+		<scrollTrackFrameColor>0xFFFFFF</scrollTrackFrameColor>
+    </releaseList>
+</colorschemes>

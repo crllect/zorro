@@ -1,0 +1,1319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="http://pbskids.org/dragonflytv/rss/rss.xsl"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+<itunes:new-feed-url>http://www.pbskids.org/dragonflytv/rss/DragonFlyTV_rss.xml</itunes:new-feed-url>
+<ttl>60</ttl>
+<title>DragonflyTV . Podcast | PBS KIDS GO!</title>
+<link> http://pbskidsgo.org/dragonflytv </link>
+<copyright>&#xA9; 2006 PBS KIDS GO!</copyright>
+<itunes:subtitle>Real kids doing real science.</itunes:subtitle>
+
+<itunes:author>PBS KIDS GO!</itunes:author>
+<itunes:summary>DragonflyTV, the PBS KIDS GO! show that is all about real kids doing real science, taps ordinary kids doing extraordinary investigations, and showcases them in fast moving video with wall-to-wall music. Presented weekly, DragonflyTV Video Podcasts are created by Twin Cities Public Television and offered free of charge. To help support our efforts, please donate online at tpt.org. Find out more about DragonflyTV at http://pbskidsgo.org/dragonflytv
+
+</itunes:summary>
+<itunes:owner>
+<itunes:name>PBS KIDS GO!</itunes:name>
+<itunes:email>webmaster@tpt.org</itunes:email>
+</itunes:owner>
+<itunes:explicit>No</itunes:explicit>
+<itunes:image href="http://pbskids.org/dragonflytv/DragonflyTV_logo.jpg" />
+<itunes:category text="Science &amp; Medicine" > 
+<itunes:category text="Natural Sciences" />
+</itunes:category>
+<itunes:category text="Education">
+
+<itunes:category text="K-12" />
+</itunes:category>
+<itunes:category text="Kids &amp; Family" />
+<itunes:keywords>science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!, Television, Public Broadcasting, Video, Podcast, Video Podcast, TV, PBS, dragonfly, dragonfly TV </itunes:keywords>
+<description>DragonflyTV, the PBS KIDS GO! show that is all about real kids doing real science, taps ordinary kids doing extraordinary investigations, and showcases them in fast moving video with wall-to-wall music. Presented weekly, DragonflyTV Video Podcasts are created by Twin Cities Public Television and offered free of charge. To help support our efforts, please donate online at tpt.org. Find out more about DragonflyTV at http://pbskidsgo.org/dragonflytv
+
+</description>
+<language> en-us </language>
+<pubDate> Tue, 27 Dec 2005 10:15:00 -0600 </pubDate>
+<lastBuildDate>Tue, 7 Aug 2007 09:57:01 -0600</lastBuildDate>
+<docs> http://pbskids.org/dragonflytv/rss/</docs>
+
+<webMaster> webmaster@tpt.org </webMaster>
+<item>
+<title>DragonflyTV . Podcast - Rivers | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/rivers.html</link>
+<description>We&apos;re Margaret and Elizabeth, and we&apos;re hitting the links...at the Science Museum of Minnesota! Our local science museum actually has a mini-golf course that was designed so kids can learn about rivers while putting. As we played on this specialized course, our minds wandered from holes-in-one to how real rivers work. Our DragonflyTV question: What do rivers do to the land?</description>
+<pubDate>Mon, 29 Jan 2007 16:30:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/rivers.html</guid>
+
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Rivers.m4v" length="19337" type="video/x-h264"></enclosure>
+<itunes:duration>9:09</itunes:duration>
+<itunes:keywords>rivers, erosion, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Ski Jumping | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/skijumping.html</link>
+<description>We were born to ski jump. Our dads, grandpas and uncles did it, too. But when we check out old movies of them jumping, those guys used some crazy styles! We want to find out: Which ski jump positions work best, our moves or the old-school ways?</description>
+<pubDate>Mon, 29 Jan 2007 16:30:00 -0600</pubDate>
+
+<guid>http://kids.pbs.org/dragonflytv/show/skijumping.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Ski_Jumping.m4v" length="17820" type="video/x-h264"></enclosure>
+<itunes:duration>8:21</itunes:duration>
+<itunes:keywords>skiing, jumping, ski jumping, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Perception | PBS Kids Go!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/perception.html</link>
+<description>We think that the human brain is the most fascinating &quot;machine&quot; of all. We&apos;re especially curious about what humans remember when their minds are focused on conversations or activities. Our question: How well can people pay attention to two things at once?</description>
+
+<pubDate>Mon, 29 Jan 2007 16:30:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/perception.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Perception.m4v" length="15605" type="video/x-h264"></enclosure>
+<itunes:duration>7:22</itunes:duration>
+<itunes:keywords>perception, brain, remember, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Glo Germ | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/glogerm.html</link>
+
+<description>As the weather gets colder, kids seem to share a lot more germs. As busy scientists, we don&apos;t have time to get sick. Our DFTV question: how can we avoid spreading germs and viruses to our friends and families? Does it make a difference whether we sneeze into our hands or into our elbows?</description>
+<pubDate>Mon, 29 Jan 2007 16:30:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/glogerm.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Glo_Germ.m4v" length="11213" type="video/x-h264"></enclosure>
+<itunes:duration>5:11</itunes:duration>
+<itunes:keywords>Germs, sneezing, colds, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Prairie Dog Calls | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+
+<link>http://kids.pbs.org/dragonflytv/show/prairiedogcalls.html</link>
+<description>We visit the zoo a lot. One of the funniest exhibits is the prairie dogs. They&apos;re always busy yipping and yapping, but we wondered if they just make noise or if they are communicating. Our DragonflyTV question was: Do prairie dogs make different kinds of barks?</description>
+<pubDate>Mon, 29 Jan 2007 16:30:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/prairiedogcalls.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Prairie_Dog_Calls.m4v" length="10861" type="video/x-h264"></enclosure>
+<itunes:duration>5:10</itunes:duration>
+<itunes:keywords>otters, captivity,wild, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Pet Therapy | PBS KIDS GO!</title>
+
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/pet_therapy.html</link>
+<description>I&apos;m Jeff, and I&apos;m wild about animals. From my own experience with cancer, I know that pets always make me smile, even on my toughest days. Now my sister Jenny and I want to know if pets can help other kids. Can holding a furry friend help lessen pain for kids who have to have a painful medical procedure?</description>
+<pubDate>Mon, 29 Jan 2007 16:30:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/pet_therapy.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Pet_Therapy.m4v" length="13248" type="video/x-h264"></enclosure>
+<itunes:duration>6:15</itunes:duration>
+<itunes:keywords>pets, therapy, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+
+</item>
+<item>
+<title>DragonflyTV . Podcast - Otters | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/otters.html</link>
+<description>We&apos;re animal lovers who are always on the lookout to learn more about our furry friends. We went to the Monterey Bay Aquarium to visit some of the otters and after some observation, we wondered if captive otters behave differently from wild ones. Our question: Do otters groom more in captivity or in the wilderness?</description>
+<pubDate>Fri, 19 Jan 2007 16:30:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/otters.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Otters.m4v" length="17718" type="video/x-h264"></enclosure>
+<itunes:duration>8:10</itunes:duration>
+
+<itunes:keywords>otters, captivity,wild, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Paragliding | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/paragliding.html</link>
+<description>We live in Aspen, Colorado, and we are learning to paraglide. We know that the key to a great ride is to find thermals. Thermals are bubbles of rising air that lift the paraglider back up into the sky. Our question: Where are the strongest thermals?</description>
+<pubDate>Fri, 19 Jan 2007 16:30:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/paragliding.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Paragliding.m4v" length="12951" type="video/x-h264"></enclosure>
+
+<itunes:duration>6:09</itunes:duration>
+<itunes:keywords>paragliding, thermals, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Double Dutch | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/doubledutch.html</link>
+<description>We&apos;re Francesca, Precious, and Marnicka, and we&apos;re jumping for joy whenever anyone mentions Double Dutch. Double Dutch jump roping dates back to the 1600&apos;s, and uses two ropes instead of one. Special moves like the washing machine, the mamba, and pop-ups make Double Dutch cool, and competitions keep things interesting! One of the most important things in Double Dutch is to sense the rope&apos;s beat. Although you can both hear and see the ropes, it&apos;s easy to get distracted by the music, lights, or other kids at a competition. This got us thinking: Does hearing or seeing the ropes have a bigger effect on our performance, or are both these senses equally important?</description>
+
+<pubDate>Wed, 17 Jan 2007 15:00:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/doubledutch.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Double_Dutch.m4v" length="18120" type="video/x-h264"></enclosure>
+<itunes:duration>8:24</itunes:duration>
+<itunes:keywords>double dutch, jump, rope, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Moon Craters | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/mooncraters.html</link>
+
+<description>We&apos;re crazy about astronomy! We&apos;ve even made our own telescopes. We were looking at the moon one night and noticed just how many craters there are on the moon. We could even see differences in the various craters, which got us thinking: How do craters form?</description>
+<pubDate>Tue, 16 Jan 2007 14:30:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/mooncraters.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Moon_Craters.m4v" length="11470" type="video/x-h264"></enclosure>
+<itunes:duration>5:41</itunes:duration>
+<itunes:keywords>moon, craters, telescope, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Model Rockets | PBS KIDS GO!</title>
+
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/modelrockets.html</link>
+<description>Blast off into space! Until we get our chance to travel in space, we build and fly model rockets here on Earth. We&apos;re designing a rocket to compete in a model rocket festival in Amarillo, Texas. Our question is: How can we design a rocket that reaches 1,600 feet?</description>
+<pubDate>Tue, 16 Jan 2007 14:30:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/modelrockets.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Model_Rockets.m4v" length="20450" type="video/x-h264"></enclosure>
+<itunes:duration>9:59</itunes:duration>
+<itunes:keywords>model rockets, altitude, rockets, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+
+<item>
+<title>DragonflyTV . Podcast - Makeup | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/makeup.html</link>
+<description>We&apos;re Jazi and Danielle, and we made up our minds to make some makeup! We took a cool chemistry class where we learned about what makes cosmetics look, smell, and feel good. We created a formula for lip gloss and lotion, and shared our beautiful results with our friends. But our curiousity didn&apos;t end when the class did; we want to make our products even better! Our DragonflyTV question: How can we create even better lip gloss and lotion formulas?</description>
+<pubDate>Tue, 16 Jan 2007 14:30:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/makeup.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Lip_Gloss.m4v" length="11240" type="video/x-h264"></enclosure>
+<itunes:duration>5:27</itunes:duration>
+
+<itunes:keywords>lip gloss, makeup, perfume, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Lift Off | PBS Kids Go!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/liftoff.html</link>
+<description>We&apos;ve all been to NASA&apos;s Space Camp. Back home, we entered a rocket-building contest where the challenge was to build a rocket with devices attached that could measure or detect other planets&apos; environments. Our question: How can we make good sensors for our rocket?</description>
+<pubDate>Tue, 16 Jan 2007 14:30:00 -0600</pubDate>
+
+<guid>http://kids.pbs.org/dragonflytv/show/liftoff.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Lift_Off.m4v" length="10100" type="video/x-h264"></enclosure>
+<itunes:duration>5:12</itunes:duration>
+<itunes:keywords>NASA, space, rockets, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Ice Skating | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/iceskating.html</link>
+<description>We&apos;re good friends and our favorite activity is figure skating. Even though we&apos;ve been competing for years, our heads still get jumbled during spins. So, we wanted to figure out what makes us the most dizzy: How we hold our heads when we spin or where we look?</description>
+
+<pubDate>Tue, 16 Jan 2007 14:30:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/iceskating.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Ice_Skating.m4v" length="13450" type="video/x-h264"></enclosure>
+<itunes:duration>6:28</itunes:duration>
+<itunes:keywords>ice skating, spinning, dizzy, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - F-Scale | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/fscale.html</link>
+
+<description>We watched a news report on the destruction caused by a tornado in Siren, Wisconsin. This report made us curious about how tornado experts study tornado damage. We asked permission from Siren city officials to visit the town and examine the evidence. Our question: How do you determine the strength of a tornado?</description>
+<pubDate>Fri, 05 Jan 2007 15:30:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/fscale.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/F_Scale.m4v" length="12840" type="video/x-h264"></enclosure>
+<itunes:duration>6:16</itunes:duration>
+<itunes:keywords>tornado,stength,f-scale, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Kart Racing | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+
+<link>http://kids.pbs.org/dragonflytv/show/kartracing.html</link>
+<description>We like to beat the boys on the racetrack. In fact, we call our team &quot;Beat the Boys!&quot; Our races are on different tracks with different conditions, so we have to adjust our karts before each race. The gears are the main thing we change. Each gear has a different number of teeth and each gear changes the way it drives. So the question is: Which gear gives us the best performance?</description>
+<pubDate>Tue, 16 Jan 2007 14:30:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/kartracing.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Kart_Racing.m4v" length="11930" type="video/x-h264"></enclosure>
+<itunes:duration>5:45</itunes:duration>
+<itunes:keywords>kart, racing, gears, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+
+<item>
+<title>DragonflyTV . Podcast - Hip Hop Dancing | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/hiphopmix.html</link>
+<description>We&apos;ve been taking dance lessons for years. We&apos;ve noticed that some tunes are easier to dance to than others and we guessed that it has something to do with a song&apos;s tempo. Tempo is measured in beats-per-minute (BPM). Our DragonflyTV question was: How does the BPM of hip hop music affect the way a dancer dances?</description>
+<pubDate>Fri, 05 Jan 2007 15:30:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/hiphopmix.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Hip_Hop_Dancing.m4v" length="12230" type="video/x-h264"></enclosure>
+
+<itunes:duration>5:54</itunes:duration>
+<itunes:keywords>hip hop, dancing, bmp, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Extreme Sounds | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/extremesounds.html</link>
+<description>We live in one of the world&apos;s noisiest cities, New York City. There&apos;s so much going on here that it&apos;s hard to hear yourself think. Our DragonflyTV question was: Are the sounds of the city as loud as we think they are?</description>
+
+<pubDate>Fri, 05 Jan 2007 15:30:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/extremesounds.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Extreme_Sounds.m4v" length="11500" type="video/x-h264"></enclosure>
+<itunes:duration>5:25</itunes:duration>
+<itunes:keywords>Extreme, Sounds, NYC,science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Hovercraft | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/hovercraft.html</link>
+
+<description>Who doesn&apos;t love to rise above it all? We&apos;re into engineering, so we built our own hovercraft. But it didn&apos;t work very well on grass. Our question: How can we optimize our design to create the best air film?</description>
+<pubDate>Fri, 05 Jan 2007 15:30:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/hovercraft.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Hovercraft.m4v" length="12580" type="video/x-h264"></enclosure>
+<itunes:duration>6:12</itunes:duration>
+<itunes:keywords>hovercraft, engineering, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Coral Reef | PBS KIDS GO!</title>
+
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/rov.html</link>
+<description>We want to get to the bottom of things. Especially the ocean! We built an ROV, which stands for Remotely Operated Vehicle. We control it from above and it goes way down into the ocean. When we heard that some of the Florida Keys&apos; coral was diseased, damaged and beginning to die, we wanted to learn more. What can our ROV tell us about the health of a coral reef?</description>
+<pubDate>Fri, 15 Dec 2006 16:30:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/rov.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/coral_reef.m4v" length="12910" type="video/x-h264"></enclosure>
+<itunes:duration>6:18</itunes:duration>
+<itunes:keywords>ROV, coral, ocean, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+
+</item>
+<item>
+<title>DragonflyTV . Podcast - Fencing | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/fencing.html</link>
+<description>En garde! We are Paula and Alyssa, and we love fencing. Some people think fencing&apos;s old fashioned, but it's got to have something going for it, because it&apos;s been around over three thousand years! In modern fencing, electronic sensors tell you when a hit is scored, so accuracy is key. Since we&apos;re always trying to improve our fencing strategies, we asked: What effect does the force of attack have on accuracy?</description>
+<pubDate>Fri, 05 Jan 2007 15:30:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/fencing.html</guid>
+
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Fencing.m4v" length="16930" type="video/x-h264"></enclosure>
+<itunes:duration>8:04</itunes:duration>
+<itunes:keywords>fencing, en garde, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Martial Arts | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/taekwondo.html</link>
+<description>We are black belts in Tae Kwon Do. And with an upcoming competition, we wanted to figure out how to improve our kicks. So we asked: What makes a strong kick?</description>
+<pubDate>Fri, 01 Dec 2006 16:30:00 -0600</pubDate>
+
+<guid>http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Martial_Arts.m4v" length="14480" type="video/x-h264"></enclosure>
+<itunes:duration>7:03</itunes:duration>
+<itunes:keywords>Martial Arts. Tae Kwon Do, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Caves | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/caves.html</link>
+<description>We love to plan mysterious adventures in our home state of California, and what is more mysterious than a deep, dark, rocky cave? We explored the California Cavern to answer this DFTV question: how do cave formations change as we explore the deepest parts of the cavern?</description>
+
+<pubDate>Mon, 11 Dec 2006 15:30:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/caves.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Caves.m4v" length="12850" type="video/x-h264"></enclosure>
+<itunes:duration>6:32</itunes:duration>
+<itunes:keywords>Caves, spelunking, cavern, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Basketball | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/basketball.html</link>
+
+<description>We are into hoops big time, whether it is one-on-one, three-on-three, in the gym or on the asphalt. We were working on our jump shots, and noticed that kids younger than us shoot from their chin, but kids older than us do overhead shots. We wondered what the difference was between the two shots. Our DFTV question: At the start of a jump shot, how does your hand position affect your overall shooting?</description>
+<pubDate>Mon, 11 Dec 2006 15:30:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/basketball.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Basketball.m4v" length="12300" type="video/x-h264"></enclosure>
+<itunes:duration>5:48</itunes:duration>
+<itunes:keywords>basketball, hoops, jump shot, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Baby Animals | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+
+<link>http://kids.pbs.org/dragonflytv/show/babyanimals.html</link>
+<description>It does not matter if animals are furry or feathered, we are wild about all of them! We went to the zoo last spring and noticed a bunch of new baby animals. We knew they would not stay little for long and wondered which animal would grow the fastest: a calf, a chick or a piglet?</description>
+<pubDate>Mon, 11 Dec 2006 15:30:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/babyanimals.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Baby_Animals.m4v" length="12670" type="video/x-h264"></enclosure>
+<itunes:duration>6:03</itunes:duration>
+<itunes:keywords>baby, animals, growth, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Diving | PBS KIDS GO!</title>
+
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/diving.html</link>
+<description>We are Jaq and Niki, and we always make a splash with our favorite sport: diving! Actually, just the opposite is true; we try NOT to make waves. Since competitive divers are judged on form and entry into the water, less splash is better. So let&apos;s dive into our DragonflyTV question: How should we dive to reduce splash and achieve higher scores?</description>
+<pubDate>Fri, 15 Dec 2006 16:30:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/diving.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Diving.m4v" length="15820" type="video/x-h264"></enclosure>
+<itunes:duration>7:45</itunes:duration>
+<itunes:keywords>diving, splash, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+
+<item>
+<title>DragonflyTV . Podcast - Cheetahs | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/cheetahs.html</link>
+<description>DragonflyTV has gone global! We are Mickey and Caroline, and we are at the Cheetah Conservation Fund, located in Otjiwarongo, Namibia. We are working with Dr. Laurie Marker, who told us that the Fund protects cheetahs that were either orphaned when their mothers were killed or captured by farmers to protect their herds. We wanted to learn even more about how these big cats and how they thrive in their natural habitat, so we asked the DragonflyTV question: What time of day is best for cheetahs to hunt their prey, and why?</description>
+<pubDate>Fri, 15 Dec 2006 16:30:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/cheetahs.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Cheetahs.m4v" length="19250" type="video/x-h264"></enclosure>
+<itunes:duration>9:25</itunes:duration>
+<itunes:keywords>cheetahs, prey, namibia, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+
+</item>
+<item>
+<title>DragonflyTV . Podcast - Sled Dogs | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/sled_dogs.html</link>
+<description>We live in Minnesota, and our whole family raises and races sled dogs. We race 4-dog, 6-dog, and 12-dog teams. Selecting the dogs to make up a team is a tricky process, because the dogs don&apos;t just have to run fast, they have to get along as a team. We are trying to put together a new team of four dogs, and we want to know: can we use dog respiration rate as a way to match dogs up in a team?</description>
+<pubDate>Fri, 01 Dec 2006 16:00:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/sled_dogs.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Sled_Dogs.m4v" length="17670" type="video/x-h264"></enclosure>
+<itunes:duration>8:40</itunes:duration>
+
+<itunes:keywords>Sled, Dogs, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Circus Stunts | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/show/circus_stunts.html</link>
+<description>We&apos;re students at Circus Juventas, a circus arts school in St. Paul, Minnesota. I guess you could say that our lives really ARE a three-ring circus! One of our hardest performances is the tightrope. Sometimes we carry a balancing pole. Sometimes we use no pole at all. Our question is: How does a pole help you balance on the high wire and how long does that pole have to be?</description>
+<pubDate>Fri, 18 Aug 2006 15:30:00 -0600</pubDate>
+<guid>http://pbskids.org/dragonflytv/show/circus_stunts.html</guid>
+
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/circus_stunts.m4v" length="11431" type="video/x-h264"></enclosure>
+<itunes:duration>4:06</itunes:duration>
+<itunes:keywords>Circus, balance, tight rope, pole, high wire, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Turtle Babies | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/turtles.html</link>
+<description>We swim in the slow lane because we love turtles! We work with researchers from the Marine Life Center. They study the habits of three endangered turtles - the leatherback, green sea, and loggerhead turtle. All of these turtles lay their eggs on our beach, so we wanted to know how many loggerhead babies make it from their nest to the water?</description>
+<pubDate>Fri, 09 Feb 2007 14:00:00 -0600</pubDate>
+
+<guid>http://kids.pbs.org/dragonflytv/show/turtles.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Turtle_Babies.m4v" length="15027" type="video/x-h264"></enclosure>
+<itunes:duration>5:32</itunes:duration>
+<itunes:keywords>turtles, loggerhead, leatherback, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Sand Dunes | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/sand_dunes.html</link>
+<description>It&apos;s an ocean of sand here at the Guadalupe-Nipomo Sand Dunes. Just like us, sand dunes come in different shapes and sizes. One of the coolest differences between sand dunes is the plants that grow on them, but we didn&apos;t understand why some dunes are full of plants and others aren&apos;t. So we decided to investigate for ourselves!</description>
+
+<pubDate>Mon, 29 Jan 2007 16:30:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/sand_dunes.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Sand_Dunes.m4v" length="13193" type="video/x-h264"></enclosure>
+<itunes:duration>6:04</itunes:duration>
+<itunes:keywords>sand, dunes, plants, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Ice Bike | PBS Kids Go!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/icebike.html</link>
+
+<description>We are Bob and Brennan, and we are into a very cool, very slick sport: ice biking! Our school holds an annual ice bike race, and goal is to design and build the winning bike. We know we want to modify one of last year&apos;s top models by adding studs to the tires. The studs will give us traction, kind of like cleats do on shoes. Our DragonflyTV question is: How many studs should we add for maximum speed on ice?</description>
+<pubDate>Fri, 01 Dec 2006 16:30:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/icebike.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Ice_Bike.m4v" length="17180" type="video/x-h264"></enclosure>
+<itunes:duration>8:07</itunes:duration>
+<itunes:keywords>ice bike, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Robot War | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+
+<link>http://pbskids.org/dragonflytv/show/robotwar.html</link>
+<description>I build robots that battle against other bots. One of my first bots was TurboGnome. It faired well in its matches, but my last competitor defeated TurboGnome pretty badly. I wondered: How could I build and design a robot that had a more effective weapon?</description>
+<pubDate>Fri, 25 Aug 2006 11:30:00 -0600</pubDate>
+<guid>http://pbskids.org/dragonflytv/show/robotwar.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Robot_War.m4v" length="18120" type="video/x-h264"></enclosure>
+<itunes:duration>6:40</itunes:duration>
+<itunes:keywords>Robot War, Robots, Robotics, bots, weapons, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Skateboarding | PBS KIDS GO!</title>
+
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/skateboarding.html</link>
+<description>We love to go vertical when we ride our skateboards. We wanted to get the greatest performance out of our boards and wondered if choosing the right wheels makes a difference. Our question: How does wheel size affect our skateboarding performance?</description>
+<pubDate>Fri, 01 Sep 2006 11:30:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/skateboarding.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Skateboarding.m4v" length="16100" type="video/x-h264"></enclosure>
+<itunes:duration>5:50</itunes:duration>
+<itunes:keywords>skateboard,wheels, performance, shredding, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+
+<title>DragonflyTV . Podcast - Hot Air Balloons | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/balloon.html</link>
+<description>We&apos;re fascinated by the grace and speed of colorful, gigantic hot air balloons. To learn more about these massive beauties, we went to the Snowmass Hot Air Balloon Festival in Colorado. We were wondering how something bigger than a house can lift off the ground. Our question: How does hot air lift things?</description>
+<pubDate>Fri, 08 Sep 2006 10:30:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/balloon.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Hot_Air_Balloon.M4V" length="17713" type="video/x-h264"></enclosure>
+<itunes:duration>6:16</itunes:duration>
+<itunes:keywords>hot air, hot air balloons, snowmass, lift, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+
+</item>
+<item>
+<title>DragonflyTV . Podcast - Solar Cars | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/solarcar.html</link>
+<description>We live in sunny California. We know that people are using the sun to provide energy to businesses and homes. Isaac even has a toy solar car. Our question: How does the sun's position in the sky affect a solar car&apos;s performance?</description>
+<pubDate>Mon, 18 Sep 2006 12:30:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/solarcar.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Solar_Car.m4v" length="13750" type="video/x-h264"></enclosure>
+<itunes:duration>5:03</itunes:duration>
+
+<itunes:keywords>sun, solar. solar power, cars, solar car, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Tigers and Otters | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/tigersandotters.html</link>
+<description>Hi! Chelsea and Camille here, checking out the fur, feathers, and fun at our local zoo. We love animals, and we like to make them feel as happy as possible. One way to accomplish this is through &quot;zoo enrichment.&quot; Zoo enrichment involves giving animals interesting objects, and making their environments seem like home. Good enrichment stimulates the animals to use their natural skills and behaviors, and keeps them from getting bored. So when we decided to design an enrichment for tigers and otters, we wondered: How do zoo keepers know what items or surroundings to give an animal, and what if the animal ignores the enrichment?</description>
+<pubDate>Fri, 09 Feb 2007 14:00:00 -0600</pubDate>
+
+<guid>http://kids.pbs.org/dragonflytv/show/tigersandotters.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Tigers_and_Otters.m4v" length="29234" type="video/x-h264"></enclosure>
+<itunes:duration>10:22</itunes:duration>
+<itunes:keywords>tigers, otters, enrichment, stimulate, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Paragliding | PBS Kids Go!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/paragliding.html</link>
+<description>We live in Aspen, Colorado, and we are learning to paraglide. We know that the key to a great ride is to find thermals. Thermals are bubbles of rising air that lift the paraglider back up into the sky. Our question: Where are the strongest thermals?</description>
+
+<pubDate>Fri, 13 Oct 2006 13:30:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/paragliding.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Paragliding.m4v" length="13740" type="video/x-h264"></enclosure>
+<itunes:duration>6:04</itunes:duration>
+<itunes:keywords>Paragliding, thermals, air, rising, glider, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Midway Games | PBS Kids Go!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/midwaygames.html</link>
+
+<description>We head to the Minnesota State Fair every summer. We check out the animals, eat lots of snacks and try to go on every ride possible. We play all the games, but we never seem to win. How can we win at those carnival games?</description>
+<pubDate>Mon, 23 Oct 2006 14:30:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/midwaygames.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Midway_Games.m4v" length="16651" type="video/x-h264"></enclosure>
+<itunes:duration>5:54</itunes:duration>
+<itunes:keywords>games, midway, fair, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Trebuchet | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+
+<link>http://kids.pbs.org/dragonflytv/show/trebuchet.html</link>
+<description>We&apos;re Angus and Jonathon, and we&apos;re into really old-school stuff: medieval history! When we&apos;re not building castles, playing joust, or reading about knights, we&apos;re engineering stuff. Our most recent invention is called a trebuchet, a slingshot-like tool dating back to medieval days that is useful for transporting materials (translation: flinging stuff) long distances. We want to throw out this DragonflyTV question: What trebuchet design will allow us to throw things the farthest?</description>
+<pubDate>Fri, 09 Feb 2007 14:00:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/trebuchet.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Trebuchet.m4v" length="17885" type="video/x-h264"></enclosure>
+<itunes:duration>8:27</itunes:duration>
+<itunes:keywords>trebuchet, medieval, knights, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+
+</item>
+<item>
+<title>DragonflyTV . Podcast - Surfing | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/surfing.html</link>
+<description>I love to surf. And why not, I live in San Diego where there&apos;s 70 miles of coastline. But when it comes to catching a great wave, sometimes I just end up catching sun. My question: Where are the best waves?</description>
+<pubDate>Fri, 09 Feb 2007 14:00:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/surfing.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Surfing.m4v" length="9596" type="video/x-h264"></enclosure>
+<itunes:duration>4:28</itunes:duration>
+
+<itunes:keywords>surfing, waves, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Sunscreen | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/sunscreen.html</link>
+<description>In Southern California, we can&apos;t help but catch rays! We&apos;re outside a lot, so we slather on the sunscreen. With all of the SPF (Sun Protection Factor) numbers available, we want to know: What SPF lotion really works best at keeping out the sun&apos;s harmful UV rays?</description>
+<pubDate>Fri, 09 Feb 2007 14:00:00 -0600</pubDate>
+
+<guid>http://kids.pbs.org/dragonflytv/show/sunscreen.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Sunscreen.m4v" length="10857" type="video/x-h264"></enclosure>
+<itunes:duration>5:08</itunes:duration>
+<itunes:keywords>sun, rays, SPF, sunscreen, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Snakes | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/snakes.html</link>
+<description>We&apos;ve been handling snakes and reptiles our whole lives. One thing you learn with snake handling is to wash your hands before you pick them up because they have a super strong sense of smell. They smell with their tongues, so if you had something for lunch, the snake will flick its tongue and smell it on you. That got us thinking: Can you tell what food a snake craves by its tongue flicks?</description>
+
+<pubDate>Fri, 09 Feb 2007 14:00:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/snakes.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Snakes.m4v" length="11588" type="video/x-h264"></enclosure>
+<itunes:duration>5:29</itunes:duration>
+<itunes:keywords>snakes,smell,tongue, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Forecasting | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/index.html</link>
+
+<description>We wondered how people predicted the weather in the days before Doppler radar and computers. We&apos;ve heard folklore about &quot;homemade&quot; or natural ways of predicting the weather and we were curious if some of those tales were actually true. Our question: Can you use folklore to predict the weather?</description>
+<pubDate>Tue, 13 Mar 2007 10:00:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/forecasting.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Forecasting.m4v" length="10535" type="video/x-h264"></enclosure>
+<itunes:duration>4:59</itunes:duration>
+<itunes:keywords>forecasting, weather, prediction, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+
+<title>DragonflyTV . Podcast - Robot Contest | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/index.html</link>
+<description>I build robots that battle against other bots. One of my first bots was TurboGnome. It faired well in its matches, but my last competitor defeated TurboGnome pretty badly. I wondered: How could I build and design a robot that had a more effective weapon?</description>
+<pubDate>Tue, 13 Mar 2007 10:00:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/robotwar.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Robot_Contest.m4v" length="17709" type="video/x-h264"></enclosure>
+<itunes:duration>8:04</itunes:duration>
+<itunes:keywords>robots, contest, robot war, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+
+</item>
+<item>
+<title>DragonflyTV . Podcast - Volleyball | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/index.html</link>
+<description>We&apos;re Brittney and Maggie, and whether we&apos;re bumping, setting, or spiking, volleyball is our favorite game. Like any team activity, communication really helps. Sharing information and cheering on our teammates guides and motivates our teammates during this lightening-fast game. But how much is too much? Our DragonflyTV query is this: Is talking on the court helpful or just plain distracting?</description>
+<pubDate>Tue, 13 Mar 2007 10:00:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/volleyball.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Volleyball.m4v" length="17645" type="video/x-h264"></enclosure>
+
+<itunes:duration>8:18</itunes:duration>
+<itunes:keywords>volleyaball, distractions, motivation, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Curling | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/index.html</link>
+<description>We&apos;re Mimi, Haley, Tara, and Lauren, and when we talk about curling, we don&apos;t mean hair! Curling, our favorite sport, is a sport in which you slide four heavy rocks down an icy surface at the center of a target. The team with the rock closest to the target&apos;s center scores a point. When we release the rock, we give it a little bit of spin, so it curves a little, or &quot;curls.&quot; This got us thinking: How does the spin we put on the rocks affect where it goes?</description>
+
+<pubDate>Fri, 23 Mar 2007 15:30:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/curling.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Curling.m4v" length="20333" type="video/x-h264"></enclosure>
+<itunes:duration>9:33</itunes:duration>
+<itunes:keywords>curling, sports, stones, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Wolves | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/wolves.html</link>
+
+<description>We&apos;re Zachary and Gerit, and we&apos;re NOT afraid of the big, bad wolf! In fact, we love pack animals so much that we volunteer at our local wildlife science center. By helping out with chores and feeding, we&apos;ve learned that wolves have strong family bonds. Although all pack members have special and important roles, each pack has an Alpha male who acts as the leader. As we spent more time with the science center&apos;s wolves, we started wondering: Which wolf is the pack&apos;s Alpha?</description>
+<pubDate>Fri, 30 Mar 2007 16:30:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/wolves.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Wolves.m4v" length="15684" type="video/x-h264"></enclosure>
+<itunes:duration>7:29</itunes:duration>
+<itunes:keywords>wolves, packs, alpha, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+
+<item>
+<title>DragonflyTV . Podcast - Rock Climbing | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/rockclimbing.html</link>
+<description>We&apos;re rock climbers who love to scale cliffs in Aspen, Colorado. We know that some formations are easier to climb than others and we wondered if knowing more about the kinds of rock we were climbing could improve our technique. So, our DragonflyTV question is: How do different rock types affect our climbing?</description>
+<pubDate>Fri, 06 Apr 2007 15:30:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/rockclimbing.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Rock_Climbing.m4v" length="15163" type="video/x-h264"></enclosure>
+<itunes:duration>7:11</itunes:duration>
+
+<itunes:keywords>Rock Climbing, rocks, scaling, cliffs, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - California Fish | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/californiafish.html</link>
+<description>We&apos;re Milan and Harison, and we love going to the ocean. We like to learn about the animals that live off the coast of Los Angeles, and a great place to do that is the Long Beach Aquarium of the Pacific. Our favorite exhibit there is the shark and ray pool. You can see them up close, and even touch them. We think it&apos;s interesting to watch a ray eat, with its mouth on the underside of its body. We got to wondering: How does a fish&apos;s mouth type affect what it eats?</description>
+<pubDate>Fri, 20 Apr 2007 16:30:00 -0600</pubDate>
+
+<guid>http://kids.pbs.org/dragonflytv/show/californiafish.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/California Fish.m4v" length="18647" type="video/x-h264"></enclosure>
+<itunes:duration>7:47</itunes:duration>
+<itunes:keywords>shark, sting ray, fish, eating, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Motocross | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/motocross.html</link>
+<description>We love the thrill of a breathtaking motocross jump and wanted to learn more about nailing a safe landing. We noticed that experienced racers try to land jumps with both wheels. Our question: How does my body position affect my jumps?</description>
+
+<pubDate>Mon, 14 May 2007 09:30:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/motocross.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Motocross.m4v" length="16039" type="video/x-h264"></enclosure>
+<itunes:duration>7:22</itunes:duration>
+<itunes:keywords>motocross, jumps, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - GPS vs Compass | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/show/gps_compass.html</link>
+
+<description>One of my favorite things to do is hike in the Santa Monica Mountains. Because nobody likes the idea of getting lost, I always prepare before every trek. But what&apos;s the better navigation tool, a Global Positioning System (GPS) or a good old map and compass?</description>
+<pubDate>Fri, 01 Jun 2007 15:30:00 -0600</pubDate>
+<guid>http://pbskids.org/dragonflytv/show/gps_compass.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/GPS_vs_Compass.m4v" length="21327" type="video/x-h264"></enclosure>
+<itunes:duration>9:54</itunes:duration>
+<itunes:keywords>GPS, Compass, map, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Tornado Model | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+
+<link>http://pbskids.org/dragonflytv/show/tornados.html</link>
+<description>We&apos;re fascinated by tornados. Since studying real ones is dangerous, we decided to build our own tornado model to learn more about how these violent storms form. Our question: which is more important in forming a tornado, a sidewind or an updraft?</description>
+<pubDate>Fri, 29 Jun 2007 12:00:00 -0600</pubDate>
+<guid>http://pbskids.org/dragonflytv/show/tornados.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Tornado_Model.m4v" length="16160" type="video/x-h264"></enclosure>
+<itunes:duration>5:53</itunes:duration>
+<itunes:keywords>Tornado, model, updraft, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Waterskiing | PBS KIDS GO!</title>
+
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/show/waterskiing.html</link>
+<description>We ride the waves all summer long on wakeboards, water skis, and on bare feet. But, performing a good trick isn&apos;t just skill. It also depends on our driver pulling us at the right speed. How do different boat speeds affect our waterskiing tricks?</description>
+<pubDate>Fri, 29 Jun 2007 12:00:00 -0600</pubDate>
+<guid>http://pbskids.org/dragonflytv/show/waterskiing.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Waterskiing.m4v" length="13800" type="video/x-h264"></enclosure>
+<itunes:duration>6:17</itunes:duration>
+<itunes:keywords>Waterskiing, water ski, wakeboard, speed, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+
+<item>
+<title>DragonflyTV . Podcast - Taste Test | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/show/tastetest.html</link>
+<description>We love to eat! But we disagree about what flavor is our favorite. We noticed that if you have a cold, food doesn&apos;t taste the same. We wondered why having a stuffy nose affects your sense of taste. Our question: What does your nose have to do with how things taste?</description>
+<pubDate>Fri, 29 Jun 2007 12:00:00 -0600</pubDate>
+<guid>http://pbskids.org/dragonflytv/show/tastetest.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Taste_Test.m4v" length="15940" type="video/x-h264"></enclosure>
+<itunes:duration>7:08</itunes:duration>
+
+<itunes:keywords>taste, sense, differences, food, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Mountain Bike | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/show/mountainbike.html</link>
+<description>We bike on some of the wildest rock formations in the country. It&apos;s all sandstone here in Moab, Utah, but the trails feel different when we're biking. Sometimes it&apos;s rolling hills and sometimes it&apos;s ledges and dropoffs. No two trails are quite the same; each one challenges us in a different way. We want to know why these trails are so different!</description>
+<pubDate>Fri, 29 Jun 2007 12:00:00 -0600</pubDate>
+
+<guid>http://pbskids.org/dragonflytv/show/mountainbike.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Mountain_Bike.m4v" length="15800" type="video/x-h264"></enclosure>
+<itunes:duration>7:28</itunes:duration>
+<itunes:keywords>bike, mountain, trail, Utah, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Horse Ears | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/horse_ears.html</link>
+<description>We&apos;re Ting and Mallory, and we&apos;re all about horsing around! We&apos;ve heard that our equine friends actually communicate with their ears, and we wanted to find out whether putting on fake horse ears will allow us to talk to the animals!</description>
+
+<pubDate>Fri, 13 Jul 2007 12:00:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/horse_ears.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Horse_Ears.m4v" length="23377" type="video/x-h264"></enclosure>
+<itunes:duration>8:23</itunes:duration>
+<itunes:keywords>Horse, ears, communication, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Kites | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/kites.html</link>
+
+<description>Kites are colorful and graceful, but they&apos;re also fierce competitors. We love to enter kite-flying contests, and we&apos;re serious about winning. Our question is: How does our kite&apos;s shape affect its performance? Which kite lets us maneuver our way to victory?</description>
+<pubDate>Fri, 13 Jul 2007 12:00:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/kites.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Kites.m4v" length="24693" type="video/x-h264"></enclosure>
+<itunes:duration>8:55</itunes:duration>
+<itunes:keywords>Kites, competition, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Wind Tunnel | PBS KIDS GO!</title>
+
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/show/windtunnel.html</link>
+<description>I love auto racing. One thing I&apos;ve learned about the sport is that most race cars are tested in wind tunnels, so I made one for my science fair project! Then I put a bunch of my car models in it to see how aerodynamic they were. My question: Which vehicle shape is the most aerodynamic?</description>
+<pubDate>Fri, 13 Jul 2007 12:00:00 -0600</pubDate>
+<guid>http://pbskids.org/dragonflytv/show/windtunnel.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Wind_Tunnel.m4v" length="16700" type="video/x-h264"></enclosure>
+<itunes:duration>6:21</itunes:duration> 
+<itunes:keywords>wind tunnel, auto racing, aerodynamics, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+
+<item>
+<title>DragonflyTV . Podcast - Roller Coaster | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/rollercoasterdesign.html</link>
+<description>We&apos;re Tyler and Aditya and we&apos;re roller coaster maniacs! We especially love steep hills, sharp turns, and crazy loop-de-loops. But we couldn&apos;t agree on which of these things makes a ride the most exciting. Here&apos;s our question: Where do you feel the most g&apos;s on a roller coaster?</description>
+<pubDate>Mon, 04 May 2009 20:00:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/rollercoasterdesign.html</guid>
+
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Roller_Coaster.m4v" length="18461" type="video/x-h264"></enclosure>
+<itunes:duration>8:38</itunes:duration>
+<itunes:keywords>Roller Coaster, g force, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Bogs | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/show/bogs.html</link>
+<description>We&apos;re Maya and Amy! We heard about a cool traveling exhibit at Pittsburgh&apos;s Carnegie Museum of Natural History called The Mysterious Bog People. The bog people are actually mummies! The exhibit shows you how things can be preserved in a bog, but we also learned that not everything is preserved in a bog.</description>
+
+<guid>http://pbskids.org/dragonflytv/show/bogs.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/bogs.m4v" length="103137" type="video/x-h264"></enclosure>
+<itunes:duration>8:27</itunes:duration>
+<itunes:keywords>bogs, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Baseball | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/show/baseball.html</link>
+<description>We&apos;re Reed and Nick and baseball is our game! We&apos;ve heard our coach use the term &quot;sweet spot&quot; when we&apos;re at bat. That&apos;s when a player hits the ball at just the right spot on the bat-and whoosh!-the ball goes really, really far. Since we each use different kinds of bats, we wondered: is the sweet spot on an aluminum bat the same as the sweet spot on a wood bat?</description>
+
+<pubDate>Mon, 04 May 2009 20:00:00 -0600</pubDate>
+<guid>http://pbskids.org/dragonflytv/show/baseball.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Baseball.m4v" length="19568" type="video/x-h264"></enclosure>
+<itunes:duration>8:26</itunes:duration>
+<itunes:keywords>baseball, sweat spot, aluminum, bat, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Dinosaurs | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/dinosaurs.html</link>
+
+<description>We&apos;re Ashley and Brandy, and we live in Texas where some of the biggest dinosaurs on Earth once lived. But we&apos;re more interested in TINY fossils because they tell the rest of the story about life on Earth millions of years ago. These microfossils are things like teeth, jawbones, and other small bones from animals including crocodiles, fish, and even mammals. Our question: What kinds of creatures lived alongside the big dinosaurs in Texas?</description>
+<pubDate>Tue, 05 May 2009 16:30:00 -0600</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/dinosaurs.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Dinosaurs.m4v" length="17578" type="video/x-h264"></enclosure>
+<itunes:duration>8:31</itunes:duration>
+<itunes:keywords>dinosaurs. fossils, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Fish Population | PBS Kids Go!</title>
+
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/fishpopulation.html</link>
+<description>Hey, something is fishy up here in Northern Minnesota! We are members of the Ojibwe Nation, and we want to keep the lakes and rivers on White Earth Reservation stocked and healthy. Our question: Is the fish population in our local lake increasing, decreasing or staying the same?</description>
+<pubDate>Tue, 05 May 2009 16:30:00</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/fishpopulation.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Fish_Population.m4v" length="13826" type="video/x-h264"></enclosure>
+<itunes:duration>4:58</itunes:duration>
+<itunes:keywords>Fish, Population, Fish Population, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+
+<title>DragonflyTV . Podcast - Sailing | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/sailing.html</link>
+<description>Whether traveling the New York Harbor in a speedy skiff, or floating model boats in Central Park, we love to sail. While sailing our toy boats in the pond, we noticed that our boats seem to travel faster in some directions than in others. Our question: What is the fastest sailing direction and why?</description>
+<pubDate>Tue, 05 May 2009 16:30:00</pubDate>
+<guid>http://pbskids.org/dragonflytv/show/sailing.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Sailing.m4v" length="21513" type="video/x-h264"></enclosure>
+<itunes:duration>7:46</itunes:duration>
+<itunes:keywords>Sailing, boats, Central Park, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+
+</item>
+<item>
+<title>DragonflyTV . Podcast - Music and Sound | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/musicandsound.html</link>
+<description>Maxine and Hannah here! We caught the Omni theater movie &quot;STOMP: Worldbeat&quot; at the Science Museum of Minnesota. STOMP is a musical group that finds rhythm everywhere. They make music with anything and everything from drumming barrels to sweeping brooms. STOMP not only had us tapping our feet, they inspired an important science question. We&apos;re curious: How can we make our own musical instruments from simple objects?</description>
+<pubDate>Tue, 05 May 2009 16:30:00</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/musicandsound.html</guid>
+
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Music_and_Sound.m4v" length="14176" type="video/x-h264"></enclosure>
+<itunes:duration>6:50</itunes:duration>
+<itunes:keywords>music, sound, stomp, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Body Electricity | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/show/bodyelectricity.html</link>
+<description>I&apos;m Rylee. My friend Kristin and I went to The Bakken Museum in Minneapolis. This place focuses on electricity and the human body. It&apos;s of special interest to me, because I use a myoelectric prosthetic arm.</description>
+
+<guid>http://pbskids.org/dragonflytv/show/bodyelectricity.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Body_Electricity.m4v" length="58890" type="video/x-h264"></enclosure>
+<itunes:duration>4:56</itunes:duration>
+<itunes:keywords>body electricity, prosthetic, electricity, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Animal Scent | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/show/animalscents.html</link>
+<description>We&apos;re Paige and Nick. A recent trip to the Animal Grossology exhibit at the Science Museum of Minnesota really got us thinking about how animals use scent for a lot of different purposes-to identify each other, find a mate, mark their territory, and defend themselves.</description>
+
+<pubDate>Tue, 05 May 2009 16:30:00</pubDate>
+<guid>http://pbskids.org/dragonflytv/show/animalscents.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/animalscent.m4v" length="82268" type="video/x-h264"></enclosure>
+<itunes:duration>6:42</itunes:duration>
+<itunes:keywords>animals, scents, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Luge | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/show/luge.html</link>
+
+<description>We&apos;re Emily and Jenn, and when winter comes, we don't just go sledding, we LUGE! Luge is one of the fastest sports on ice. We're always looking to improve our race time. We started thinking more about how to improve when we visited the New York Hall of Science.</description>
+<pubDate>Tue, 05 May 2009 16:30:00</pubDate>
+<guid>http://pbskids.org/dragonflytv/show/luge.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/luge.m4v" length="16556" type="video/x-h264"></enclosure>
+<itunes:duration>8:18</itunes:duration>
+<itunes:keywords>luge, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Biodiversity | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+
+<link>http://pbskids.org/dragonflytv/show/biodiversity.html</link>
+<description>We&apos;re Jessica and Stanley, and we&apos;re exploring the African rainforest on our home turf in New York City! We went to the Bronx Zoo, where they have animals and plants just like those in the African Congo. We&apos;d heard how many different kinds of animals and plants live in the rainforest (that&apos;s called biodiversity), so we wanted to see for ourselves how that could be.</description>
+<pubDate>Tue, 05 May 2009 16:30:00</pubDate>
+<guid>http://pbskids.org/dragonflytv/show/biodiversity.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/biodiversity.m4v" length="102881" type="video/x-h264"></enclosure>
+<itunes:duration>8:26</itunes:duration>
+<itunes:keywords>biodiversity, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+
+</item>
+<item>
+<title>DragonflyTV . Podcast - Doghouse | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/index.html</link>
+<description>We&apos;re Anna and Alex, and our dog, Rupert, needs a cool place to hang out when it&apos;s hot. We live in Arizona, so it gets really hot in summer. We can&apos;t buy an air conditioner for Rupert&apos;s doghouse, so we wondered what else we could do to keep it cool. We found some answers at the Arizona Science Center. How can we build a doghouse to keep Rupert cool?</description>
+<pubDate>Tue, 05 May 2009 16:30:00</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/doghouse.html</guid>
+
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Doghouse.m4v" length="17587" type="video/x-h264"></enclosure>
+<itunes:duration>8:22</itunes:duration>
+<itunes:keywords>doghouse, air condition, cool, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Cactus | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/show/cactus.html</link>
+<description>We&apos;re Mark and Alex, and we&apos;re junior docents at the Arizona - Sonora Desert Museum. We do presentations for museum visitors about the plants and animals you can see here, especially the saguaro cactus. One visitor asked a question about the holes that are visible in the arms of the cactus: Do the holes in a saguaro cactus always face the same direction?</description>
+
+<pubDate>Tue, 05 May 2009 16:30:00</pubDate>
+<guid>http://pbskids.org/dragonflytv/show/cactus.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Cactus.m4v" length="16430" type="video/x-h264"></enclosure>
+<itunes:duration>7:46</itunes:duration>
+<itunes:keywords>cactus, Arizona, saguaro, Sonora Desert, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Earthquakes | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/earthquakes.html</link>
+
+<description>We&apos;re Claire and Nisha, and we live in a place where earthquakes are NOT science fiction! We live in San Francisco, where you can really feel the earth move under your feet. The last big quake here was in 1989, before we were born. We wondered if we could learn about how the earth moves in an earthquake by looking around the city. Our question: How does the earth move when there&apos;s an earthquake?</description>
+<pubDate>Tue, 05 May 2009 16:30:00</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/earthquakes.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Earthquakes.m4v" length="17600" type="video/x-h264"></enclosure>
+<itunes:duration>7:43</itunes:duration>
+<itunes:keywords>earthquakes, san francisco, quake, earth, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Light and Color | PBS KIDS GO!</title>
+
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://kids.pbs.org/dragonflytv/show/lightandcolor.html</link>
+<description>We&apos;re Peter, Emma, Aaron, Ixchel, and Kaitlyn, and we&apos;re in our school&apos;s science club. Our teacher gave us a special assignment. We need to come up with a colorful art display that doesn&apos;t use paints! We went to the most colorful place we know in San Francisco, a cool museum called the Exploratorium. Our question: how can we produce colorful art, without using paint?</description>
+<pubDate>Tue, 05 May 2009 16:30:00</pubDate>
+<guid>http://kids.pbs.org/dragonflytv/show/lightandcolor.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/Light_and_Color.m4v" length="100515" type="video/x-h264"></enclosure>
+<itunes:duration>7:37</itunes:duration>
+
+<itunes:keywords>light, color, art, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Glaciers | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/show/glaciers.html</link>
+<description>We live in Juneau, Alaska, which is home to 38 glaciers flowing from the gigantic Juneau Ice Field. We love being outside, especially during our short Alaskan summers, so we decided to check out a glacier up close at the Mendenhall Glacier Visitor Center.</description>
+<pubDate>Mon, 11 May 2009 08:00:00</pubDate>
+<guid>http://pbskids.org/dragonflytv/show/glaciers.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/glaciers.m4v" length="74076" type="video/x-h264"></enclosure>
+
+<itunes:duration>8:13</itunes:duration>
+<itunes:keywords>glaciers, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Temperate Rainforest | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/show/temperaterainforest.html</link>
+<description>We live in Ketchikan, Alaska, where it rains 25 feet a year! All that water helps trees and other plants grow like crazy. That&apos;s why the Tongass National Forest-the largest temperate rain forest in the world-grows so well here. Some days when it&apos;s raining, and we can&apos;t get out and enjoy nature, we go to the next best thing, the South East Alaska Discovery Center.</description>
+
+<pubDate>Mon, 11 May 2009 08:00:00</pubDate>
+<guid>http://pbskids.org/dragonflytv/show/temperaterainforest.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/temperate_rainforest.m4v" length="69836" type="video/x-h264"></enclosure>
+<itunes:duration>7:40</itunes:duration>
+<itunes:keywords>temperate rainforest, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Balloon Fiesta | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/show/balloonfiesta.html</link>
+
+<description>We live in one of the coolest cities, or should we say hottest? We live in Albuquerque, New Mexico, home of one of the biggest hot air balloon festivals anywhere. We hope to get up in one of those giant balloons someday, but in the meantime, we&apos;re doing some investigating on a smaller scale.</description>
+<pubDate>Mon, 18 May 2009 08:00:00</pubDate>
+<guid>http://pbskids.org/dragonflytv/show/balloonfiesta.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/balloon_fiesta.m4v" length="75161" type="video/x-h264"></enclosure>
+<itunes:duration>8:11</itunes:duration>
+<itunes:keywords>hot air balloon, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Cave Swallows | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+
+<link>http://pbskids.org/dragonflytv/show/caveswallows.html</link>
+<description>We&apos;re Isabel and Emily and we&apos;re spelunkers! That means we like exploring caves. We went to Carlsbad Caverns to help with an ongoing cave swallow study. But first, we stopped by the New Mexico Museum of Natural History and Science to check out what animals lived in our state during different times in history.</description>
+<pubDate>Mon, 18 May 2009 08:00:00</pubDate>
+<guid>http://pbskids.org/dragonflytv/show/caveswallows.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/cave_swallows.m4v" length="100515" type="video/x-h264"></enclosure>
+<itunes:duration>7:52</itunes:duration>
+<itunes:keywords>caves, cave swallows, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+
+<title>DragonflyTV . Podcast - Wetlands | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/show/wetlands.html</link>
+<description>We all have really different interests-from computers to horses to piano. But one thing we have in common is that we&apos;re SciGirls! SciGirls is an after-school program that encourages girls in science. We love it! And the Museum of Life and Science in Durham, North Carolina is our SciGirls headquarters.</description>
+<pubDate>Mon, 25 May 2009 08:00:00</pubDate>
+<guid>http://pbskids.org/dragonflytv/show/wetlands.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/wetlands.m4v" length="98396" type="video/x-h264"></enclosure>
+<itunes:duration>10:44</itunes:duration>
+<itunes:keywords>light, color, art, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+
+</item>
+<item>
+<title>DragonflyTV . Podcast - Farm Animals | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/show/farmanimals.html</link>
+<description>We like to write science fiction stories. Crazy stories like when our positronic brains jump on the space time continuum to alternative universes. When we want to brainstorm new ideas, we go to SciWorks, our hometown science center in Winston-Salem, North Carolina.</description>
+<pubDate>Mon, 25 May 2009 08:00:00</pubDate>
+<guid>http://pbskids.org/dragonflytv/show/farmanimals.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/farm_animals.m4v" length="74455" type="video/x-h264"></enclosure>
+<itunes:duration>8:04</itunes:duration>
+
+<itunes:keywords>farm, animals, farm animals, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Geysers | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/show/geysers.html</link>
+<description>We love exploring Yellowstone National Park. There are so many cool things to see: the canyon, waterfalls, wildlife, lakes, hot springs, and geysers! We went to Canyon Visitor Center to learn more about these features-especially the thermal basins, places where there are lots of geysers or hot springs.</description>
+<pubDate>Mon, 1 June 2009 08:00:00</pubDate>
+<guid>http://pbskids.org/dragonflytv/show/geysers.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/geysers.m4v" length="72765" type="video/x-h264"></enclosure>
+
+<itunes:duration>8:00</itunes:duration>
+<itunes:keywords>geysers, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Baby Dinosaurs | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/show/babydinosaurs.html</link>
+<description>We&apos;re dino-crazy! And we&apos;re also lucky, because we live in Montana, an excellent place to study dinosaur fossils. We went to Egg Mountain, an important dig site, to go fossil hunting! Molly, an educator from the Museum of the Rockies, came with us.</description>
+<pubDate>Mon, 1 June 2009 08:00:00</pubDate>
+
+<guid>http://pbskids.org/dragonflytv/show/babydinosaurs.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/baby_dinosaurs.m4v" length="74844" type="video/x-h264"></enclosure>
+<itunes:duration>8:14</itunes:duration>
+<itunes:keywords>dinosaurs, baby dinosaurs, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Kinetic Sculpture Challenge | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/show/kineticsculpturechallenge.html</link>
+<description>We&apos;re John, Elly, Nick and Linnea--and we&apos;re the F.A.T. 4! What&apos;s that? We&apos;re an engineering squad that&apos;s participating in the MIT Museum&apos;s annual Friday after Thanksgiving Chain Reaction event. It&apos;s a crazy science fun-for-all where teams of inventors create kinetic sculptures of everyday items.</description>
+
+<pubDate>Mon, 8 June 2009 08:00:00</pubDate>
+<guid>http://pbskids.org/dragonflytv/show/kineticsculpturechallenge.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/kinetic_sculpture_challenge.m4v" length="76052" type="video/x-h264"></enclosure>
+<itunes:duration>8:15</itunes:duration>
+<itunes:keywords>kinetic, sculpture, chain reaction, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Gravity Fountain | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/show/gravityfountain.html</link>
+
+<description>We play in the water every chance we get. When we go to our favorite water park, we have a blast playing with the fountains. That got us thinking: what does it take to make a high-spraying fountain? We went to the Montshire Museum in Norwich, Vermont, to do some hands-on experimenting with water.</description>
+<pubDate>Mon, 8 June 2009 08:00:00</pubDate>
+<guid>http://pbskids.org/dragonflytv/show/gravityfountain.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/gravity_fountain.m4v" length="70963" type="video/x-h264"></enclosure>
+<itunes:duration>7:38</itunes:duration>
+<itunes:keywords>gravity, fountain, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Garbology | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+
+<link>http://pbskids.org/dragonflytv/show/garbology.html</link>
+<description>We live in Birmingham, Alabama. We know that three ways to eliminate pollution are to Reduce, Reuse, and Recycle. Our teachers are always encouraging us to recycle used paper, but we wanted to investigate more about the other two Rs, reduce and reuse.</description>
+<pubDate>Mon, 15 June 2009 08:00:00</pubDate>
+<guid>http://pbskids.org/dragonflytv/show/garbology.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/garbology.m4v" length="74547" type="video/x-h264"></enclosure>
+<itunes:duration>7:57</itunes:duration>
+<itunes:keywords>garbage, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Alligator Habitat | PBS KIDS GO!</title>
+
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/show/alligatorhabitat.html</link>
+<description>We&apos;re Katelyn and Blake and we&apos;re nuts about animals-especially reptiles! Katelyn is a junior volunteer at the Mississippi Museum of Natural Science in our hometown of Jackson, Mississippi.</description>
+<pubDate>Mon, 15 June 2009 08:00:00</pubDate>
+<guid>http://pbskids.org/dragonflytv/show/alligatorhabitat.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/alligator_habitat.m4v" length="75427" type="video/x-h264"></enclosure>
+<itunes:duration>8:09</itunes:duration>
+<itunes:keywords>alligators, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+
+</item>
+<item>
+<title>DragonflyTV . Podcast - Lava Flow | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/show/lavaflow.html</link>
+<description>We&apos;re Julia and Briana, and we live on the island of Hawai&apos;i, where lots of lava can be found! Lava flows are very unique environments. They look like a cross between the moon and a gigantic parking lot! Even though volcanoes have been erupting here for thousands of years, much of the big island is full of green plants.</description>
+<pubDate>Mon, 22 June 2009 08:00:00</pubDate>
+<guid>http://pbskids.org/dragonflytv/show/lavaflow.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/lavaflow.m4v" length="70174" type="video/x-h264"></enclosure>
+
+<itunes:duration>7:46</itunes:duration>
+<itunes:keywords>lava, hawaii, volcanoe, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Sea Turtles | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/show/seaturtles.html</link>
+<description>Aloha! We live in Maui, where the surfing is awesome! Anytime we're in the water, there's a chance we'll see one of our favorite animals, the honu, or sea turtle. We know that it is important to leave the honu alone in the wild, but we also know that their population is shrinking. </description>
+<pubDate>Mon, 22 June 2009 08:00:00</pubDate>
+<guid>http://pbskids.org/dragonflytv/show/seaturtles.html</guid>
+
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/seaturtles.m4v" length="75919" type="video/x-h264"></enclosure>
+<itunes:duration>8:07</itunes:duration>
+<itunes:keywords>sea turtles, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - What&apos;s Nano | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/show/whatsnano.html</link>
+<description>I&apos;m Ebony and this is my cousin, Jasmine. My mom says that nanotechnology is helping make electronics, like my cell phone, smaller and smaller. That&apos;s about all we knew about nanotechnology. But then we caught the Amazing Nano Brothers Juggling Show at the Museum of Science in Boston.</description>
+
+<pubDate>Mon, 29 June 2009 08:00:00</pubDate>
+<guid>http://pbskids.org/dragonflytv/show/whatsnano.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/whats_nano.m4v" length="84090" type="video/x-h264"></enclosure>
+<itunes:duration>9:12</itunes:duration>
+<itunes:keywords>nanotechnology, nano, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Where&apos;s Nano | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/show/wheresnano.html</link>
+
+<description>We&apos;re Regina, Linda, Harrison, Jared, Lorenz, and Randi, and we just met for at a science camp reunion at the Morehead Planetarium and Science Center in Chapel Hill, NC. We visited the &quot;Zoom In&quot; exhibit and were surprised to learn that even mucus (yuck!) has something to do with the nanoscale.</description>
+<pubDate>Mon, 29 June 2009 08:00:00</pubDate>
+<guid>http://pbskids.org/dragonflytv/show/wheresnano.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/wheres_nano.m4v" length="63692" type="video/x-h264"></enclosure>
+<itunes:duration>7:20</itunes:duration>
+<itunes:keywords>nanotechnology, nano, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+
+<title>DragonflyTV . Podcast - Wait a Nanosecond 1 | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/nano/wans_701.html</link>
+<description>What do you know about nanotechnology?</description>
+<pubDate>Mon, 29 June 2009 08:00:00</pubDate>
+<guid>http://pbskids.org/dragonflytv/nano/wans_701.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/WANS_701.m4v" length="15697" type="video/x-h264"></enclosure>
+<itunes:duration>1:43</itunes:duration>
+<itunes:keywords>nanotechnology, nano, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+
+</item>
+<item>
+<title>DragonflyTV . Podcast - Hockey Sticks | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/show/hockeysticks.html</link>
+<description>I&apos;m Jordan and recently I got a new CNT (that stands for Carbon Nanotube) hockey stick! My friend Nick and I had some questions about nanotubes so we decided to get some answers and find out: Do nanotubes really make a better hockey stick?</description>
+<pubDate>Mon, 6 July 2009 08:00:00</pubDate>
+<guid>http://pbskids.org/dragonflytv/show/hockeysticks.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/hockey_sticks.m4v" length="79288" type="video/x-h264"></enclosure>
+<itunes:duration>8:36</itunes:duration>
+
+<itunes:keywords>hockey sticks, nano, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Butterfly Wings | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/show/butterflywings.html</link>
+<description>We&apos;re Emily and Julie and we are crazy about butterflies! We decided to take a trip to the Butterfly House at the North Carolina Museum of Life Sciences. While we were there we saw lots of different kinds of butterflies including a Blue Morpho.</description>
+<pubDate>Mon, 6 July 2009 08:00:00</pubDate>
+<guid>http://pbskids.org/dragonflytv/show/butterflywings.html</guid>
+
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/butterfly_wings.m4v" length="69918" type="video/x-h264"></enclosure>
+<itunes:duration>7:40</itunes:duration>
+<itunes:keywords>butterfly wings, nano, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Wait a Nanosecond 2 | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/nano/wans_702.html</link>
+<description>Should products made using nanotechnology be labeled as such?</description>
+<pubDate>Mon, 6 July 2009 08:00:00</pubDate>
+
+<guid>http://pbskids.org/dragonflytv/nano/wans_702.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/WANS_702.m4v" length="15523" type="video/x-h264"></enclosure>
+<itunes:duration>1:43</itunes:duration>
+<itunes:keywords>nano, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Surface Area | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/show/surfacearea.html</link>
+<description>We&apos;re Lara and Anushua and we&apos;re nuts about baking! So, we headed to the Baking Lab at the Mill City Museum in Minneapolis where we made sugar cookies. While the cookies were in the oven, we sat in on a demonstration about the explosive nature of flour dust. Turns out that flour mixed in the air was more explosive than the same amount of flour in a cup.</description>
+
+<pubDate>Mon, 13 July 2009 08:00:00</pubDate>
+<guid>http://pbskids.org/dragonflytv/show/surfacearea.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/surface_area.m4v" length="70789" type="video/x-h264"></enclosure>
+<itunes:duration>7:38</itunes:duration>
+<itunes:keywords>surface area, nano, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Stained Glass | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/show/stainedglass.html</link>
+
+<description>We&apos;re Alettie and Yvonne! We live in Chicago and recently we decided to go to the MSI (that&apos;s Museum of Science and Industry) for its 75th anniversary. While we were there we met Annette and G. Brian, glass artists from the Corning Museum of Glass who made a glass dragonfly for us from our very own design!</description>
+<pubDate>Mon, 13 July 2009 08:00:00</pubDate>
+<guid>http://pbskids.org/dragonflytv/show/stainedglass.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/stained_glass.m4v" length="69857" type="video/x-h264"></enclosure>
+<itunes:duration>7:34</itunes:duration>
+<itunes:keywords>stained glass, nano, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Wait a Nanosecond 3 | PBS KIDS GO!</title>
+
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/nano/wans_703.html</link>
+<description>Do you think nanotechnology is safe?</description>
+<pubDate>Mon, 13 July 2009 08:00:00</pubDate>
+<guid>http://pbskids.org/dragonflytv/nano/wans_703.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/WANS_703.m4v" length="15513" type="video/x-h264"></enclosure>
+<itunes:duration>1:43</itunes:duration>
+<itunes:keywords>nano, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Gecko Feet | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/show/geckofeet.html</link>
+<description>We&apos;re Jennifer and Nooshin and we&apos;re rock climbers extraordinaire! We recently decided to go to the Lawrence Hall of Science to see some lizards firsthand and find out: Which lizards are the best climbers?</description>
+<pubDate>Mon, 20 July 2009 08:00:00</pubDate>
+<guid>http://pbskids.org/dragonflytv/show/geckofeet.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/gecko_feet.m4v" length="78766" type="video/x-h264"></enclosure>
+<itunes:duration>8:41</itunes:duration>
+<itunes:keywords>gecko feet, gecko, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Nasturtium Leaves | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/show/nasturtiumleaves.html</link>
+<description>I&apos;m Jasmine, during the summer I like to volunteer at the San Francisco Botanical Gardens with my friend Melinda. This summer our job was watering plants. While we were watering, Melinda and I noticed that different plants handled water in different ways. This got us thinking: Why do some leaves shed water and others don&apos;t?</description>
+<pubDate>Mon, 20 July 2009 08:00:00</pubDate>
+<guid>http://pbskids.org/dragonflytv/show/nasturtiumleaves.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/WANS_704.m4v" length="70369" type="video/x-h264"></enclosure>
+<itunes:duration>7:33</itunes:duration>
+<itunes:keywords>nasturtium leaves, plants, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Wait a Nanosecond 4 | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/nano/wans_704.html</link>
+<description>Is it important to learn how things work at the nanoscale?</description>
+<pubDate>Mon, 20 July 2009 08:00:00</pubDate>
+<guid>http://pbskids.org/dragonflytv/nano/wans_704.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/nasturtium_leaves.m4v" length="16189" type="video/x-h264"></enclosure>
+<itunes:duration>1:43</itunes:duration>
+<itunes:keywords>nanotechnology, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Self-Assembly | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/show/selfassembly.html</link>
+<description>I&apos;m Keeli and my friend Connor and I love the great outdoors! We were practicing putting up our tents for a camping trip when I noticed that my tent seemed to set itself up almost instantly while Connor&apos;s tent took a long time to set up. I remembered this display I saw with school recently at the Children&apos;s Museum of Houston and suggested we go check it out.</description>
+<pubDate>Mon, 27 July 2009 08:00:00</pubDate>
+<guid>http://pbskids.org/dragonflytv/show/selfassembly.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/self_assembly.m4v" length="81162" type="video/x-h264"></enclosure>
+<itunes:duration>8:44</itunes:duration>
+<itunes:keywords>self assembly, camping, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Bone Regrowth | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/show/boneregrowth.html</link>
+<description>We&apos;re Kobel and Nathan. Our friend, Adam, took a skateboarding spill and is stuck with a cast on his leg for weeks. At the Oregon Museum of Science and Industry, we learned that scientists are using nanotechnology to help regenerate nerves and bones.</description>
+<pubDate>Mon, 27 July 2009 08:00:00</pubDate>
+<guid>http://pbskids.org/dragonflytv/show/boneregrowth.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/bone_regrowth.m4v" length="70328" type="video/x-h264"></enclosure>
+<itunes:duration>7:36</itunes:duration>
+<itunes:keywords>bone regrowth, skateboarding, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Wait a Nanosecond 5| PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/nano/wans_705.html</link>
+<description>Should we rush nanoresearch into practice so people can benefit ASAP?</description>
+<pubDate>Mon, 27 July 2009 08:00:00</pubDate>
+<guid>http://pbskids.org/dragonflytv/nano/wans_705.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/WANS_705.m4v" length="15697" type="video/x-h264"></enclosure>
+<itunes:duration>1:44</itunes:duration>
+<itunes:keywords>nanotechnology, nano, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Water Clean Up | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/show/watercleanup.html</link>
+<description>I&apos;m Taylor. My friend Gabe and I love the water, but we know that keeping it clean is not always easy. Just upriver in Palmerton, Pennsylvania, there is an old zinc smelting plant that was one of the factories polluting the local rivers and streams. We headed to the Franklin Institute in Philadelphia and learned that nanoiron is being used to clean up contaminants and keep the water safe.</description>
+<pubDate>Mon, 3 August 2009 08:00:00</pubDate>
+<guid>http://pbskids.org/dragonflytv/show/watercleanup.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/water_cleanup.m4v" length="70195" type="video/x-h264"></enclosure>
+<itunes:duration>7:39</itunes:duration>
+<itunes:keywords>water cleanup, nano, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Nanosilver | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/show/nanosilver.html</link>
+<description>We&apos;re Sarah and Mande and we heard about a special metal that can kill bacteria: silver. Turns out silver has been used throughout history from Egyptians to American settlers to prevent bacteria in food and wounds. We stopped by the Sciencenter in Ithaca to learn more about how nanosized silver is being used today.</description>
+<pubDate>Mon, 3 August 2009 08:00:00</pubDate>
+<guid>http://pbskids.org/dragonflytv/show/nanosilver.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/nano_silver.m4v" length="72734" type="video/x-h264"></enclosure>
+<itunes:duration>7:53</itunes:duration>
+<itunes:keywords>nano, silver, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+<item>
+<title>DragonflyTV . Podcast - Wait a Nanosecond 6 | PBS KIDS GO!</title>
+<itunes:author>PBS KIDS GO</itunes:author>
+<link>http://pbskids.org/dragonflytv/nano/wans_706.html</link>
+<description>We&apos;re Sarah and Mande and we heard about a special metal that can kill bacteria: silver. Turns out silver has been used throughout history from Egyptians to American settlers to prevent bacteria in food and wounds. We stopped by the Sciencenter in Ithaca to learn more about how nanosized silver is being used today.</description>
+<pubDate>Mon, 3 August 2009 08:00:00</pubDate>
+<guid>http://pbskids.org/dragonflytv/nano/wans_706.html</guid>
+<enclosure url="http://pbskids.org/dragonflytv/rss/podcast/redir/http://www-tc.pbskids.org/dragonflytv/rss/WANS_706.m4v" length="15831" type="video/x-h264"></enclosure>
+<itunes:duration>1:43</itunes:duration>
+<itunes:keywords>nano, nanotechnology, science inquiry, science, TV, DragonflyTV, Twin Cities Public Television, tpt, PBS KIDS GO!,  Television, Public Broadcasting, Video, dragonfly, Podcast, Video Podcast, TV,  dragonfly tv,  PBS</itunes:keywords>
+</item>
+</channel>
+</rss>

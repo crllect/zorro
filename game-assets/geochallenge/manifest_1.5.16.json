@@ -1,0 +1,23 @@
+{
+  "short_name": "Geometry Challenge",
+  "name": "Geometry Challenge",
+  "icons": [
+    {
+      "src": "https://img.gamedistribution.com/1982f60fe71b482eba6fc6d1837f84e5-512x512.jpeg",
+      "type": "image/jpeg",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "https://img.gamedistribution.com/1982f60fe71b482eba6fc6d1837f84e5-512x512.jpeg",
+      "type": "image/png",
+      "sizes": "144x144",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "/1982f60fe71b482eba6fc6d1837f84e5/index.html",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "/1982f60fe71b482eba6fc6d1837f84e5/",
+  "theme_color": "#3367D6"
+}

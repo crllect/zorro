@@ -1,0 +1,525 @@
+﻿<trivia>
+
+
+	<item>
+		<question>What is a bunch of flowers called?</question>
+		<tracknum>1</tracknum>
+		<answers>
+			<answer>Bouquet</answer>
+			<answer>Baroque</answer>
+			<answer>Brochure</answer>
+			<answer>Briquette</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>What is a book about your own life story called?</question>
+		<tracknum>2</tracknum>
+		<answers>
+			<answer>Autobiography</answer>
+			<answer>Biography</answer>
+			<answer>Geography</answer>
+			<answer>Fiction</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>Before you attempt to do a split, what should you always do?</question>
+		<tracknum>3</tracknum>
+		<answers>
+			<answer>Stretch</answer>
+			<answer>Leave town</answer>
+			<answer>Get your affairs in order</answer>
+			<answer>Sing the “split” song</answer>
+		</answers>
+	</item>
+
+
+	<item>
+		<question>What’s the Spanish word for “kite”? Here’s a hint: think of things that fly through the sky.</question>
+		<tracknum>4</tracknum>
+		<answers>
+			<answer>Cometa</answer>
+			<answer>Carro</answer>
+			<answer>Carne</answer>
+			<answer>Cara</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>What am I living in?</question>
+		<tracknum>5</tracknum>
+		<answers>
+			<answer>The lap of luxury</answer>
+			<answer>A house of cards</answer>
+			<answer>A glass house</answer>
+			<answer>The elbow of luxury</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>What’s it called when you PRETEND to play guitar?</question>
+		<tracknum>6</tracknum>
+		<answers>
+			<answer>Air guitar</answer>
+			<answer>Guitar fakey</answer>
+			<answer>The six-string salute</answer>
+			<answer>Embarrassing</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>What do bees have that dogs do NOT?</question>
+		<tracknum>7</tracknum>
+		<answers>
+			<answer>Wings</answer>
+			<answer>Eyes</answer>
+			<answer>Legs</answer>
+			<answer>TV shows</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>When you’re cooking, what do you call the stuff you put into a recipe?</question>
+		<tracknum>8</tracknum>
+		<answers>
+			<answer>Ingredients</answer>
+			<answer>Ingrates</answer>
+			<answer>Ingots</answer>
+			<answer>“Ruff’s Special Sauce”</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>If I make money selling stuff, what’s that called?</question>
+		<tracknum>9</tracknum>
+		<answers>
+			<answer>Profit</answer>
+			<answer>Tax</answer>
+			<answer>Tip</answer>
+			<answer>Surprising</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>What’s in the center of an apple?</question>
+		<tracknum>10</tracknum>
+		<answers>
+			<answer>Seeds</answer>
+			<answer>Caramel</answer>
+			<answer>“Apple yolk”</answer>
+			<answer>Toy surprise</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>When you arrange a bunch of non-moving things and then paint them, what’s it called?</question>
+		<tracknum>11</tracknum>
+		<answers>
+			<answer>Still life</answer>
+			<answer>Cheating</answer>
+			<answer>Portrait</answer>
+			<answer>Photograph</answer>
+		</answers>
+	</item>
+
+
+	<item>
+		<question>Which of these words means “people sitting around and coming up with ideas”?</question>
+		<tracknum>12</tracknum>
+		<answers>
+			<answer>Brainstorm</answer>
+			<answer>Rainstorm</answer>
+			<answer>Brain-monkey </answer>
+			<answer>Thinkapotamus</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>What’s a machine called that launches stuff into the air?</question>
+		<tracknum>13</tracknum>
+		<answers>
+			<answer>Catapult</answer>
+			<answer>Dogapult</answer>
+			<answer>Catamaran</answer>
+			<answer>Caterpillar</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>Your grandmother might be your... what?</question>
+		<tracknum>14</tracknum>
+		<answers>
+			<answer>Father’s mother</answer>
+			<answer>Mother’s father</answer>
+			<answer>Father’s sister</answer>
+			<answer>Mother’s brother </answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>Question! There’s a laser in your... what?</question>
+		<tracknum>15</tracknum>
+		<answers>
+			<answer>Computer’s CD-ROM drive</answer>
+			<answer>Shoes</answer>
+			<answer>Fake laser-eye</answer>
+			<answer>School books</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>When you turn a steering wheel to the left, which way does the car go?</question>
+		<tracknum>16</tracknum>
+		<answers>
+			<answer>Left</answer>
+			<answer>Right</answer>
+			<answer>Straight</answer>
+			<answer>Backwards</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>What’s the name of the kind of exercise I’m doing?</question>
+		<tracknum>17</tracknum>
+		<answers>
+			<answer>Yoga</answer>
+			<answer>Yogurt</answer>
+			<answer>Yoda</answer>
+			<answer>Yo-Yo Ma</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>Besides me, what OTHER famous detective wears a hat like this?</question>
+		<tracknum>18</tracknum>
+		<answers>
+			<answer>Sherlock Holmes</answer>
+			<answer>Sherlock Hemlock</answer>
+			<answer>Sherlock Hound</answer>
+			<answer>Sherlock Combs</answer>
+		</answers>
+	</item>
+
+
+	<item>
+		<question>What are things called that orbit the Earth?</question>
+		<tracknum>19</tracknum>
+		<answers>
+			<answer>Satellites</answer>
+			<answer>Stalactites</answer>
+			<answer>Orbit-thingies</answer>
+			<answer>U.F.O.s</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>What is the state of Hawaii made up of?</question>
+		<tracknum>20</tracknum>
+		<answers>
+			<answer>Islands</answer>
+			<answer>Giant marshmallows</answer>
+			<answer>Floating castles</answer>
+			<answer>Peninsulas</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>Which of these does NOT rhyme with “hats, hats, hats”?</question>
+		<tracknum>21</tracknum>
+		<answers>
+			<answer>Dates, plates, crates</answer>
+			<answer>Slats, flats, spats</answer>
+			<answer>Mats, cats, bats</answer>
+			<answer>Pats, hats, fats</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>What’s it called when you “throw your voice,” and talk without moving your lips?</question>
+		<tracknum>22</tracknum>
+		<answers>
+			<answer>Ventriloquism</answer>
+			<answer>Hypnotism</answer>
+			<answer>Organism</answer>
+			<answer>Baby talk</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>What do you call those sticks you can eat Chinese food with?</question>
+		<tracknum>23</tracknum>
+		<answers>
+			<answer>Chopsticks</answer>
+			<answer>Pickup sticks</answer>
+			<answer>Eating sticks</answer>
+			<answer>Sticky sticks</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>In a phone book, how are the people’s names arranged?</question>
+		<tracknum>24</tracknum>
+		<answers>
+			<answer>Alphabetically</answer>
+			<answer>Numerically</answer>
+			<answer>By height</answer>
+			<answer>By favorite color</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>Which of these is NOT a type of music?</question>
+		<tracknum>25</tracknum>
+		<answers>
+			<answer>Biscuit</answer>
+			<answer>Jazz</answer>
+			<answer>Disco</answer>
+			<answer>Hip hop</answer>
+		</answers>
+	</item>
+
+
+	<item>
+		<question>Which of these is NOT a way that a lobster protects itself?</question>
+		<tracknum>26</tracknum>
+		<answers>
+			<answer>Witty jokes</answer>
+			<answer>Claws</answer>
+			<answer>Camouflage</answer>
+			<answer>Hard shell</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>When you look in a mirror, what are flipped?</question>
+		<tracknum>27</tracknum>
+		<answers>
+			<answer>Left and right</answer>
+			<answer>In and out</answer>
+			<answer>Up and down</answer>
+			<answer>Excited and bored</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>Scotland is next to what country?</question>
+		<tracknum>28</tracknum>
+		<answers>
+			<answer>England</answer>
+			<answer>Mexico</answer>
+			<answer>China</answer>
+			<answer>Kenya</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>Which of these is NOT a popular topping for popcorn?</question>
+		<tracknum>29</tracknum>
+		<answers>
+			<answer>Gravy</answer>
+			<answer>Butter and salt</answer>
+			<answer>Powdered cheese</answer>
+			<answer>Caramel</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>Which of these is NOT a language?</question>
+		<tracknum>30</tracknum>
+		<answers>
+			<answer>American</answer>
+			<answer>Swahili</answer>
+			<answer>Arabic</answer>
+			<answer>Japanese</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>If you have a broken faucet, who should you call?</question>
+		<tracknum>31</tracknum>
+		<answers>
+			<answer>Plumber</answer>
+			<answer>Carpenter</answer>
+			<answer>Dentist</answer>
+			<answer>Diver</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>What shape is a grain of salt?</question>
+		<tracknum>32</tracknum>
+		<answers>
+			<answer>Cube</answer>
+			<answer>Star</answer>
+			<answer>Smiley face</answer>
+			<answer>Dog-shaped</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>What’s the main language in Germany?</question>
+		<tracknum>33</tracknum>
+		<answers>
+			<answer>German</answer>
+			<answer>Germanese</answer>
+			<answer>Germanish</answer>
+			<answer>Germane</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>What do you call a shape with five equal sides and five angles?</question>
+		<tracknum>34</tracknum>
+		<answers>
+			<answer>Pentagon</answer>
+			<answer>Square</answer>
+			<answer>Triangle</answer>
+			<answer>Five-angle</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>What do binoculars do?</question>
+		<tracknum>35</tracknum>
+		<answers>
+			<answer>Make far stuff look near</answer>
+			<answer>Make near stuff look far</answer>
+			<answer>Make bad stuff look good</answer>
+			<answer>Make dogs look like cats</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>What does the E stand for in “e-mail”?</question>
+		<tracknum>36</tracknum>
+		<answers>
+			<answer>Electronic</answer>
+			<answer>Elephant</answer>
+			<answer>Eggy</answer>
+			<answer>Eventual</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>Which of these does NOT go to a crime scene to figure everything out?</question>
+		<tracknum>37</tracknum>
+		<answers>
+			<answer>Knight</answer>
+			<answer>Detective</answer>
+			<answer>Sleuth</answer>
+			<answer>Investigator</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>In which country is the flag ALSO red, white, and blue?</question>
+		<tracknum>38</tracknum>
+		<answers>
+			<answer>Australia</answer>
+			<answer>India</answer>
+			<answer>Mexico</answer>
+			<answer>Japan</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>Which of these is NOT a breed of dog?</question>
+		<tracknum>39</tracknum>
+		<answers>
+			<answer>French Toast</answer>
+			<answer>German Shepherd</answer>
+			<answer>American Bulldog</answer>
+			<answer>Irish Setter</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>Regular pickles are made from pickled... what?</question>
+		<tracknum>40</tracknum>
+		<answers>
+			<answer>Cucumbers</answer>
+			<answer>Zucchini</answer>
+			<answer>Squash</answer>
+			<answer>Hot dogs</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>What kind of trees lose their leaves?</question>
+		<tracknum>41</tracknum>
+		<answers>
+			<answer>Deciduous</answer>
+			<answer>Coniferous</answer>
+			<answer>Odoriferous</answer>
+			<answer>Mellifluous</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>The first letters of all of your names put together is called your... what?</question>
+		<tracknum>42</tracknum>
+		<answers>
+			<answer>Monogram</answer>
+			<answer>Telegram</answer>
+			<answer>Anagram</answer>
+			<answer>Gorilla-gram</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>What would the most boring street performance be?</question>
+		<tracknum>43</tracknum>
+		<answers>
+			<answer>Watching paint dry</answer>
+			<answer>Juggling</answer>
+			<answer>Fire Swallowing</answer>
+			<answer>Magic Tricks</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>What's the opening group of songs in a musical called?</question>
+		<tracknum>44</tracknum>
+		<answers>
+			<answer>Overture</answer>
+			<answer>Underture</answer>
+			<answer>Nature</answer>
+			<answer>Furniture</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>What are boy donkeys and girl donkeys called?</question>
+		<tracknum>45</tracknum>
+		<answers>
+			<answer>Jacks and Jennys</answer>
+			<answer>Romeos and Juliettes</answer>
+			<answer>Sluggos and Nancys</answer>
+			<answer>Hansels and Gretels</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>Which of these words does NOT mean "cry"?</question>
+		<tracknum>46</tracknum>
+		<answers>
+			<answer>Munch</answer>
+			<answer>Weep</answer>
+			<answer>Sob</answer>
+			<answer>Bawl</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question>A bunch of straw is called a straw... what?</question>
+		<tracknum>47</tracknum>
+		<answers>
+			<answer>Bale</answer>
+			<answer>Sale</answer>
+			<answer>Tale</answer>
+			<answer>Kale</answer>
+		</answers>
+	</item>
+
+</trivia>

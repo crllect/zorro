@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<script>
+			var width = 1000;
+			var height = 600;
+		</script>
+		<style>
+			body {
+				background-color: black;
+			}
+			.container {
+				display: flex;              /* establish flex container */
+				flex-direction: column;     /* stack flex items vertically */
+				justify-content: center;    /* center items vertically, in this case */
+				align-items: center;        /* center items horizontally, in this case */
+				position: fixed;
+				top: 0;
+				left: 0;
+				bottom: 0;
+				right: 0;
+				overflow: auto;
+			}
+			.flashwrapper {
+				text-align: center;
+			}
+			.flashgamecontainer {
+				position:relative;
+			}
+			.flashgame {
+				position:absolute;
+				left:50%;
+			}
+			.webglgame {
+				padding-bottom:20px;
+			}
+		</style>
+	</head>
+    <body>
+		<div class="container">
+			<div id="game">
+			</div>
+		</div>
+		<script>
+			var paddedheight = height + 20;
+			var halfwidth = width * 0.5;
+			document.getElementById("game").innerHTML = '\
+<div class="flashgamecontainer" style="height:' + paddedheight + 'px">\
+    <div class="flashgame" style="margin-left:-' + halfwidth + 'px">\
+		<iframe id="webglframe" src="index.html" style="border:0px #000000 none;" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="' + paddedheight + 'px" width="' + width + 'px"></iframe>\
+    </div>\
+</div>\
+    ';
+		</script>
+    </body>
+</html>

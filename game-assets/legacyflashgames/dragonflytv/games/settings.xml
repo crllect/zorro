@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" ?>
+
+<!--
+instructions
+
+-->
+
+<data>
+	<remote>
+		<psURL><![CDATA[http://pbskids.org/django/dragonflytv/nanobots]]></psURL>
+	</remote>
+	<namer>
+		<paList>
+			<psItem>crafty</psItem>
+			<psItem>hungry</psItem>
+			<psItem>evil</psItem>
+			<psItem>simple</psItem>
+			<psItem>furious</psItem>
+			<psItem>crazy</psItem>
+			<psItem>speedy</psItem>
+			<psItem>cool</psItem>
+			<psItem>bronze</psItem>
+			<psItem>silver</psItem>
+			<psItem>gold</psItem>
+			<psItem>sleepy</psItem>
+			<psItem>loud</psItem>
+			<psItem>grubby</psItem>
+			<psItem>easy</psItem>
+			<psItem>cryptic</psItem>
+			<psItem>huge</psItem>
+			<psItem>big</psItem>
+			<psItem>tiny</psItem>
+			<psItem>nano</psItem>
+		</paList>
+		<paList>
+			<psItem>flying</psItem>
+			<psItem>zippy</psItem>
+			<psItem>dangerous</psItem>
+			<psItem>funny</psItem>
+			<psItem>flammable</psItem>
+			<psItem>shining</psItem>
+			<psItem>cruel</psItem>
+			<psItem>clunky</psItem>
+			<psItem>fidgeting</psItem>
+			<psItem>fussing</psItem>
+			<psItem>fun</psItem>
+			<psItem>prickly</psItem>
+			<psItem>lovable</psItem>
+			<psItem>spotless</psItem>
+			<psItem>charged</psItem>
+			<psItem>canny</psItem>
+			<psItem>hairy</psItem>
+			<psItem>antique</psItem>
+			<psItem>futuristic</psItem>
+			<psItem>garbage</psItem>
+		</paList>
+		<paList>
+			<psItem>maze</psItem>
+			<psItem>bandaid</psItem>
+			<psItem>firepit</psItem>
+			<psItem>apple</psItem>
+			<psItem>minefield</psItem>
+			<psItem>pinball</psItem>
+			<psItem>icepick</psItem>
+			<psItem>dungeon</psItem>
+			<psItem>goblin</psItem>
+			<psItem>web</psItem>
+			<psItem>fantasia</psItem>
+			<psItem>axis</psItem>
+			<psItem>matrix</psItem>
+			<psItem>blaster</psItem>
+			<psItem>swingset</psItem>
+			<psItem>dinosaur</psItem>
+			<psItem>rocket</psItem>
+			<psItem>slide</psItem>
+			<psItem>slalom</psItem>
+			<psItem>interface</psItem>
+		</paList>
+	</namer>
+	<game>
+		<piUpdateSeconds>.033</piUpdateSeconds>
+		<pfThrustIncrement>.02</pfThrustIncrement>
+		<pfChargeMultiplier>1</pfChargeMultiplier>
+		<pfObjectDamage>.1</pfObjectDamage>
+		<pfWallDamage>.05</pfWallDamage>
+		<pfDampening>.9</pfDampening>
+		<pfMaxVel>2</pfMaxVel>
+	</game>
+	<courseBuilder>
+		<poCourse piLevels="3" piMaxObjects="4" piMinObjects="1" piMaxCharges="4" piMaxDrops="0" piMaxObstacles="4">
+			<psDescription><![CDATA[Start here to create a short, easy course. You’ll need to build three screens, each of which can have as many as four rocks and four charged particles.]]></psDescription>
+		</poCourse>
+		<poCourse piLevels="4" piMaxObjects="8" piMinObjects="1" piMaxCharges="4" piMaxDrops="4" piMaxObstacles="4" >
+			<psDescription><![CDATA[Trickier, but more rewarding. You’ll build four screens. Each screen can have eight items, and we add in the excitement of water traps!]]></psDescription>
+		</poCourse>
+		<poCourse piLevels="5" piMaxObjects="12" piMinObjects="1" piMaxCharges="4" piMaxDrops="4" piMaxObstacles="4">
+			<psDescription><![CDATA[The longest, hardest courses of all! Five screens, with a max of twelve items per screen, but no more than four of any one item. Go for it!]]></psDescription>
+		</poCourse>
+	</courseBuilder>
+	<botBuilder>
+		<piBank>100</piBank>
+		<poPreset>
+			<psSettings>22210</psSettings>
+			<psColors>327</psColors>
+			<psLabel><![CDATA[Speedy]]></psLabel>
+			<psDescription><![CDATA[powerful thruster medium charge flipper thin shields.]]></psDescription>
+		</poPreset>
+		<poPreset>
+			<psSettings>20212</psSettings>
+			<psColors>150</psColors>
+			<psLabel><![CDATA[Mongo]]></psLabel>
+			<psDescription><![CDATA[weak thruster medium charge flipper thick shields.]]></psDescription>
+		</poPreset>
+		<poPreset>
+			<psSettings>20221</psSettings>
+			<psColors>021</psColors>
+			<psLabel><![CDATA[Charger]]></psLabel>
+			<psDescription><![CDATA[strong charge flipper medium shields weak thruster]]></psDescription>
+		</poPreset>
+		
+		<!--Soap Options. Each 1 indicates 1 soap release. Integers 0 to inf.-->
+		<poAbility piType="1">
+			<psLabel>soap</psLabel>
+			<psHelp><![CDATA[Soap breaks down water droplets.]]></psHelp>
+			<poSetting pValue="0" piCost="0" pConsumption="1" pfWeight="0" pbDefault="true" piTimeoutTicks="10">
+				<psLabel>0 packets</psLabel>
+				<psHelp><![CDATA[weight: none]]></psHelp>
+			</poSetting>
+			<poSetting pValue="1" piCost="5" pConsumption="1" pfWeight=".0005" piTimeoutTicks="10">
+				<psLabel>1 packet</psLabel>
+				<psHelp><![CDATA[weight: low]]></psHelp>
+			</poSetting>
+			<poSetting pValue="2" piCost="10" pConsumption="1" pfWeight=".001" piTimeoutTicks="10">
+				<psLabel>2 packets</psLabel>
+				<psHelp><![CDATA[weight: medium]]></psHelp>
+			</poSetting>
+			<poSetting pValue="3" piCost="15" pConsumption="1" pfWeight=".0015" piTimeoutTicks="10">
+				<psLabel>3 packets</psLabel>
+				<psHelp><![CDATA[weight: high]]></psHelp>
+			</poSetting>
+			<poSetting pValue="4" piCost="20" pConsumption="1" pfWeight=".002" piTimeoutTicks="10">
+				<psLabel>4 packets</psLabel>
+				<psHelp><![CDATA[weight: heavy]]></psHelp>
+			</poSetting>
+		</poAbility>
+		<!--Thrust Options. Valid values 0 to inf.-->
+		<poAbility piType="2">
+			<psLabel>thrusters</psLabel>
+			<psHelp><![CDATA[A more powerful thruster gives your bot more speed but uses more fuel.]]></psHelp>
+			<poSetting pValue=".5" piCost="0" pfWeight="0.001" pbDefault="true">
+				<psLabel>weak</psLabel>
+				<psHelp><![CDATA[speed: low<br />efficiency: high]]></psHelp>
+			</poSetting>
+			<poSetting pValue="1.5" piCost="20" pfWeight=".002" >
+				<psLabel>medium</psLabel>
+				<psHelp><![CDATA[speed: medium<br />efficiency: medium]]></psHelp>
+			</poSetting>
+			<poSetting pValue="5" piCost="40" pfWeight=".004" >
+				<psLabel>powerful</psLabel>
+				<psHelp><![CDATA[speed: high<br />efficiency: low]]></psHelp>
+			</poSetting>
+		</poAbility>
+		
+		<!--Battery Options. Valid values 0 to 1.-->
+		<poAbility piType="3">
+			<psLabel>batteries</psLabel>
+			<psHelp><![CDATA[Batteries are your fuel source. They drive your bot's thrusters and charge flipper.]]></psHelp>
+			<poSetting pValue=".5" piCost="0" pfWeight="0.002" pbDefault="true">
+				<psLabel>small</psLabel>
+				<psHelp><![CDATA[charge: low<br />weight: low]]></psHelp>
+			</poSetting>
+			<poSetting pValue=".75" piCost="20" pfWeight=".004" >
+				<psLabel>medium</psLabel>
+				<psHelp><![CDATA[charge: medium<br />weight: medium]]></psHelp>
+			</poSetting>
+			<poSetting pValue="1" piCost="40" pfWeight=".008" >
+				<psLabel>large</psLabel>
+				<psHelp><![CDATA[charge: high<br />weight: high]]></psHelp>
+			</poSetting>
+		</poAbility>
+		<!--Charge Flipper Options. Higher = stronger repulsion/attraction. Valid values 0 to inf.-->
+		<poAbility piType="4">
+			<psLabel>charge flipper</psLabel>
+			<psHelp><![CDATA[A more powerful charge flipper will help you navigate the charged forces of the nano world.]]></psHelp>
+			<poSetting pValue=".005" piCost="0" pfWeight="0.001" pbDefault="true">
+				<psLabel>weak</psLabel>
+				<psHelp><![CDATA[charge: low<br />weight: low]]></psHelp>
+			</poSetting>
+			<poSetting pValue=".015" piCost="10" pfWeight=".003" >
+				<psLabel>medium</psLabel>
+				<psHelp><![CDATA[charge: medium<br />weight: medium]]></psHelp>
+			</poSetting>
+			<poSetting pValue=".03" piCost="20" pfWeight=".006" >
+				<psLabel>strong</psLabel>
+				<psHelp><![CDATA[charge: high<br />weight: high]]></psHelp>
+			</poSetting>
+		</poAbility>
+		<!--Shield Options. Valid values 0 to 1.-->
+		<poAbility piType="5">
+			<psLabel>shield</psLabel>
+			<psHelp><![CDATA[Your shield protects your bot from damage.]]></psHelp>
+			<poSetting pValue=".5" piCost="0" pfWeight="0.001" pbDefault="true">
+				<psLabel>thin</psLabel>
+				<psHelp><![CDATA[protection: low<br />weight: low]]></psHelp>
+			</poSetting>
+			<poSetting pValue=".75" piCost="20" pfWeight=".002" >
+				<psLabel>medium</psLabel>
+				<psHelp><![CDATA[protection: medium<br />weight: medium]]></psHelp>
+			</poSetting>
+			<poSetting pValue="1" piCost="40" pfWeight=".003" >
+				<psLabel>thick</psLabel>
+				<psHelp><![CDATA[protection: high<br />weight: high]]></psHelp>
+			</poSetting>
+		</poAbility>
+		<!--Color defaults. Type 0 is body, 1 is legs, 2 is bolts and feet. pValue may be integers from 0-7.-->
+		<poColor piType="0" pValue="3" />
+		<poColor piType="1" pValue="5" />
+		<poColor piType="2" pValue="0" />
+		
+	</botBuilder>
+</data>

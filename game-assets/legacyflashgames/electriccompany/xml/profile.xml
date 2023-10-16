@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ec changeRoll="mp3/sfx/zap_bg_unlocked.mp3" click="mp3/sceneMaker/click.mp3" correct="mp3/sceneMaker/correct.mp3" incorrect="mp3/sceneMaker/incorrect.mp3">
+	<userIcons>
+		<icon id="butterfly" src="butterfly_icon.jpg" />
+                <icon id="catblade" src="catblade_icon.jpg" />
+                <icon id="cloud" src="cloud_icon.jpg" />
+                <icon id="monster1" src="monster1_icon.jpg" />
+                <icon id="monster2" src="monster2_icon.jpg" />
+                <icon id="mushroom" src="mushroom_icon.jpg" />
+                <icon id="starbot" src="starbot_icon.jpg" />
+                <icon id="tooth" src="tooth_icon.jpg" />
+	      <icon id="chick" src="chick_icon.jpg" />
+	      <icon id="musicman" src="musicman_icon.jpg" />
+	      <icon id="jackbowser" src="jackbowser_icon.jpg" />
+                <icon id="confetti" src="confetti_icon.jpg" />                                
+                <icon id="flower" src="flower_icon.jpg" />
+                <icon id="goldfish" src="goldfish_icon.jpg" />
+                <icon id="grapes" src="grapes_icon.jpg" />
+                <icon id="guitar" src="guitar_icon.jpg" />
+                <icon id="heart" src="heart_icon.jpg" />
+                <icon id="icecream" src="icecream_icon.jpg" />
+                <icon id="pizza" src="pizza_icon.jpg" />
+                <icon id="sax" src="sax_icon.jpg" />
+                <icon id="snail" src="snail_icon.jpg" />
+                <icon id="strawberry" src="strawberry_icon.jpg" />
+                <icon id="bunny" src="bunny_icon.jpg" />
+                <icon id="elephant" src="elephant_icon.jpg" />   		
+                <icon id="monkey" src="monkey_icon.jpg" />
+                <icon id="pear" src="pear_icon.jpg" />
+                <icon id="skull1" src="skull1_icon.jpg" />
+                <icon id="skull2" src="skull2_icon.jpg" />
+                <icon id="alien_icon" src="alien_icon.jpg" />
+	      <icon id="pirate" src="pirate_icon.jpg" />
+	      <icon id="boy1" src="boy1_icon.jpg" />
+                <icon id="boy2" src="boy2_icon.jpg" />
+                <icon id="girl1" src="girl1_icon.jpg" />
+                <icon id="girl2" src="girl2_icon.jpg" />
+                <icon id="bluebird" src="bluebird_icon.jpg" />
+                <icon id="penguin" src="penguin_icon.jpg" />
+                <icon id="star" src="star_icon.jpg" />		
+	      <icon id="lightning" src="lightning_icon.jpg" />              
+	</userIcons>
+	<backgrounds>
+		<background id="bolts" src="bolts_bg.jpg" points="200" />
+		<background id="blue" src="blue_bg.jpg" points="200" />
+		<background id="yellow" src="yellow_bg.jpg" points="200" />
+		<background id="magenta" src="magenta_bg.jpg" points="200" />
+		<background id="green" src="green_bg.jpg" points="200" />
+		<background id="red" src="red_bg.jpg" points="300" />
+		<background id="purple" src="purple_bg.jpg" points="375" />
+		<background id="navy" src="navy_bg.jpg" points="25000" />
+		<background id="orange" src="orange_bg.jpg" points="350" />
+		<background id="guitars" src="guitars_bg.jpg" points="400" />
+		<background id="stars" src="stars_bg.jpg" points="700" />
+		<background id="planets" src="planets_bg.jpg" points="1500" />
+		<background id="drips" src="drips_bg.jpg" points="8000" />
+		<background id="rockets" src="rockets_bg.jpg" points="550" />
+		<background id="nyc" src="nyc_bg.jpg" points="650" />
+		<background id="gears" src="gears_bg.jpg" points="450" />
+		<background id="radiating" src="radiating_bg.jpg" points="7000" />
+		<background id="clouds" src="clouds_bg.jpg" points="2000" />
+		<background id="arrows" src="arrows_bg.jpg" points="900" />
+		<background id="aquarium" src="aquarium_bg.jpg" points="4500" />
+		<background id="airplanes" src="airplanes_bg.jpg" points="500" />
+		<background id="basketball" src="basketball_bg.jpg" points="1000" />
+		<background id="science" src="science_bg.jpg" points="2500" />
+		<background id="shapes" src="shapes_bg.jpg" points="800" />                
+		<background id="humps" src="humps_bg.jpg" points="6000" />
+		<background id="streetlights" src="streetlights_bg.jpg" points="3000" />
+		<background id="exclamation" src="exclamation_bg.jpg" points="5500" />
+		<background id="city" src="city_bg.jpg" points="600" />
+		<background id="hills" src="hills_bg.jpg" points="3500" />
+                <background id="blueprint" src="blueprint_bg.jpg" points="5000" />
+	</backgrounds>
+	<sceneBackgrounds>
+		<sceneBg id="1" src="1.png" textX="15" textY="181" rot="0" fon="26" col="0x0099FF" w="150" h="70" />
+		<sceneBg id="2" src="2.png" textX="273" textY="190" rot="8" fon="22" col="0x000000" w="138" h="70"/>
+		<sceneBg id="3" src="3.png" textX="290" textY="72" rot="0" fon="28" col="0xAAAAAA" w="150" h="70"/>
+		<sceneBg id="4" src="4.png" textX="312" textY="197" rot="-2" fon="22" col="0x333333" w="150" h="75"/>
+		<sceneBg id="5" src="5.png" textX="8" textY="225" rot="-14" fon="24" col="0x0099FF" w="130" h="85"/>
+	</sceneBackgrounds>
+	<mySceneWords>
+	<myWords text="sun" />
+		<myWords text="why" />
+		<myWords text="eat" />
+		<myWords text="this" />
+		<myWords text="the" />
+		<myWords text="get" />
+		<myWords text="buy" />
+		<myWords text="you" />
+		<myWords text="us" />
+		<myWords text="we" />
+		<myWords text="an" />
+		<myWords text="up" />
+		<myWords text="am" />
+		<myWords text="a" />
+		<myWords text="I" />
+		<myWords text="sweep" />
+		<myWords text="drink" />
+		<myWords text="clean" />
+		<myWords text="hungry" />
+		<myWords text="happy" />
+		<myWords text="grumpy" />
+		<myWords text="funny" />
+		<myWords text="singing" />
+		<myWords text="dancing" />
+		<myWords text="laughing" />
+		<myWords text="reading" />
+		<myWords text="scientist" />
+		<myWords text="gorillas" />
+		<myWords text="bananas" />
+		<myWords text="mummies" />
+		<myWords text="think" />
+		<myWords text="wash" />
+		<myWords text="sand" />
+		<myWords text="math" />
+		<myWords text="talk" />
+		<myWords text="play" />
+		<myWords text="down" />
+		<myWords text="like" />
+		<myWords text="want" />
+		<myWords text="feel" />
+		<myWords text="what" />
+		<myWords text="when" />
+		<myWords text="how" />
+		<myWords text="where" />
+		<myWords text="music" />
+		<myWords text="yummy" />
+		<myWords text="who" />
+		<myWords text="awesome" />
+		<myWords text="What's happening?" />
+		<myWords text="Check it out!" />
+		<myWords text="Cool!" />
+	
+	</mySceneWords>
+</ec>

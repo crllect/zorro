@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<lines>
+<line fn="code_intro">We have to crack this code. Each number matches a letter. Use the key in my hand to find the match. Put the right letter under each number. When you think you've cracked the code, click the enter button.</line>
+<line fn="code_intro2">We have to crack this code. Each number matches a letter. Use the key in my hand to find the match. Use your COMPUTER KEYBOARD to type the right letter under each number. When you think you've cracked the code, click the enter button.</line>
+<line fn="code_ck_word1">Chicken</line>
+<line fn="code_ck_word2">Island</line>
+<line fn="code_ck_words">Chicken Island</line>
+<line fn="code_ck_exp">Chicken Island. Isn't that the chicken-filled island near Rooster Bay? But how are we going to get there?</line>
+<line fn="code_ck_prize">Of course! A blimp. Like a balloon, but better</line>
+<line fn="code_ck_epiphany">Chicken Island. The most chickeny place on earth...</line>
+<line fn="code_ar_word1">Air</line>
+<line fn="code_ar_word2">Resistance</line>
+<line fn="code_ar_words">Air resistance</line>
+<line fn="code_ar_exp">Hmmm... air resistance is when the air pushes on something and slows it down. Like when you walk into the wind, it pushes back on you!</line>
+<line fn="code_ar_prize">Oh, cloth and ropes!</line>
+<line fn="code_ar_epiphany">So, air resistance plus cloth and ropes can mean only one thing: we need to parachute down to Chicken Island</line>
+<line fn="code_pk_word1">Potential</line>
+<line fn="code_pk_word2">Kinetic</line>
+<line fn="code_pk_words">Potential & kinetic are kinds of energy.</line>
+<line fn="code_pk_exp">Potential energy is kind of like saved-up energy. Kinetic energy is kind of like when you are using energy to move something.</line>
+<line fn="code_pk_prize">Oh, a giant bull's-eye!</line>
+<line fn="code_pk_epiphany">Those two words -potential and kinetic - plus the giant bull's-eye can mean only one thing: tomorrow I will need your help with Plan B: building a giant slingshot.</line>
+<line fn="code_sw_word1">Sound</line>
+<line fn="code_sw_word2">Waves</line>
+<line fn="code_sw_words">Sound Waves!</line>
+<line fn="code_sw_exp">Hmm. Sound Waves are created when something vibrates. Each vibration pushes against the air, creating waves that move through it. And those waves are what our ears hear as sound!</line>
+<line fn="code_sw_prize">Oh, a cup and a piece of string!</line>
+<line fn="code_sw_epiphany">So, those two words -- SOUND WAVES -- plus a cup and a piece of string can mean only one thing: tomorrow I will need your help to build something that vibrates and makes a chickeny sound: a Chickenator!</line>
+<line fn="code_pd_word1">Poodle</line>
+<line fn="code_pd_word2">Diamond</line>
+<line fn="code_pd_words">Poodle Diamond!</line>
+<line fn="code_pd_exp">I should have known Spot Spotnik would use that as his code!</line>
+<line fn="code_pd_prize">Aha, the keys!</line>
+<line fn="code_pd_epiphany">Let's go, Chet! You drive, and I'll stand in a victorious pose that says, "We have the Poodle Diamond!"</line>
+<line fn="code_fdbk_hmmm">Hmmm...</line>
+<line fn="code_fdbk_tryagain">Try again</line>
+<line fn="code_fdbk_match">Make sure each letter matches the number in the key!</line>
+<line fn="code_fdbk_notit">That's not it</line>
+</lines>

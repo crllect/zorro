@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+	<channel>
+		<title>FETCH! with Ruff Ruffman . Podcast | PBS KIDS GO!</title>
+		<link>http://pbskids.org/fetch/</link>
+		<description>Find out what really goes on behind the scenes on "Fetch! with Ruff Ruffman" in exclusive interviews with the top dog himself, Ruff Ruffman. FETCH! with Ruff Ruffman is the hilarious reality TV series for 6 to 10 year old kids that features real kids, real challenges and one really cool canine host.</description>
+		<copyright>Copyright 2008 WGBH Educational Foundation</copyright>
+		<language>en-us</language>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<managingEditor>fetch_feedback@wgbh.org</managingEditor>
+		<webMaster>fetch_tech@wgbh.org</webMaster>
+		<pubDate>Mon, 20 Sep 2010 00:00:01 GMT</pubDate>
+		<lastBuildDate>Mon, 20 Sep 2010 00:00:01 GMT</lastBuildDate>
+		<category>Children's</category>
+		<category>Comedy</category>
+		<category>Kids</category>
+		<category>Reality TV</category>
+		<category>Education</category>
+		<category>K-12</category>
+		<ttl>1000</ttl>
+		<image>
+			<url>http://pbskids.org/fetch/show/rss/fetch_logo_M.gif</url>
+			<title>FETCH! with Ruff Ruffman</title>
+			<link>http://pbskids.org/fetch/</link>
+			<width>100</width>
+			<height>100</height>
+			<description>Find out what really goes on behind the scenes on "FETCH! with Ruff Ruffman"</description>
+		</image>
+
+		<itunes:author>WGBH Educational Foundation</itunes:author>
+		<itunes:subtitle>Behind the scenes interviews with Ruff Ruffman</itunes:subtitle>
+		<itunes:summary>Find out what really goes on behind the scenes on "Fetch! with Ruff Ruffman" in exclusive interviews with the top dog himself, Ruff Ruffman. FETCH! with Ruff Ruffman is the hilarious reality TV series for 6 to 10 year old kids that features real kids, real challenges and one really cool canine host.</itunes:summary>
+		<itunes:owner>
+			<itunes:name>WGBH Interactive</itunes:name>
+			<itunes:email>fetch_tech@wgbh.org</itunes:email>
+		</itunes:owner>
+		<itunes:image href="http://pbskids.org/fetch/show/rss/fetch_logo_L.jpg" />
+		<itunes:category text="Kids &amp; Family"/>
+		<itunes:category text="Comedy"/>
+		<itunes:category text="TV &amp; Film"/>
+		<itunes:category text="Education">
+			<itunes:category text="K-12"/>
+		</itunes:category>
+		<itunes:explicit>no</itunes:explicit>
+
+		<item>
+			<title>FETCH! Podcast With A "W" | PBS KIDS GO!</title>
+			<link>http://pbskids.org/fetch/show/rss/media/FETCH_01podcast_with_a_w.mp3</link>
+			<description>Ruff Ruffman attempts to record his first ever podcast announcing the premiere of FETCH!'s second season</description>
+			<author>fetch_feedback@wgbh.org</author>
+			<pubDate>Mon, 14 May 2007 00:00:01 GMT</pubDate>
+			<enclosure url="http://pbskids.org/fetch/show/rss/media/FETCH_01podcast_with_a_w.mp3" length="2973491" type="audio/mpeg" />
+			<source url="http://pbskids.org/fetch/show/rss/fetch-feed-itunes.xml">FETCH Podcasts</source>			
+			<guid isPermaLink="false">fetch_20070514.wgbh.org</guid>
+			
+			<itunes:author>FETCH! with Ruff Ruffman</itunes:author>
+			<itunes:subtitle>Ruff Ruffman attempts to record his first ever podcast announcing the premiere of FETCH!'s second season</itunes:subtitle>
+			<itunes:summary>Ruff Ruffman attempts to record his first ever podcast announcing the premiere of FETCH!'s second season</itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>3:05</itunes:duration>
+			<itunes:keywords>Children's, Comedy, Kids, Science, Reality TV, PBS, PBS Kids, PBS Kids Go, Public Broadcasting Service, Public Broadcasting, PBS Online, Podcast, TV, television, public television, childrens television, kids tv</itunes:keywords>
+
+			
+		</item>
+
+
+		<item>
+			<title>FETCH! Podcast in the Morning | PBS KIDS GO!</title>
+			<link>http://pbskids.org/fetch/show/rss/media/FETCH_02_morning_show.mp3</link>
+			<description>To promote the second season of FETCH! with Ruff Ruffman, Ruff attempts to host his own morning talk show. What could possibly go wrong?</description>
+			<author>fetch_feedback@wgbh.org</author>
+			<pubDate>Wed, 23 May 2007 00:00:01 GMT</pubDate>
+			<enclosure url="http://pbskids.org/fetch/show/rss/media/FETCH_02_morning_show.mp3" length="2487756" type="audio/mpeg" />
+			<source url="http://pbskids.org/fetch/show/rss/fetch-feed-itunes.xml">FETCH Podcasts</source>			
+			<guid isPermaLink="false">fetch_20070523.wgbh.org</guid>
+			
+			<itunes:author>FETCH! with Ruff Ruffman</itunes:author>
+			<itunes:subtitle>To promote the second season of FETCH! with Ruff Ruffman, Ruff attempts to host his own morning talk show. What could possibly go wrong?</itunes:subtitle>
+			<itunes:summary>To promote the second season of FETCH! with Ruff Ruffman, Ruff attempts to host his own morning talk show. What could possibly go wrong?</itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>2:35</itunes:duration>
+			<itunes:keywords>Children's, Comedy, Kids, Science, Reality TV, PBS, PBS Kids, PBS Kids Go, Public Broadcasting Service, Public Broadcasting, PBS Online, Podcast, TV, television, public television, childrens television, kids tv</itunes:keywords>
+
+			
+		</item>
+
+
+		<item>
+			<title>FETCH! Extreme Podcast! | PBS KIDS GO!</title>
+			<link>http://pbskids.org/fetch/show/rss/media/FETCH_03_extreme_podcast.mp3</link>
+			<description>Ruff Ruffman gets extreme with his third podcast but surprise guest, Grandma Ruffman, takes it to the limit.</description>
+			<author>fetch_feedback@wgbh.org</author>
+			<pubDate>Tue, 05 Jun 2007 00:00:01 GMT</pubDate>
+			<enclosure url="http://pbskids.org/fetch/show/rss/media/FETCH_03_extreme_podcast.mp3" length="2318408" type="audio/mpeg" />
+			<source url="http://pbskids.org/fetch/show/rss/fetch-feed-itunes.xml">FETCH Podcasts</source>			
+			<guid isPermaLink="false">fetch_20070603.wgbh.org</guid>
+			
+			<itunes:author>FETCH! with Ruff Ruffman</itunes:author>
+			<itunes:subtitle>Ruff Ruffman gets extreme with his third podcast but surprise guest, Grandma Ruffman, takes it to the limit.</itunes:subtitle>
+			<itunes:summary>Ruff Ruffman gets extreme with his third podcast but surprise guest, Grandma Ruffman, takes it to the limit.</itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>2:24</itunes:duration>
+			<itunes:keywords>Children's, Comedy, Kids, Science, Reality TV, PBS, PBS Kids, PBS Kids Go, Public Broadcasting Service, Public Broadcasting, PBS Online, Podcast, TV, television, public television, childrens television, kids tv</itunes:keywords>
+
+			
+		</item>
+
+		<item>
+			<title>FETCH! Look Ma, No Script! | PBS KIDS GO!</title>
+			<link>http://pbskids.org/fetch/show/rss/media/FETCH_04_no_script.mp3</link>
+			<description>The illustrious Ruff Ruffman is caught without a script. Luckily, his trusty intern, Blossom, saves the day! Sort of...</description>
+			<author>fetch_feedback@wgbh.org</author>
+			<pubDate>Mon, 30 Jul 2007 00:00:01 GMT</pubDate>
+			<enclosure url="http://pbskids.org/fetch/show/rss/media/FETCH_04_no_script.mp3" length="2486050" type="audio/mpeg" />
+			<source url="http://pbskids.org/fetch/show/rss/fetch-feed-itunes.xml">FETCH Podcasts</source>
+			<guid isPermaLink="false">fetch_20070730.wgbh.org</guid>
+			
+			<itunes:author>FETCH! with Ruff Ruffman</itunes:author>
+			<itunes:subtitle>The illustrious Ruff Ruffman is caught without a script. Luckily, his trusty intern, Blossom, saves the day! Sort of...</itunes:subtitle>
+			<itunes:summary>The illustrious Ruff Ruffman is caught without a script. Luckily, his trusty intern, Blossom, saves the day! Sort of...</itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>2:35</itunes:duration>
+			<itunes:keywords>Children's, Comedy, Kids, Science, Reality TV, PBS, PBS Kids, PBS Kids Go, Public Broadcasting Service, Public Broadcasting, PBS Online, Podcast, TV, television, public television, childrens television, kids tv</itunes:keywords>
+		
+		</item>
+
+
+		<item>
+			<title>FETCH! DJ Ruff Boogie Hour | PBS KIDS GO!</title>
+			<link>http://pbskids.org/fetch/show/rss/media/FETCH_05_boogie_hour.mp3</link>
+			<description>DJ Ruff Ruffman spins the hottest tunes this side of the fire hydrant. Ouch!</description>
+			<author>fetch_feedback@wgbh.org</author>
+			<pubDate>Fri, 23 Nov 2007 00:00:01 GMT</pubDate>
+			<enclosure url="http://pbskids.org/fetch/show/rss/media/FETCH_05_boogie_hour.mp3" length="2837972" type="audio/mpeg" />
+			<source url="http://pbskids.org/fetch/show/rss/fetch-feed-itunes.xml">FETCH Podcasts</source>
+			<guid isPermaLink="false">fetch_20071116.wgbh.org</guid>
+			
+			<itunes:author>FETCH! with Ruff Ruffman</itunes:author>
+			<itunes:subtitle>DJ Ruff Ruffman spins the hottest tunes this side of the fire hydrant. Ouch!</itunes:subtitle>
+			<itunes:summary>DJ Ruff Ruffman spins the hottest tunes this side of the fire hydrant. Ouch!</itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>2:57</itunes:duration>
+			<itunes:keywords>Children's, Comedy, Kids, Science, Reality TV, PBS, PBS Kids, PBS Kids Go, Public Broadcasting Service, Public Broadcasting, PBS Online, Podcast, TV, television, public television, childrens television, kids tv</itunes:keywords>
+		
+		</item>
+
+
+	<item>
+			<title>FETCH! Ruff's Big Beautiful Bunch of Birds Show | PBS KIDS GO!</title>
+			<link>http://pbskids.org/fetch/show/rss/media/FETCH_06_birds_show.mp3</link>
+			<description>Ruff takes us on a tour of the melodious springtime twitterings of backyard birds with the "help" of Grandma Ruffman's parrot, Jerry Geranium.</description>
+			<author>fetch_feedback@wgbh.org</author>
+			<pubDate>Fri, 07 Dec 2007 00:00:01 GMT</pubDate>
+			<enclosure url="http://pbskids.org/fetch/show/rss/media/FETCH_06_birds_show.mp3" length="2589518" type="audio/mpeg" />
+			<source url="http://pbskids.org/fetch/show/rss/fetch-feed-itunes.xml">FETCH Podcasts</source>
+			<guid isPermaLink="false">fetch_20071207.wgbh.org</guid>
+			
+			<itunes:author>FETCH! with Ruff Ruffman</itunes:author>
+			<itunes:subtitle>Ruff takes us on a tour of the melodious springtime twitterings of backyard birds with the "help" of Grandma Ruffman's parrot, Jerry Geranium.</itunes:subtitle>
+			<itunes:summary>Ruff takes us on a tour of the melodious springtime twitterings of backyard birds with the "help" of Grandma Ruffman's parrot, Jerry Geranium.</itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>2:41</itunes:duration>
+			<itunes:keywords>Children's, Comedy, Kids, Science, Reality TV, PBS, PBS Kids, PBS Kids Go, Public Broadcasting Service, Public Broadcasting, PBS Online, Podcast, TV, television, public television, childrens television, kids tv</itunes:keywords>
+		
+		</item>
+
+
+<item>
+			<title>FETCH! Ruff Needs YOU! | PBS KIDS GO!</title>
+			<link>http://pbskids.org/fetch/show/rss/media/FETCH_07_RuffNeedsYou.mp3</link>
+			<description>The next season of FETCH! starts in September and Ruff can't think of any good ideas for the show. He needs your help and a better rocket launcher. Watch FETCH! with Ruff Ruffman on PBS KIDS GO!</description>
+			<author>fetch_feedback@wgbh.org</author>
+			<pubDate>Thu, 22 May 2008 10:00:01 GMT</pubDate>
+			<enclosure url="http://pbskids.org/fetch/show/rss/media/FETCH_07_RuffNeedsYou.mp3" length="2810692" type="audio/mpeg" />
+			<source url="http://pbskids.org/fetch/show/rss/fetch-feed-itunes.xml">FETCH Podcasts</source>
+			<guid isPermaLink="false">fetch_20080522.wgbh.org</guid>
+			
+			<itunes:author>FETCH! with Ruff Ruffman</itunes:author>
+			<itunes:subtitle>The next season of FETCH! starts in September and Ruff can't think of any good ideas for the show. He needs your help and a better rocket launcher. Watch FETCH! with Ruff Ruffman on PBS KIDS GO!</itunes:subtitle>
+			<itunes:summary>The next season of FETCH! starts in September and Ruff can't think of any good ideas for the show. He needs your help and a better rocket launcher. Watch FETCH! with Ruff Ruffman on PBS KIDS GO!</itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>2:55</itunes:duration>
+			<itunes:keywords>Children's, Comedy, Kids, Science, Reality TV, PBS, PBS Kids, PBS Kids Go, Public Broadcasting Service, Public Broadcasting, PBS Online, Podcast, TV, television, public television, childrens television, kids tv</itunes:keywords>
+		
+		</item>
+<item>
+			<title>FETCH! The Zombie Effect... Starting September 29th | PBS KIDS GO!</title>
+			<link>http://pbskids.org/fetch/show/rss/media/FETCH_08_zombieeffect.mp3</link>
+			<description>Ruff needs everybody to know that new episodes of FETCH begin on September 29th, but he spent all his advertising budget on DVDs. Ruff realizes that there's only one answer... zombies?!</description>
+			<author>fetch_feedback@wgbh.org</author>
+			<pubDate>Fri, 19 Sep 2008 00:00:01 GMT</pubDate>
+			<enclosure url="http://pbskids.org/fetch/show/rss/media/FETCH_08_zombieeffect.mp3" length="3021513" type="audio/mpeg" />
+			<source url="http://pbskids.org/fetch/show/rss/fetch-feed-itunes.xml">FETCH Podcasts</source>
+			<guid isPermaLink="false">fetch_20080919.wgbh.org</guid>
+			
+			<itunes:author>FETCH! with Ruff Ruffman</itunes:author>
+			<itunes:subtitle>Ruff needs everybody to know that new episodes of FETCH begin on September 29th, but he spent all his advertising budget on DVDs. Ruff realizes that there's only one answer... zombies?!</itunes:subtitle>
+			<itunes:summary>Ruff needs everybody to know that new episodes of FETCH begin on September 29th, but he spent all his advertising budget on DVDs. Ruff realizes that there's only one answer... zombies?!</itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>3:09</itunes:duration>
+			<itunes:keywords>Children's, Comedy, Kids, Science, Reality TV, PBS, PBS Kids, PBS Kids Go, Public Broadcasting Service, Public Broadcasting, PBS Online, Podcast, TV, television, public television, childrens television, kids tv</itunes:keywords>
+		
+		</item>
+
+
+	<item>
+			<title>FETCH! Ruff's HOWLoween Podcast | PBS KIDS GO!</title>
+			<link>http://pbskids.org/fetch/show/rss/media/FETCH_09_HOWLoween.mp3</link>
+			<description>Ruff and his friends are getting ready for Halloween. But what manner of scariness will they encounter in Studio G's dark, spooky basement when they go down there for one last item? For more, go to
+http://www.pbskidsgo.org/fetch.</description>
+			<author>fetch_feedback@wgbh.org</author>
+			<pubDate>Mon, 27 Oct 2008 00:00:01 GMT</pubDate>
+			<enclosure url="http://pbskids.org/fetch/show/rss/media/FETCH_09_HOWLoween.mp3" length="2500482" type="audio/mpeg" />
+			<source url="http://pbskids.org/fetch/show/rss/fetch-feed-itunes.xml">FETCH Podcasts</source>
+			<guid isPermaLink="false">fetch_20081027.wgbh.org</guid>
+			
+			<itunes:author>FETCH! with Ruff Ruffman</itunes:author>
+			<itunes:subtitle>Ruff and his friends are getting ready for Halloween. But what manner of scariness will they encounter in Studio G's dark, spooky basement when they go down there for one last item? Watch FETCH! with Ruff Ruffman on PBS KIDS GO! For more, go to
+http://www.pbskidsgo.org/fetch.</itunes:subtitle>
+			<itunes:summary>Ruff and his friends are getting ready for Halloween. But what manner of scariness will they encounter in Studio G's dark, spooky basement when they go down there for one last item? Watch FETCH! with Ruff Ruffman on PBS KIDS GO! For more, go to
+http://www.pbskidsgo.org/fetch.</itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>2:35</itunes:duration>
+			<itunes:keywords>Children's, Comedy, Kids, Science, Reality TV, PBS, PBS Kids, PBS Kids Go, Public Broadcasting Service, Public Broadcasting, PBS Online, Podcast, TV, television, public television, childrens television, kids tv</itunes:keywords>
+		
+		</item>
+
+
+		<item>
+			<title>FETCH! Audition Podcast | PBS KIDS GO!</title>
+			<link>http://pbskids.org/fetch/show/rss/media/FETCH_10_Audition09.mp3</link>
+			<description>Ruff needs to spread the word--auditions for FETCH! are coming soon!  But since he's just been fired, Ruff has to start going on auditions himself... Hey, what's this ad about being on a reality game show? Watch FETCH! with Ruff Ruffman on PBS KIDS GO! For more, go to
+http://www.pbskidsgo.org/fetch.</description>
+			<author>fetch_feedback@wgbh.org</author>
+			<pubDate>Tue, 02 Dec 2008 00:00:01 GMT</pubDate>
+			<enclosure url="http://pbskids.org/fetch/show/rss/media/FETCH_10_Audition09.mp3" length="2649862" type="audio/mpeg" />
+			<source url="http://pbskids.org/fetch/show/rss/fetch-feed-itunes.xml">FETCH Podcasts</source>
+			<guid isPermaLink="false">fetch_20081202.wgbh.org</guid>
+			
+			<itunes:author>FETCH! with Ruff Ruffman</itunes:author>
+			<itunes:subtitle>Ruff needs to spread the word--auditions for FETCH! are coming soon!  But since he's just been fired, Ruff has to start going on auditions himself... Hey, what's this ad about being on a reality game show? Watch FETCH! with Ruff Ruffman on PBS KIDS GO! For more, go to
+http://www.pbskidsgo.org/fetch.</itunes:subtitle>
+			<itunes:summary>Ruff needs to spread the word--auditions for FETCH! are coming soon!  But since he's just been fired, Ruff has to start going on auditions himself... Hey, what's this ad about being on a reality game show? Watch FETCH! with Ruff Ruffman on PBS KIDS GO! For more, go to
+http://www.pbskidsgo.org/fetch.</itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>2:44</itunes:duration>
+			<itunes:keywords>Children's, Comedy, Kids, Science, Reality TV, PBS, PBS Kids, PBS Kids Go, Public Broadcasting Service, Public Broadcasting, PBS Online, Podcast, TV, television, public television, childrens television, kids tv</itunes:keywords>
+		
+		</item>
+
+
+
+		<item>
+			<title>FETCH! Holiday Podcast 2008 | PBS KIDS GO!</title>
+			<link>http://pbskids.org/fetch/show/rss/media/FETCH_11_Holiday08.mp3</link>
+			<description>Ruff is feeling blue since he was fired as host of FETCH! with Ruff Ruffman. Murray convinces him to sing some holiday songs to cheer up. Can holiday cheer actually cheer up Ruff? Watch FETCH! with Ruff Ruffman on PBS KIDS GO! For more, visit http://www.pbskidsgo.org/fetch.</description>
+			<author>fetch_feedback@wgbh.org</author>
+			<pubDate>Mon, 22 Dec 2008 00:00:01 GMT</pubDate>
+			<enclosure url="http://pbskids.org/fetch/show/rss/media/FETCH_11_Holiday08.mp3" length="1321031" type="audio/mpeg" />
+			<source url="http://pbskids.org/fetch/show/rss/fetch-feed-itunes.xml">FETCH Podcasts</source>
+			<guid isPermaLink="false">fetch_20081222.wgbh.org</guid>
+			
+			<itunes:author>FETCH! with Ruff Ruffman</itunes:author>
+			<itunes:subtitle>Ruff is feeling blue since he was fired as host of FETCH! with Ruff Ruffman. Murray convinces him to sing some holiday songs to cheer up. Can holiday cheer actually cheer up Ruff? Watch FETCH! with Ruff Ruffman on PBS KIDS GO! For more, visit http://www.pbskidsgo.org/fetch.</itunes:subtitle>
+			<itunes:summary>Ruff is feeling blue since he was fired as host of FETCH! with Ruff Ruffman. Murray convinces him to sing some holiday songs to cheer up. Can holiday cheer actually cheer up Ruff? Watch FETCH! with Ruff Ruffman on PBS KIDS GO! For more, visit http://www.pbskidsgo.org/fetch.</itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>2:42</itunes:duration>
+			<itunes:keywords>Children's, Comedy, Kids, Science, Reality TV, PBS, PBS Kids, PBS Kids Go, Public Broadcasting Service, Public Broadcasting, PBS Online, Podcast, TV, television, public television, childrens television, kids tv</itunes:keywords>
+		
+		</item>
+
+
+
+		<item>
+			<title>FETCH! Ruffman Audio Books Presents... | PBS KIDS GO!</title>
+			<link>http://pbskids.org/fetch/show/rss/media/FETCH_12_Audiobooks.mp3</link>
+			<description>Ruff produces an audio book recording of his memoirs, but has second thoughts when he assigns Chet to do the sound effects. Watch FETCH! with Ruff Ruffman on PBS KIDS GO! For more, visit http://www.pbskidsgo.org/fetch.</description>
+			<author>fetch_feedback@wgbh.org</author>
+			<pubDate>Mon, 02 Feb 2009 00:00:01 GMT</pubDate>
+			<enclosure url="http://pbskids.org/fetch/show/rss/media/FETCH_12_Audiobooks.mp3" length="3199359" type="audio/mpeg" />
+			<source url="http://pbskids.org/fetch/show/rss/fetch-feed-itunes.xml">FETCH Podcasts</source>
+			<guid isPermaLink="false">fetch_20090202.wgbh.org</guid>
+			
+			<itunes:author>FETCH! with Ruff Ruffman</itunes:author>
+			<itunes:subtitle>Ruff produces an audio book recording of his memoirs, but has second thoughts when he assigns Chet to do the sound effects. Watch FETCH! with Ruff Ruffman on PBS KIDS GO! For more, visit http://www.pbskidsgo.org/fetch.</itunes:subtitle>
+			<itunes:summary>Ruff produces an audio book recording of his memoirs, but has second thoughts when he assigns Chet to do the sound effects. Watch FETCH! with Ruff Ruffman on PBS KIDS GO! For more, visit http://www.pbskidsgo.org/fetch.</itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>3:19</itunes:duration>
+			<itunes:keywords>Children's, Comedy, Kids, Science, Reality TV, PBS, PBS Kids, PBS Kids Go, Public Broadcasting Service, Public Broadcasting, PBS Online, Podcast, TV, television, public television, childrens television, kids tv</itunes:keywords>
+		
+		</item>
+
+
+		<item>
+			<title>FETCH! Ruff's New Job: Moose Finder | PBS KIDS GO!</title>
+			<link>http://pbskids.org/fetch/show/rss/media/FETCH_13_RuffsNewJob.mp3</link>
+			<description>Ruff's new career as a Moose Finder isn't going well. Will working as a Mouse Finder be a better fit? Watch FETCH! with Ruff Ruffman on PBS KIDS GO! For more, visit http://www.pbskidsgo.org/fetch</description>
+			<author>fetch_feedback@wgbh.org</author>
+			<pubDate>Thu, 05 Mar 2009 00:00:01 GMT</pubDate>
+			<enclosure url="http://pbskids.org/fetch/show/rss/media/FETCH_13_RuffsNewJob.mp3" length="4367877" type="audio/mpeg" />
+			<source url="http://pbskids.org/fetch/show/rss/fetch-feed-itunes.xml">FETCH Podcasts</source>
+			<guid isPermaLink="false">fetch_20090305.wgbh.org</guid>
+			
+			<itunes:author>FETCH! with Ruff Ruffman</itunes:author>
+			<itunes:subtitle>Ruff's new career as a Moose Finder isn't going well. Will working as a Mouse Finder be a better fit? Watch FETCH! with Ruff Ruffman on PBS KIDS GO! For more, visit http://www.pbskidsgo.org/fetch</itunes:subtitle>
+			<itunes:summary>Ruff's new career as a Moose Finder isn't going well. Will working as a Mouse Finder be a better fit? Watch FETCH! with Ruff Ruffman on PBS KIDS GO! For more, visit http://www.pbskidsgo.org/fetch</itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>4:32</itunes:duration>
+			<itunes:keywords>Children's, Comedy, Kids, Science, Reality TV, PBS, PBS Kids, PBS Kids Go, Public Broadcasting Service, Public Broadcasting, PBS Online, Podcast, TV, television, public television, childrens television, kids tv</itunes:keywords>
+		
+		</item>
+
+
+		<item>
+			<title>FETCH! Ruff Goes to England | PBS KIDS GO!</title>
+			<link>http://pbskids.org/fetch/show/rss/media/FETCH_14_RuffInEngland.mp3</link>
+			<description>Ruff produces an audio travel diary about his trip to England to perform in a big concert. But is he ready for the spotlight? Watch FETCH! with Ruff Ruffman on PBS KIDS GO! For more, visit http://www.pbskidsgo.org/fetch</description>
+			<author>fetch_feedback@wgbh.org</author>
+			<pubDate>Tue, 31 Mar 2009 00:00:01 GMT</pubDate>
+			<enclosure url="http://pbskids.org/fetch/show/rss/media/FETCH_14_RuffInEngland.mp3" length="3277702" type="audio/mpeg" />
+			<source url="http://pbskids.org/fetch/show/rss/fetch-feed-itunes.xml">FETCH Podcasts</source>
+			<guid isPermaLink="false">fetch_20090331.wgbh.org</guid>
+			
+			<itunes:author>FETCH! with Ruff Ruffman</itunes:author>
+			<itunes:subtitle>Ruff produces an audio travel diary about his trip to England to perform in a big concert. But is he ready for the spotlight? Watch FETCH! with Ruff Ruffman on PBS KIDS GO! For more, visit http://www.pbskidsgo.org/fetch</itunes:subtitle>
+			<itunes:summary>Ruff produces an audio travel diary about his trip to England to perform in a big concert. But is he ready for the spotlight? Watch FETCH! with Ruff Ruffman on PBS KIDS GO! For more, visit http://www.pbskidsgo.org/fetch</itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>3:24</itunes:duration>
+			<itunes:keywords>Children's, Comedy, Kids, Science, Reality TV, PBS, PBS Kids, PBS Kids Go, Public Broadcasting Service, Public Broadcasting, PBS Online, Podcast, TV, television, public television, childrens television, kids tv</itunes:keywords>
+		
+		</item>
+
+		<item>
+			<title>FETCH! Glen's Video Game Review | PBS KIDS GO!</title>
+			<link>http://pbskids.org/fetch/show/rss/media/FETCH_15_VideogameReview.mp3</link>
+			<description>Ruff's nephew Glen offers his expert opinion on Germinator, the exciting video-game journey into the body's immune system. Will he find it infectious? Watch FETCH! with Ruff Ruffman on PBS KIDS GO! For more, visit http://www.pbskidsgo.org/fetch</description>
+			<author>fetch_feedback@wgbh.org</author>
+			<pubDate>Fri, 24 Apr 2009 00:00:01 GMT</pubDate>
+			<enclosure url="http://pbskids.org/fetch/show/rss/media/FETCH_15_VideogameReview.mp3" length="2947461" type="audio/mpeg" />
+			<source url="http://pbskids.org/fetch/show/rss/fetch-feed-itunes.xml">FETCH Podcasts</source>
+			<guid isPermaLink="false">fetch_20090424.wgbh.org</guid>
+			
+			<itunes:author>FETCH! with Ruff Ruffman</itunes:author>
+			<itunes:subtitle>Ruff's nephew Glen offers his expert opinion on Germinator, the exciting video-game journey into the body's immune system. Will he find it infectious? Watch FETCH! with Ruff Ruffman on PBS KIDS GO! For more, visit http://www.pbskidsgo.org/fetch</itunes:subtitle>
+			<itunes:summary>Ruff's nephew Glen offers his expert opinion on Germinator, the exciting video-game journey into the body's immune system. Will he find it infectious? Watch FETCH! with Ruff Ruffman on PBS KIDS GO! For more, visit http://www.pbskidsgo.org/fetch</itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>3:02</itunes:duration>
+			<itunes:keywords>Children's, Comedy, Kids, Science, Reality TV, PBS, PBS Kids, PBS Kids Go, Public Broadcasting Service, Public Broadcasting, PBS Online, Podcast, TV, television, public television, childrens television, kids tv</itunes:keywords>
+		
+		</item>
+
+
+		<item>
+			<title>FETCH! Rock 'em, Sock 'em | PBS KIDS GO!</title>
+			<link>http://pbskids.org/fetch/show/rss/media/FETCH_16_RockemSockem.mp3</link>
+			<description>Ruff takes us "behind the scenes" for a look at how he comes up with the fabulous games for his show and Web site. But perhaps hiring Uncle MacRuffmantosh as new chief game developer wasn't such a great idea after all. Watch FETCH! with Ruff Ruffman on PBS KIDS GO! For more, visit http://www.pbskidsgo.org/fetch</description>
+			<author>fetch_feedback@wgbh.org</author>
+			<pubDate>Mon, 01 Jun 2009 00:00:01 GMT</pubDate>
+			<enclosure url="http://pbskids.org/fetch/show/rss/media/FETCH_16_RockemSockem.mp3" length="3253126" type="audio/mpeg" />
+			<source url="http://pbskids.org/fetch/show/rss/fetch-feed-itunes.xml">FETCH Podcasts</source>
+			<guid isPermaLink="false">fetch_20090601.wgbh.org</guid>
+			
+			<itunes:author>FETCH! with Ruff Ruffman</itunes:author>
+			<itunes:subtitle>Ruff takes us "behind the scenes" for a look at how he comes up with the fabulous games for his show and Web site. But perhaps hiring Uncle MacRuffmantosh as new chief game developer wasn't such a great idea after all. Watch FETCH! with Ruff Ruffman on PBS KIDS GO! For more, visit http://www.pbskidsgo.org/fetch</itunes:subtitle>
+			<itunes:summary>Ruff takes us "behind the scenes" for a look at how he comes up with the fabulous games for his show and Web site. But perhaps hiring Uncle MacRuffmantosh as new chief game developer wasn't such a great idea after all. Watch FETCH! with Ruff Ruffman on PBS KIDS GO! For more, visit http://www.pbskidsgo.org/fetch</itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>3:22</itunes:duration>
+			<itunes:keywords>Children's, Comedy, Kids, Science, Reality TV, PBS, PBS Kids, PBS Kids Go, Public Broadcasting Service, Public Broadcasting, PBS Online, Podcast, TV, television, public television, childrens television, kids tv</itunes:keywords>
+		
+		</item>
+
+		<item>
+			<title>FETCH! Hot Diggity Dog | PBS KIDS GO!</title>
+			<link>http://pbskids.org/fetch/show/rss/media/FETCH_17_HotDiggity.mp3</link>
+			<description>Ruff's latest podcast features Ruff and Scruff performing the new hit musical "Hot Diggity Dog" - but Ruff ends up getting a bit more than he bargained for in the performance. Watch FETCH! with Ruff Ruffman on PBS KIDS GO! For more, visit http://www.pbskidsgo.org/fetch</description>
+			<author>fetch_feedback@wgbh.org</author>
+			<pubDate>Thu, 17 Sep 2009 00:00:01 GMT</pubDate>
+			<enclosure url="http://pbskids.org/fetch/show/rss/media/FETCH_17_HotDiggity.mp3" length="3281250" type="audio/mpeg" />
+			<source url="http://pbskids.org/fetch/show/rss/fetch-feed-itunes.xml">FETCH Podcasts</source>
+			<guid isPermaLink="false">fetch_20090917.wgbh.org</guid>
+			
+			<itunes:author>FETCH! with Ruff Ruffman</itunes:author>
+			<itunes:subtitle>Ruff's latest podcast features Ruff and Scruff performing the new hit musical "Hot Diggity Dog" - but Ruff ends up getting a bit more than he bargained for in the performance. Watch FETCH! with Ruff Ruffman on PBS KIDS GO! For more, visit http://www.pbskidsgo.org/fetch</itunes:subtitle>
+			<itunes:summary>Ruff's latest podcast features Ruff and Scruff performing the new hit musical "Hot Diggity Dog" - but Ruff ends up getting a bit more than he bargained for in the performance. Watch FETCH! with Ruff Ruffman on PBS KIDS GO! For more, visit http://www.pbskidsgo.org/fetch</itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>3:23</itunes:duration>
+			<itunes:keywords>Children's, Comedy, Kids, Science, Reality TV, PBS, PBS Kids, PBS Kids Go, Public Broadcasting Service, Public Broadcasting, PBS Online, Podcast, TV, television, public television, childrens television, kids tv</itunes:keywords>
+		
+		</item>
+
+
+		<item>
+			<title>FETCH! The Ruff Ruffman Clothing Collection | PBS KIDS GO!</title>
+			<link>http://pbskids.org/fetch/show/rss/media/FETCH_18_RuffmanCollection.mp3</link>
+			<description>Helga wants Ruff to model clothing for a photo shoot in Europe. He'll just need to find a way to get there... and avoid any giant squids along the way. Watch FETCH! with Ruff Ruffman on PBS KIDS GO! For more, visit http://www.pbskidsgo.org/fetch</description>
+			<author>fetch_feedback@wgbh.org</author>
+			<pubDate>Tue, 15 Dec 2009 00:00:01 GMT</pubDate>
+			<enclosure url="http://pbskids.org/fetch/show/rss/media/FETCH_18_RuffmanCollection.mp3" length="2598284" type="audio/mpeg" />
+			<source url="http://pbskids.org/fetch/show/rss/fetch-feed-itunes.xml">FETCH Podcasts</source>
+			<guid isPermaLink="false">fetch_20091215.wgbh.org</guid>
+			
+			<itunes:author>FETCH! with Ruff Ruffman</itunes:author>
+			<itunes:subtitle>Helga wants Ruff to model clothing for a photo shoot in Europe. He'll just need to find a way to get there... and avoid any giant squids along the way. Watch FETCH! with Ruff Ruffman on PBS KIDS GO! For more, visit http://www.pbskidsgo.org/fetch</itunes:subtitle>
+			<itunes:summary>Helga wants Ruff to model clothing for a photo shoot in Europe. He'll just need to find a way to get there... and avoid any giant squids along the way. Watch FETCH! with Ruff Ruffman on PBS KIDS GO! For more, visit http://www.pbskidsgo.org/fetch</itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>2:40</itunes:duration>
+			<itunes:keywords>Children's, Comedy, Kids, Science, Reality TV, PBS, PBS Kids, PBS Kids Go, Public Broadcasting Service, Public Broadcasting, PBS Online, Podcast, TV, television, public television, childrens television, kids tv</itunes:keywords>
+		
+		</item>
+
+
+		<item>
+			<title>FETCH! The What-Should-Ruff-Get-His-Grandma-for-Her-Birthday-Because-Her-Birthday's-Today-and-He-Forgot-to-Get-Her-Something Radio Show | PBS KIDS GO!</title>
+			<link>http://pbskids.org/fetch/show/rss/media/FETCH_19_GrandmasBirthday.mp3</link>
+			<description>Ruff forgot to get Grandma Ruffman a birthday present, so he hosts his own radio talk show to ask for gift ideas.  Ruff's cousin, Bluff, and his brother, Scruff, call the show and have some interesting birthday ideas. Watch FETCH! with Ruff Ruffman on PBS KIDS GO! For more, visit http://www.pbskidsgo.org/fetch</description>
+			<author>fetch_feedback@wgbh.org</author>
+			<pubDate>Wed, 20 Jan 2010 00:00:01 GMT</pubDate>
+			<enclosure url="http://pbskids.org/fetch/show/rss/media/FETCH_19_GrandmasBirthday.mp3" length="3065321" type="audio/mpeg" />
+			<source url="http://pbskids.org/fetch/show/rss/fetch-feed-itunes.xml">FETCH Podcasts</source>
+			<guid isPermaLink="false">fetch_20100120.wgbh.org</guid>
+			
+			<itunes:author>FETCH! with Ruff Ruffman</itunes:author>
+			<itunes:subtitle>Ruff forgot to get Grandma Ruffman a birthday present, so he hosts his own radio talk show to ask for gift ideas.  Ruff's cousin, Bluff, and his brother, Scruff, call the show and have some interesting birthday ideas. Watch FETCH! with Ruff Ruffman on PBS KIDS GO! For more, visit http://www.pbskidsgo.org/fetch</itunes:subtitle>
+			<itunes:summary>Ruff forgot to get Grandma Ruffman a birthday present, so he hosts his own radio talk show to ask for gift ideas.  Ruff's cousin, Bluff, and his brother, Scruff, call the show and have some interesting birthday ideas. Watch FETCH! with Ruff Ruffman on PBS KIDS GO! For more, visit http://www.pbskidsgo.org/fetch</itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>3:09</itunes:duration>
+			<itunes:keywords>Children's, Comedy, Kids, Science, Reality TV, PBS, PBS Kids, PBS Kids Go, Public Broadcasting Service, Public Broadcasting, PBS Online, Podcast, TV, television, public television, childrens television, kids tv</itunes:keywords>
+		
+		</item>
+
+
+
+		<item>
+			<title>FETCH! . Ruff Talks to NASA! | PBS KIDS GO!</title>
+			<link>http://pbskids.org/fetch/show/rss/media/FETCH_20_NASA.mp3</link>
+			<description>Ruff lands an interview with Stephanie Wilson, a real NASA astronaut! Ruff learns everything you need to know about becoming an astronaut... except how to fit into his flight suit. Watch FETCH! with Ruff Ruffman on PBS KIDS GO! For more, visit http://www.pbskidsgo.org/fetch</description>
+			<author>fetch_feedback@wgbh.org</author>
+			<pubDate>Mon, 15 Mar 2010 00:00:01 GMT</pubDate>
+			<enclosure url="http://pbskids.org/fetch/show/rss/media/FETCH_20_NASA.mp3" length="1917448" type="audio/mpeg" />
+			<source url="http://pbskids.org/fetch/show/rss/fetch-feed-itunes.xml">FETCH Podcasts</source>
+			<guid isPermaLink="false">fetch_20100315.wgbh.org</guid>
+			
+			<itunes:author>FETCH! with Ruff Ruffman</itunes:author>
+			<itunes:subtitle>Ruff lands an interview with Stephanie Wilson, a real NASA astronaut! Ruff learns everything you need to know about becoming an astronaut... except how to fit into his flight suit. Watch FETCH! with Ruff Ruffman on PBS KIDS GO! For more, visit http://www.pbskidsgo.org/fetch</itunes:subtitle>
+			<itunes:summary>Ruff lands an interview with Stephanie Wilson, a real NASA astronaut! Ruff learns everything you need to know about becoming an astronaut... except how to fit into his flight suit. Watch FETCH! with Ruff Ruffman on PBS KIDS GO! For more, visit http://www.pbskidsgo.org/fetch</itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>1:57</itunes:duration>
+			<itunes:keywords>Children's, Comedy, Kids, Science, Reality TV, PBS, PBS Kids, PBS Kids Go, Public Broadcasting Service, Public Broadcasting, PBS Online, Podcast, TV, television, public television, childrens television, kids tv</itunes:keywords>
+		
+		</item>
+
+
+		<item>
+			<title>FETCH! . Ten Four! It's Season 5 | PBS KIDS GO!</title>
+			<link>http://pbskids.org/fetch/show/rss/media/FETCH_21_Truckin_10_4.mp3</link>
+			<description>Ruff's latest podcast follows his new career path as a trucker. And although he's got the trucker lingo down, his truck driving leaves a lot to be desired! Watch FETCH! with Ruff Ruffman on PBS KIDS GO! For more, visit http://www.pbskidsgo.org/fetch</description>
+			<author>fetch_feedback@wgbh.org</author>
+			<pubDate>Mon, 20 Sep 2010 00:00:01 GMT</pubDate>
+			<enclosure url="http://pbskids.org/fetch/show/rss/media/FETCH_21_Truckin_10_4.mp3" length="1535442" type="audio/mpeg" />
+			<source url="http://pbskids.org/fetch/show/rss/fetch-feed-itunes.xml">FETCH Podcasts</source>
+			<guid isPermaLink="false">fetch_20100920.wgbh.org</guid>
+			
+			<itunes:author>FETCH! with Ruff Ruffman</itunes:author>
+			<itunes:subtitle>Ruff's latest podcast follows his new career path as a trucker. And although he's got the trucker lingo down, his truck driving leaves a lot to be desired! Watch FETCH! with Ruff Ruffman on PBS KIDS GO! For more, visit http://www.pbskidsgo.org/fetch</itunes:subtitle>
+			<itunes:summary>Ruff's latest podcast follows his new career path as a trucker. And although he's got the trucker lingo down, his truck driving leaves a lot to be desired! Watch FETCH! with Ruff Ruffman on PBS KIDS GO! For more, visit http://www.pbskidsgo.org/fetch</itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>1:33</itunes:duration>
+			<itunes:keywords>Children's, Comedy, Kids, Science, Reality TV, PBS, PBS Kids, PBS Kids Go, Public Broadcasting Service, Public Broadcasting, PBS Online, Podcast, TV, television, public television, childrens television, kids tv</itunes:keywords>
+		
+		</item>
+
+	</channel>
+</rss>

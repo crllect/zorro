@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ec>
+	<section name="BATTLE">
+		<zap id="assistant" icon="assistant.png" nameAudio="zap_assistant.mp3" definitionAudio="zap_assistant_def.mp3" tweenDirection="130" points="FIND" />
+		<zap id="election" icon="election.png" nameAudio="zap_election.mp3" definitionAudio="zap_election_def.mp3" tweenDirection="130" points="FIND" />
+		<zap id="pet" icon="pet.png" nameAudio="zap_pet.mp3" definitionAudio="zap_pet_def.mp3" tweenDirection="130" points="FIND" />
+		<zap id="structure" icon="structure.png" nameAudio="zap_structure.mp3" definitionAudio="zap_structure_def.mp3" tweenDirection="130" points="FIND" />
+		<zap id="popcorn" icon="popcorn.png" nameAudio="zap_popcorn.mp3" definitionAudio="zap_popcorn_def.mp3" tweenDirection="230" points="FIND" />
+		<zap id="gadget" icon="gadget.png" nameAudio="zap_gadget.mp3" definitionAudio="zap_gadget_def.mp3" tweenDirection="230" points="FIND" />
+		<zap id="brick" icon="brick.png" nameAudio="zap_brick.mp3" definitionAudio="zap_brick_def.mp3" tweenDirection="230" points="FIND" />
+		<zap id="advertise" icon="advertise.png" nameAudio="zap_advertise.mp3" definitionAudio="zap_advertise_def.mp3" tweenDirection="260" points="FIND" />
+		
+		<zap id="beetle" icon="beetle.png" nameAudio="beetle.mp3" definitionAudio="beetle_def.mp3" tweenDirection="130" points="FIND" />	
+		<zap id="hot_air_balloon" title="hot air balloon" icon="hot_air_balloon.png" nameAudio="hot_air_balloon.mp3" definitionAudio="hot_air_balloon_def.mp3" tweenDirection="350" points="FIND" />	
+		<zap id="thermometer" icon="thermometer.png" nameAudio="thermometer.mp3" definitionAudio="thermometer_def.mp3" tweenDirection="225" points="FIND" />
+		<zap id="launch" icon="launch.png" nameAudio="launch.mp3" definitionAudio="launch_def.mp3" tweenDirection="270" points="FIND" />
+		<zap id="boombox" icon="boombox.png" nameAudio="boombox.mp3" definitionAudio="boombox_def.mp3" tweenDirection="210" tweenDistance="150" tweenTime=".7" points="FIND" />
+		<zap id="toast" icon="toast.png" nameAudio="toast.mp3" definitionAudio="toast_def.mp3" tweenDirection="1" points="FIND" />
+	</section>
+	<section name="GAMES">
+		<zap id="amount" icon="amount.png" nameAudio="zap_amount.mp3" definitionAudio="zap_amount_def.mp3" tweenDirection="255" points="FIND" />
+		<zap id="charity" icon="charity.png" nameAudio="zap_charity.mp3" definitionAudio="zap_charity_def.mp3" tweenDirection="255" points="FIND" />
+		<zap id="dime" icon="dime.png" nameAudio="zap_dime.mp3" definitionAudio="zap_dime_def.mp3" tweenDirection="255" points="FIND" />
+		<zap id="fives" icon="fives.png" nameAudio="zap_fives.mp3" definitionAudio="zap_fives_def.mp3" tweenDirection="255" points="FIND" />
+		<zap id="hundred" icon="hundred.png" nameAudio="zap_hundred.mp3" definitionAudio="zap_hundred_def.mp3" tweenDirection="255" points="FIND" />
+		<zap id="inch" icon="inch.png" nameAudio="zap_inch.mp3" definitionAudio="zap_inch_def.mp3" tweenDirection="255" points="FIND" />
+		<zap id="launch" icon="launch.png" nameAudio="zap_launch.mp3" definitionAudio="zap_launch_def.mp3" tweenDirection="255" points="FIND" />
+		<zap id="most" icon="most.png" nameAudio="zap_most.mp3" definitionAudio="zap_most_def.mp3" tweenDirection="255" points="FIND" />
+		<zap id="quarter" icon="quarter.png" nameAudio="zap_quarter.mp3" definitionAudio="zap_quarter_def.mp3" tweenDirection="255" points="FIND" />
+		<zap id="scale" icon="scale.png" nameAudio="zap_scale.mp3" definitionAudio="zap_scale_def.mp3" tweenDirection="255" points="FIND" />
+		<zap id="shrank" icon="shrank.png" nameAudio="zap_shrank.mp3" definitionAudio="zap_shrank_def.mp3" tweenDirection="255" points="FIND" />
+		<zap id="tens" icon="tens.png" nameAudio="zap_tens.mp3" definitionAudio="zap_tens_def.mp3" tweenDirection="255" points="FIND" />
+		<zap id="tripletime" icon="tripletime.png" nameAudio="zap_tripletime.mp3" definitionAudio="zap_tripletime_def.mp3" tweenDirection="255" points="FIND" />
+		<zap id="weight" icon="weight.png" nameAudio="zap_weight.mp3" definitionAudio="zap_weight_def.mp3" tweenDirection="255" points="FIND" />
+		<zap id="zero" icon="zero.png" nameAudio="zap_zero.mp3" definitionAudio="zap_zero_def.mp3" tweenDirection="255" points="FIND" />
+		<zap id="asteroid" icon="asteroid.png" nameAudio="zap_asteroid.mp3" definitionAudio="zap_asteroid_def.mp3" tweenDirection="230" points="FIND" />
+		<zap id="blob" icon="blob.png" nameAudio="zap_blob.mp3" definitionAudio="zap_blob_def.mp3" tweenDirection="230" points="FIND" />
+		<zap id="clam" icon="clam.png" nameAudio="zap_clam.mp3" definitionAudio="zap_clam_def.mp3" tweenDirection="230" points="FIND" />
+		<zap id="discovery" icon="discovery.png" nameAudio="zap_discovery.mp3" definitionAudio="zap_discovery_def.mp3" tweenDirection="245" points="FIND" />
+		<zap id="stem" icon="stem.png" nameAudio="zap_stem.mp3" definitionAudio="zap_stem_def.mp3" tweenDirection="230" points="FIND" />		
+		<zap id="birdseed" icon="birdseed.png" nameAudio="zap_birdseed.mp3" definitionAudio="zap_birdseed_def.mp3" tweenDirection="225" points="FIND" />
+		<zap id="partner" icon="partner.png" nameAudio="zap_partner.mp3" definitionAudio="zap_partner_def.mp3" tweenDirection="200" points="FIND" />
+		<zap id="debate" icon="debate.png" nameAudio="zap_debate.mp3" definitionAudio="zap_debate_def.mp3" tweenDirection="130" points="FIND" />
+		
+		<zap id="duck" icon="duck.png" nameAudio="duck.mp3" definitionAudio="duck_def.mp3" tweenDirection="280" points="FIND" />
+		<zap id="cupcake" icon="cupcake.png" nameAudio="cupcake.mp3" definitionAudio="cupcake_def.mp3" tweenDirection="285" points="FIND" />
+		<zap id="brain" icon="brain.png" nameAudio="brain.mp3" definitionAudio="brain_def.mp3" tweenDirection="245" points="FIND" />
+		<zap id="navigate" icon="navigate.png" nameAudio="navigate.mp3" definitionAudio="navigate_def.mp3" tweenDirection="250" points="FIND" />
+		<zap id="visualize" icon="visualize.png" nameAudio="visualize.mp3" definitionAudio="visualize_def.mp3" tweenDirection="255" points="FIND" />
+	</section>
+	<section name="HOME">
+		<zap id="add" icon="add.png" nameAudio="zap_add.mp3" definitionAudio="zap_add_def.mp3" tweenDirection="240" points="FIND" />
+		<zap id="amount" icon="amount.png" nameAudio="zap_amount.mp3" definitionAudio="zap_amount_def.mp3" tweenDirection="240" points="FIND" />
+		<zap id="check" icon="check.png" nameAudio="zap_check.mp3" definitionAudio="zap_check_def.mp3" tweenDirection="240" points="FIND" />
+		<zap id="concentrate" icon="concentrate.png" nameAudio="zap_concentrate.mp3" definitionAudio="zap_concentrate_def.mp3" tweenDirection="240" points="FIND" />
+		<zap id="correct" icon="correct.png" nameAudio="zap_correct.mp3" definitionAudio="zap_correct_def.mp3" tweenDirection="240" points="FIND" />
+		<zap id="direction" icon="direction.png" nameAudio="zap_direction.mp3" definitionAudio="zap_direction_def.mp3" tweenDirection="240" points="FIND" />
+		<zap id="doubletime" icon="doubletime.png" nameAudio="zap_doubletime.mp3" definitionAudio="zap_doubletime_def.mp3" tweenDirection="240" points="FIND" />
+		<zap id="equal" icon="equal.png" nameAudio="zap_equal.mp3" definitionAudio="zap_equal_def.mp3" tweenDirection="240" points="FIND" />
+		<zap id="fabulous" icon="fabulous.png" nameAudio="zap_fabulous.mp3" definitionAudio="zap_fabulous_def.mp3" tweenDirection="240" points="FIND" />
+		<zap id="goal" icon="goal.png" nameAudio="zap_goal.mp3" definitionAudio="zap_goal_def.mp3" tweenDirection="240" points="FIND" />
+		<zap id="graph" icon="graph.png" nameAudio="zap_graph.mp3" definitionAudio="zap_graph_def.mp3" tweenDirection="240" points="FIND" />
+		<zap id="height" icon="height.png" nameAudio="zap_height.mp3" definitionAudio="zap_height_def.mp3" tweenDirection="240" points="FIND" />
+		<zap id="hour" icon="hour.png" nameAudio="zap_hour.mp3" definitionAudio="zap_hour_def.mp3" tweenDirection="240" points="FIND" />
+		<zap id="notice" icon="notice.png" nameAudio="zap_notice.mp3" definitionAudio="zap_notice_def.mp3" tweenDirection="240" points="FIND" />
+		<zap id="ruin" icon="ruin.png" nameAudio="zap_ruin.mp3" definitionAudio="zap_ruin_def.mp3" tweenDirection="240" points="FIND" />
+		<zap id="burst" icon="burst.png" nameAudio="zap_burst.mp3" definitionAudio="zap_burst_def.mp3" tweenDirection="359" points="FIND" />
+		<zap id="experiment" icon="experiment.png" nameAudio="zap_experiment.mp3" definitionAudio="zap_experiment_def.mp3" tweenDirection="240" points="FIND" />
+		<zap id="fancy" icon="fancy.png" nameAudio="zap_fancy.mp3" definitionAudio="zap_fancy_def.mp3" tweenDirection="240" points="FIND" />
+		<zap id="poll" icon="poll.png" nameAudio="zap_poll.mp3" definitionAudio="zap_poll_def.mp3" tweenDirection="240" points="FIND" />
+		<zap id="orbit" icon="orbit.png" nameAudio="zap_orbit.mp3" definitionAudio="zap_orbit_def.mp3" tweenDirection="230" points="FIND" />
+		<zap id="gravity" icon="gravity.png" nameAudio="zap_gravity.mp3" definitionAudio="zap_gravity_def.mp3" tweenDirection="270" points="FIND" />
+		<zap id="bicker" icon="bicker.png" nameAudio="zap_bicker.mp3" definitionAudio="zap_bicker_def.mp3" tweenDirection="270" points="FIND" />
+		<zap id="lobster" icon="lobster.png" nameAudio="zap_lobster.mp3" definitionAudio="zap_lobster_def.mp3" tweenDirection="225" points="FIND" />
+		<zap id="reptile" icon="reptile.png" nameAudio="reptile.mp3" definitionAudio="reptile_def.mp3" tweenDirection="359" points="FIND" />
+		<zap id="microscope" icon="microscope.png" nameAudio="microscope.mp3" definitionAudio="microscope_def.mp3" tweenDirection="220" points="FIND" />
+		<zap id="scroll" icon="scroll.png" nameAudio="scroll.mp3" definitionAudio="scroll_def.mp3" tweenDirection="320" points="FIND" />
+		<zap id="rainbow" icon="rainbow.png" nameAudio="rainbow.mp3" definitionAudio="rainbow_def.mp3" tweenDirection="160" tweenDistance="150" tweenTime=".7" points="FIND" />
+
+	</section>
+	<section name="PROFILES">
+		<zap id="collaborate" icon="collaborate.png" nameAudio="zap_collaborate.mp3" definitionAudio="zap_collaborate_def.mp3" tweenDirection="230" points="FIND" />
+		<zap id="cost" icon="cost.png" nameAudio="zap_cost.mp3" definitionAudio="zap_cost_def.mp3" tweenDirection="230" points="FIND" />
+		<zap id="dollar" icon="dollar.png" nameAudio="zap_dollar.mp3" definitionAudio="zap_dollar_def.mp3" tweenDirection="230" points="FIND" />
+		<zap id="improved" icon="improved.png" nameAudio="zap_improved.mp3" definitionAudio="zap_improved_def.mp3" tweenDirection="230" points="FIND" />
+		<zap id="measure" icon="measure.png" nameAudio="zap_measure.mp3" definitionAudio="zap_measure_def.mp3" tweenDirection="230" points="FIND" />
+		<zap id="penalty" icon="penalty.png" nameAudio="zap_penalty.mp3" definitionAudio="zap_penalty_def.mp3" tweenDirection="230" points="FIND" />
+		<zap id="record" icon="record.png" nameAudio="zap_record.mp3" definitionAudio="zap_record_def.mp3" tweenDirection="230" points="FIND" />
+		<zap id="score" icon="score.png" nameAudio="zap_score.mp3" definitionAudio="zap_score_def.mp3" tweenDirection="230" points="FIND" />
+		<zap id="target" icon="target.png" nameAudio="zap_target.mp3" definitionAudio="zap_target_def.mp3" tweenDirection="230" points="FIND" />
+		<zap id="year" icon="year.png" nameAudio="zap_year.mp3" definitionAudio="zap_year_def.mp3" tweenDirection="230" points="FIND" />
+	
+		<zap id="ambassador" icon="ambassador.png" nameAudio="zap_ambassador.mp3" definitionAudio="zap_ambassador_def.mp3" tweenDirection="230" points="FIND" />
+		<zap id="ancestor" icon="ancestor.png" nameAudio="zap_ancestor.mp3" definitionAudio="zap_ancestor_def.mp3" tweenDirection="230" points="FIND" />
+		<zap id="compose" icon="compose.png" nameAudio="zap_compose.mp3" definitionAudio="zap_compose_def.mp3" tweenDirection="230" points="FIND" />
+		<zap id="nickel" icon="nickel.png" nameAudio="zap_nickel.mp3" definitionAudio="zap_nickel_def.mp3" tweenDirection="329" points="FIND" />
+		<zap id="straw" icon="straw.png" nameAudio="zap_straw.mp3" definitionAudio="zap_straw_def.mp3" tweenDirection="130" points="FIND" />
+		<zap id="slightly" icon="slightly.png" nameAudio="zap_slightly.mp3" definitionAudio="zap_slightly_def.mp3" tweenDirection="130" points="FIND" />
+		<zap id="soggy" icon="soggy.png" nameAudio="zap_soggy.mp3" definitionAudio="zap_soggy_def.mp3" tweenDirection="225" points="FIND" />
+		
+		<zap id="canine" icon="canine.png" nameAudio="canine.mp3" definitionAudio="canine_def.mp3" tweenDirection="230" tweenDistance="150" tweenTime=".7" points="FIND" />
+		<zap id="eyeball" icon="eyeball.png" nameAudio="eyeball.mp3" definitionAudio="eyeball_def.mp3" tweenDirection="180" points="FIND" />
+		<zap id="examine" icon="examine.png" nameAudio="examine.mp3" definitionAudio="examine_def.mp3" tweenDirection="350" tweenDistance="150" tweenTime=".7" points="FIND" />
+		<zap id="treasure" icon="treasure.png" nameAudio="treasure.mp3" definitionAudio="treasure_def.mp3" tweenDirection="350" points="FIND" />
+		<zap id="skateboard" icon="skateboard.png" nameAudio="skateboard.mp3" definitionAudio="skateboard_def.mp3" tweenDirection="260" points="FIND" />
+		<zap id="pineapple" icon="pineapple.png" nameAudio="pineapple.mp3" definitionAudio="pineapple_def.mp3" tweenDirection="270" points="FIND" />
+	</section>
+	<section name="UNLOCKABLE">
+		<zap id="canvas" icon="canvas.png" nameAudio="canvas.mp3" definitionAudio="canvas_def.mp3" points="750" />
+		<zap id="monitor" icon="monitor.png" nameAudio="monitor.mp3" definitionAudio="monitor_def.mp3" points="8000" />	
+		<zap id="electricity" icon="electricity.png" nameAudio="electricity.mp3" definitionAudio="electricity_def.mp3" points="4000" />
+		<zap id="terrarium" icon="terrarium.png" nameAudio="terrarium.mp3" definitionAudio="terrarium_def.mp3" points="10000" />
+		<zap id="venomous" icon="venomous.png" nameAudio="venomous.mp3" definitionAudio="venomous_def.mp3" points="14000" />
+		<zap id="easel" icon="easel.png" nameAudio="easel.mp3" definitionAudio="easel_def.mp3" points="12000" />		
+		<zap id="signature" icon="signature.png" nameAudio="signature.mp3" definitionAudio="signature_def.mp3" points="16000" />
+		<zap id="alien" icon="alien.png" nameAudio="alien.mp3" definitionAudio="alien_def.mp3" points="200" />
+		<zap id="knight" icon="knight.png" nameAudio="knight.mp3" definitionAudio="knight_def.mp3" points="200" />
+		<zap id="storm" icon="storm.png" nameAudio="storm.mp3" definitionAudio="storm_def.mp3" points="200" />
+		<zap id="hound" icon="hound.png" nameAudio="hound.mp3" definitionAudio="hound_def.mp3" points="200" />
+		<zap id="mouse" icon="mouse.png" nameAudio="mouse.mp3" definitionAudio="mouse_def.mp3" points="200" />
+		<zap id="ball" icon="ball.png" nameAudio="ball.mp3" definitionAudio="ball_def.mp3" points="200" />
+		<zap id="pig" icon="pig.png" nameAudio="pig.mp3" definitionAudio="pig_def.mp3" points="200" />
+		<zap id="bug" icon="bug.png" nameAudio="bug.mp3" definitionAudio="bug_def.mp3" points="200" />
+		<zap id="shell" icon="shell.png" nameAudio="shell.mp3" definitionAudio="shell_def.mp3" points="200" />
+		<zap id="chick" icon="chick.png" nameAudio="chick.mp3" definitionAudio="chick_def.mp3" points="200" />
+		<zap id="sock" icon="sock.png" nameAudio="sock.mp3" definitionAudio="sock_def.mp3" points="200" />
+		<zap id="crab" icon="crab.png" nameAudio="crab.mp3" definitionAudio="crab_def.mp3" points="200" />
+		<zap id="opponent" icon="opponent.png" nameAudio="opponent.mp3" definitionAudio="opponent_def.mp3" points="20000" />
+		<zap id="human" icon="human.png" nameAudio="human.mp3" definitionAudio="human_def.mp3" points="24000" />
+		<zap id="jewel" icon="jewel.png" nameAudio="jewel.mp3" definitionAudio="jewel_def.mp3" points="2000" />
+		<zap id="transform" icon="transform.png" nameAudio="transform.mp3" definitionAudio="transform_def.mp3" points="22000" />
+		<zap id="exhausted" icon="exhausted.png" nameAudio="exhausted.mp3" definitionAudio="exhausted_def.mp3" points="30000" />
+		<zap id="lizard" icon="lizard.png" nameAudio="lizard.mp3" definitionAudio="lizard_def.mp3" points="32000" />
+		<zap id="scent" icon="scent.png" nameAudio="scent.mp3" definitionAudio="scent_def.mp3" points="28000" />
+		<zap id="enlarge" icon="enlarge.png" nameAudio="enlarge.mp3" definitionAudio="enlarge_def.mp3" points="26000" />
+		<zap id="dodecahedron" icon="dodecahedron.png" nameAudio="dodecahedron.mp3" definitionAudio="dodecahedron_def.mp3" points="34000" />
+		<zap id="gigantic" icon="gigantic.png" nameAudio="gigantic.mp3" definitionAudio="gigantic_def.mp3" points="36000" />
+		<zap id="bloom" icon="bloom.png" nameAudio="bloom.mp3" definitionAudio="bloom_def.mp3" points="200" />
+		<zap id="constellation" icon="constellation.png" nameAudio="constellation.mp3" definitionAudio="constellation_def.mp3" points="18000" />
+		<zap id="miniscule" icon="miniscule.png" nameAudio="miniscule.mp3" definitionAudio="miniscule_def.mp3" points="6000" />
+		<zap id="angle" icon="angle.png" nameAudio="angle.mp3" definitionAudio="angle_def.mp3" points="38000" />
+		<zap id="insect" icon="insect.png" nameAudio="insect.mp3" definitionAudio="insect_def.mp3" points="40000" />
+		<zap id="solar_system" title="solar system" icon="solar_system.png" nameAudio="solar_system.mp3" definitionAudio="solar_system_def.mp3" points="42000" />
+		<zap id="eclipse" icon="eclipse.png" nameAudio="eclipse.mp3" definitionAudio="eclipse_def.mp3" points="48000" />
+		<zap id="squawk" icon="squawk.png" nameAudio="squawk.mp3" definitionAudio="squawk_def.mp3" points="44000" />
+		<zap id="excavate" icon="excavate.png" nameAudio="excavate.mp3" definitionAudio="excavate_def.mp3" points="46000" />
+		<zap id="athlete" icon="athlete.png" nameAudio="athlete.mp3" definitionAudio="athlete_def.mp3" points="250" />
+		<zap id="dragster" icon="dragster.png" nameAudio="dragster.mp3" definitionAudio="dragster_def.mp3" points="50000" />
+	</section>
+	<section name="VIDEOS">
+		<zap id="batch" icon="batch.png" nameAudio="zap_batch.mp3" definitionAudio="zap_batch_def.mp3" tweenDirection="290" points="FIND" />
+		<zap id="compete" icon="compete.png" nameAudio="zap_compete.mp3" definitionAudio="zap_compete_def.mp3" tweenDirection="290" points="FIND" />
+		<zap id="height" icon="height.png" nameAudio="zap_height.mp3" definitionAudio="zap_height_def.mp3" tweenDirection="290" points="FIND" />
+		<zap id="impossible" icon="impossible.png" nameAudio="zap_impossible.mp3" definitionAudio="zap_impossible_def.mp3" tweenDirection="290" points="FIND" />
+		<zap id="incredible" icon="incredible.png" nameAudio="zap_incredible.mp3" definitionAudio="zap_incredible_def.mp3" tweenDirection="290" points="FIND" />
+		<zap id="inflate" icon="inflate.png" nameAudio="zap_inflate.mp3" definitionAudio="zap_inflate_def.mp3" tweenDirection="290" points="FIND" />
+		<zap id="minute" icon="minute.png" nameAudio="zap_minute.mp3" definitionAudio="zap_minute_def.mp3" tweenDirection="290" points="FIND" />
+		<zap id="raise" icon="raise.png" nameAudio="zap_raise.mp3" definitionAudio="zap_raise_def.mp3" tweenDirection="290" points="FIND" />
+		<zap id="returns" icon="returns.png" nameAudio="zap_returns.mp3" definitionAudio="zap_returns_def.mp3" tweenDirection="290" points="FIND" />
+		<zap id="straight" icon="straight.png" nameAudio="zap_straight.mp3" definitionAudio="zap_straight_def.mp3" tweenDirection="290" points="FIND" />
+		<zap id="tempo" icon="tempo.png" nameAudio="zap_tempo.mp3" definitionAudio="zap_tempo_def.mp3" tweenDirection="290" points="FIND" />
+		<zap id="twice" icon="twice.png" nameAudio="zap_twice.mp3" definitionAudio="zap_twice_def.mp3" tweenDirection="290" points="FIND" />
+		
+		<zap id="artifact" icon="artifact.png" nameAudio="zap_artifact.mp3" definitionAudio="zap_artifact_def.mp3" tweenDirection="200" points="FIND" />
+		<zap id="flock" icon="flock.png" nameAudio="zap_flock.mp3" definitionAudio="zap_flock_def.mp3" tweenDirection="270" points="FIND" />
+		<zap id="musician" icon="musician.png" nameAudio="zap_musician.mp3" definitionAudio="zap_musician_def.mp3" tweenDirection="270" points="FIND" />		
+		<zap id="map" icon="map.png" nameAudio="zap_map.mp3" definitionAudio="zap_map_def.mp3" tweenDirection="230" points="FIND" />
+		<zap id="parrot" icon="parrot.png" nameAudio="zap_parrot.mp3" definitionAudio="zap_parrot_def.mp3" tweenDirection="130" points="FIND" />
+		<zap id="accompany" icon="accompany.png" nameAudio="zap_accompany.mp3" definitionAudio="zap_accompany_def.mp3" tweenDirection="130" points="FIND" />
+		<zap id="petition" icon="petition.png" nameAudio="zap_petition.mp3" definitionAudio="zap_petition_def.mp3" tweenDirection="350" points="FIND" />
+		<zap id="relative" icon="relative.png" nameAudio="zap_relative.mp3" definitionAudio="zap_relative_def.mp3" tweenDirection="260" points="FIND" />
+		<zap id="capsule" icon="capsule.png" nameAudio="capsule.mp3" definitionAudio="capsule_def.mp3" tweenDirection="270" tweenDistance="150" tweenTime=".7" points="FIND" />
+		<zap id="headphones" icon="headphones.png" nameAudio="headphones.mp3" definitionAudio="headphones_def.mp3" tweenDirection="185" points="FIND" />
+		<zap id="genius" icon="genius.png" nameAudio="genius.mp3" definitionAudio="genius_def.mp3" tweenDirection="245" points="FIND" />
+		<zap id="victory" icon="victory.png" nameAudio="victory.mp3" definitionAudio="victory_def.mp3" tweenDirection="275" points="FIND" />
+		<zap id="dinosaur" icon="dinosaur.png" nameAudio="dinosaur.mp3" definitionAudio="dinosaur_def.mp3" tweenDirection="225" tweenDistance="150" tweenTime=".7" points="FIND" />
+		<zap id="robot" icon="robot.png" nameAudio="robot.mp3" definitionAudio="robot_def.mp3" tweenDirection="290" points="FIND" />
+	</section>
+</ec>

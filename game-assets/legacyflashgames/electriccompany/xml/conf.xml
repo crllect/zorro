@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ec>
+	<navigation>
+		<navItem label="HOME" section="HOME" pauseon="homepage.mp3">
+			<subItem label="LOGIN" action="LOGIN" pauseon="login.mp3" />
+			<subItem label="SIGNUP" action="SIGNUP" pauseon="signup.mp3" />
+			<subItem label="LOGOUT" action="LOGOUT" pauseon="logout.mp3" />
+		</navItem>
+		<navItem label="PROFILES" section="PROFILES" pauseon="profiles.mp3">
+			<subItem label="MYPROFILE" action="MYPROFILE" pauseon="myprofile.mp3" />
+			<subItem label="CHARACTERS" action="CHARACTERS" pauseon="characters.mp3" />
+			<subItem label="BROWSE" action="BROWSE" pauseon="061_pr_nav_browseall.mp3" />
+		</navItem>
+		<navItem label="GAMES" section="GAMES" pauseon="games.mp3">
+			<subItem label="COLLECTION" action="COLLECTION" pauseon="allgames.mp3" />
+			<subItem label="FUNSTUFF" action="FUNSTUFF" pauseon="funstuff.mp3" />
+		</navItem>
+		<navItem label="VIDEOS" section="VIDEOS" pauseon="videos.mp3">
+			<subItem label="INSIDESCOOP" action="INSIDESCOOP" pauseon="insidescoop.mp3" />
+			<subItem label="THISWEEK" action="THISWEEK" pauseon="thisweek.mp3" />
+			<subItem label="CLIPS" action="CLIPS" pauseon="clips.mp3" />
+			<subItem label="EPISODES" action="EPISODES" pauseon="fullepisodes.mp3" />
+			<subItem label="SMASHUPS" action="SMASHUPS" section="SMASHUPS" src="swf/portals/games.swf" pauseon="smashups.mp3" />
+		</navItem>
+		<navItem label="BATTLE" section="BATTLE" pauseon="battle.mp3">
+			<subItem label="LEADERBOARD" action="LEADERBOARD" pauseon="leaderboard.mp3" />
+			<subItem label="HALLOFFAME" action="HALLOFFAME" pauseon="halloffame.mp3" />
+		</navItem>
+		<navItem label="PLANET" section="PLANET" pauseon="planet.mp3">
+		</navItem>
+		<pulldown label="USERPULLDOWN">
+			<subItem id="btn_logout" action="LOGOUT" pauseon="logout.mp3" />
+		</pulldown>
+	</navigation>
+	<sounds>
+		<sound id="snd_ecBgMusic_HOME" src="mp3/bg_music/bg_loop.mp3" defaultVolume=".2" />
+		<sound id="snd_ecBgMusic_PROFILES" src="mp3/bg_music/Theme_Loop1_new.mp3" defaultVolume=".2" />
+		<sound id="snd_ecBgMusic_GAMES" src="mp3/bg_music/Human_Loop_new.mp3" defaultVolume=".2" />
+		<sound id="snd_ecBgMusic_VIDEOS" src="mp3/bg_music/Skillz_Loop1.mp3" defaultVolume=".2" />
+		<sound id="snd_ecBgMusic_BATTLE" src="mp3/bg_music/Theme_Loop2_new.mp3" defaultVolume=".2" />
+		<sound id="snd_ecRollover" src="mp3/sfx/globalrollover.mp3" defaultVolume=".1" />
+		<sound id="snd_ecOverlayChange" src="mp3/sfx/overlay_change.mp3" defaultVolume=".2" />
+		<sound id="snd_ecOverlayHorizontal" src="mp3/sfx/Whoosh_mild.mp3" defaultVolume=".6" />
+		<sound id="snd_ecOverlayVertical" src="mp3/sfx/machine.mp3" defaultVolume=".7" />
+		<sound id="snd_ecSelection" src="mp3/sfx/selection.mp3" defaultVolume=".1" />
+		<sound id="snd_ecVoltCounter" src="mp3/sfx/volt_scorecounter.mp3" defaultVolume=".3" />
+		<sound id="snd_ecZapUnlocked" src="mp3/sfx/zap_bg_unlocked.mp3" defaultVolume=".3" />
+		<sound id="snd_mute" src="mp3/pauseons/309_gen_vid_mute.mp3" defaultVolume=".3" buttonVoice="true" />
+		<sound id="snd_unMute" src="mp3/pauseons/311_gen_vid_unmute.mp3" defaultVolume=".3" buttonVoice="true" />
+		<sound id="snd_close" src="mp3/pauseons/057_hp_fp_po_close.mp3" defaultVolume=".3" buttonVoice="true" />
+		<sound id="snd_login" src="mp3/pauseons/login.mp3" defaultVolume=".3" buttonVoice="true" />
+		<sound id="snd_signup" src="mp3/pauseons/signup.mp3" defaultVolume=".3" buttonVoice="true" />
+	</sounds>
+	<downloads>
+	<download id="Jessica1" src="low/images/downloads/Jessica_1920x1200.zip"/>
+	<download id="Jessica2" src="low/images/downloads/Jessica_1280x1024.zip"/>
+	<download id="Jessica3" src="low/images/downloads/Jessica_1024x768.zip"/>
+	<download id="Jessica4" src="low/images/downloads/Jessica_800x600.zip"/>
+	<download id="TEC1" src="low/images/downloads/TEC_1920x1200.zip"/>
+	<download id="TEC2" src="low/images/downloads/TEC_1280x1024.zip"/>
+	<download id="TEC3" src="low/images/downloads/TEC_1024x768.zip"/>
+	<download id="TEC4" src="low/images/downloads/TEC_800x600.zip"/>
+	<download id="FC1" src="low/images/downloads/Full_Cast_1920x1200.zip"/>
+	<download id="FC2" src="low/images/downloads/Full_Cast_1280x1024.zip"/>
+	<download id="FC3" src="low/images/downloads/Full_Cast_1024x768.zip"/>
+	<download id="FC4" src="low/images/downloads/Full_Cast_800x600.zip"/>
+	</downloads>
+	<sections>
+		<section label="HOME" title="The Electric Company" src="swf/portals/home.swf" >
+			<callouts>
+				<main>	
+					<building name="prankster" src="swf/callouts/new/main_pranksterplanet_2_evergreen.swf" target="http://pbskids.org/electriccompany/pranksterplanet/" offSite="true" roll="PLANET" type="none" />
+					<building name="prankster" src="swf/callouts/new/main_pranksterplanet_2_evergreen.swf" target="http://pbskids.org/electriccompany/pranksterplanet/" offSite="true" roll="PLANET" type="none" />
+					<building name="prankster" src="swf/callouts/new/main_pranksterplanet_2_evergreen.swf" target="http://pbskids.org/electriccompany/pranksterplanet/" offSite="true" roll="PLANET" type="none" />
+					<building name="prankster" src="swf/callouts/new/main_pranksterplanet_2_evergreen.swf" target="http://pbskids.org/electriccompany/pranksterplanet/" offSite="true" roll="PLANET" type="none" />
+					<building name="smashups" src="swf/callouts/new/main_smashups_danceparty.swf" target="/VIDEOS/SMASHUPS/" offSite="false" roll="VIDEOS" type="none" />
+					<building name="Manny" src="swf/callouts/new/main_games_wordmangler.swf" target="/Games/Manny/" offSite="false" roll="GAMES" type="none" />
+					<building name="WTS" src="swf/callouts/new/main_games_WTS.swf" target="/Games/Whats/" offSite="false" roll="GAMES" type="none" />
+				</main>	
+				<second>
+					<building name="basketball" src="swf/callouts/new/small_games_basketball.jpg" target="/BATTLE/BASKETBALL/" offSite="false" roll="BATTLE" type="none" />		
+					<building name="prankster" src="swf/callouts/new/small_games_pranksterplanet2_evergreen.jpg" target="http://pbskids.org/electriccompany/pranksterplanet/part2/" offSite="true" roll="PLANET" type="none" />
+					<building name="basketball" src="swf/callouts/new/small_games_basketball.jpg" target="/BATTLE/BASKETBALL/" offSite="false" roll="BATTLE" type="none" />
+				</second>
+				<third>
+					<building name="prankster" src="swf/callouts/new/small_games_pranksterplanet2_evergreen.jpg" target="http://pbskids.org/electriccompany/pranksterplanet/part2/" offSite="true" roll="PLANET" type="none" />
+					<building name="stacker" src="swf/callouts/new/small_games_sandwich.jpg" target="/BATTLE/STACKER/" offSite="false" roll="GAMES" type="none" />	
+					<building name="stacker" src="swf/callouts/new/small_games_sandwich.jpg" target="/BATTLE/STACKER/" offSite="false" roll="GAMES" type="none" />
+				</third>
+				<nugget>
+					<callout target="/videos/Thisweek/" text=" NEW! Francine's Reverse-A-Balls are mixing up all the words on Earth! Hey You Guys!" roll="VIDEOS" type="none"  />
+					<callout target="/Videos/episodes/" text="Miss an episode on Television? Watch FULL EPISODES here!" roll="VIDEOS" type="none"  />
+					<callout target="/Videos/Thisweek/" text="Watch clips of Marcus and Jessica on Prankster Planet, and then help them save the day!" roll="PLANET" type="none"  />
+					<callout target="/Videos/Thisweek/" text="BRAND NEW! Prankster Planet episodes! Save the world from Francine's evil plans on Prankster Planet!" roll="VIDEOS" type="none"  />
+					<callout target="/BATTLE/BASKETBALL/" text="NEW! Play Basketball Battle and win volts for your favorite character!" roll="BATTLE" type="none"  />
+					<callout target="/BATTLE/STACKER/" text="NEW! Play Sandwich Stacker and win volts for your favorite character!" roll="BATTLE" type="none"  />
+					<callout target="/GAMES/WHATS/" text="NEW! Play a new What's the Story: Commercial 2!" roll="GAMES" type="none"  />
+				</nugget>
+			</callouts>
+			
+			<!-- 
+<videos>
+				<video type="intro" double="true" id="intro1" >
+					<videoLeft src="new/home/doubles/Hector_Lisa/Hector_Lisa_HP_V_1.flv" id="introLeft1" xCoord="-70" yCoord="284" width="558.05" height="366.1" />
+					<videoRight src="new/home/doubles/Keith_Jess/Keith_Jess_HP_V_2.flv" id="introRight1" xCoord="1522" yCoord="284" width="492" height="374" />
+				</video>
+				<video type="intro" double="true" id="intro2">
+					<videoLeft src="new/home/doubles/Hector_Lisa/Hector_Lisa_HP_V_2.flv" id="introLeft2" xCoord="-70" yCoord="284" width="558.05" height="366.1" />
+					<videoRight src="new/home/doubles/Keith_Jess/Keith_Jess_HP_V_2.flv" id="introRight1" xCoord="1522" yCoord="284" width="492" height="374" />
+				</video>
+				<video type="intro" double="true" id="intro3">
+					<videoLeft src="new/home/doubles/Keith_Jess/Keith_Jess_HP_V_2.flv" id="introLeft5" xCoord="-100" yCoord="284" width="558.05" height="366.1" />
+					<videoRight src="new/home/doubles/Keith_Jess/Keith_Jess_HP_V_2.flv" id="introRight1" xCoord="1522" yCoord="284" width="492" height="374" />
+				</video>
+				<video type="intro" double="true" id="intro4">
+					<videoLeft src="new/home/doubles/Jess_Marcus/Jess_Marcus_HP_V_1.flv" id="introLeft6" xCoord="-100" yCoord="284" width="558.05" height="366.1" />
+					<videoRight src="new/home/doubles/Keith_Jess/Keith_Jess_HP_V_2.flv" id="introRight1" xCoord="1522" yCoord="284" width="492" height="374" />
+				</video>
+				<video type="intro" double="true" id="intro5">
+					<videoLeft src="new/home/doubles/Jess_Marcus/Jess_Marcus_HP_V_2.flv" id="introLeft9" xCoord="-70" yCoord="284" width="558.05" height="366.1" />
+					<videoRight src="new/home/doubles/Keith_Jess/Keith_Jess_HP_V_2.flv" id="introRight1" xCoord="1522" yCoord="284" width="492" height="374" />
+				</video>
+				<video type="intro" double="true" id="intro6">
+					<videoLeft src="new/home/doubles/Keith_Jess/Keith_Jess_HP_V_1.flv" id="introLeft7" xCoord="-70" yCoord="284" width="558.05" height="366.1" />
+					<videoRight src="new/home/doubles/Keith_Jess/Keith_Jess_HP_V_2.flv" id="introRight1" xCoord="1522" yCoord="284" width="492" height="374" />
+				</video>
+				<video type="intro" double="true" id="intro7">
+					<videoLeft src="new/home/doubles/Jess_Marcus/Jess_Marcus_HP_V_2.flv" id="introLeft9" xCoord="-70" yCoord="284" width="558.05" height="366.1" />
+					<videoRight src="new/home/doubles/Keith_Jess/Keith_Jess_HP_V_2.flv" id="introRight1" xCoord="1522" yCoord="284" width="492" height="374" />
+				</video>
+				<video type="intro" double="true" id="intro8">
+					<videoLeft src="new/home/singles/Jess/Jessica_HP_V_3.flv" id="introLeft2" xCoord="-70" yCoord="284" width="558.05" height="366.1" />
+					<videoRight src="new/home/singles/Jess/Jessica_HP_V_3.flv" id="introRight1" xCoord="1522" yCoord="284" width="492" height="374" />
+				</video>
+				<video type="intro" double="true" id="intro9">
+					<videoLeft src="new/home/singles/Jess/Jessica_HP_V_3.flv" id="introLeft2" xCoord="-70" yCoord="284" width="558.05" height="366.1" />
+					<videoRight src="new/home/singles/Jess/Jessica_HP_V_3.flv" id="introRight1" xCoord="1522" yCoord="284" width="492" height="374" />
+				</video>
+				<video type="introBack" double="true" id="introBack1">
+					<videoLeft src="new/home/doubles/Keith_Jess/Keith_Jess_HP_V_1.flv" id="introLeft7" xCoord="-70" yCoord="284" width="558.05" height="366.1" />
+					<videoRight src="new/home/doubles/Keith_Jess/Keith_Jess_HP_V_2.flv" id="introRight1" xCoord="1522" yCoord="284" width="492" height="374" />
+				</video>
+				<video type="introBack" double="true" id="introBack2">
+					<videoLeft src="new/home/doubles/Jess_Marcus/Jess_Marcus_HP_V_2.flv" id="introLeft9" xCoord="-70" yCoord="284" width="558.05" height="366.1" />
+					<videoRight src="new/home/doubles/Keith_Jess/Keith_Jess_HP_V_2.flv" id="introRight1" xCoord="1522" yCoord="284" width="492" height="374" />
+				</video>
+				<video src="new/home/singles/Jess/Jessica_HP_2.flv" type="introBack" id="introBack2" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Keith/Keith_HP_V_3.flv" type="introBack" id="introBack3" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Jess/Jessica_HP_2.flv" type="introBack" id="introBack5" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Keith/Keith_HP_V_1.flv" type="introBack" id="introBack6" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Keith/Keith_HP_V_2.flv" type="introBack" id="introBack7" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Jess/Jessica_HP_V_3.flv" type="introBack" id="introBack8" loggedin="false" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Keith/Keith_HP_V_2.flv" type="introBack" id="introBack9" loggedin="false" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Hector/Hector_HP_V_7.flv" type="introBack" id="introBack10" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Lisa/Lisa_HP_V_4.flv" type="homeBackLogin" id="homeBackLogin2" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Hector/Hector_HP_V_7.flv" type="homeBackLogout" id="homeBackLogout1" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Hector/Hector_HP_V_5.flv" type="homeBackLogout" id="homeBackLogout2" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Jess/Jessica_HP_V_6.flv" type="homeBackLogin" id="homeBackLogin2" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Keith/Keith_HP_V_3.flv" type="homeBackLogin" id="homeBackLogin3" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Jess/Jessica_HP_V_3.flv" type="homeBackLogin" id="homeBackLogin4" loggedin="false" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Keith/Keith_HP_V_2.flv" type="homeBackLogin" id="homeBackLogin5" loggedin="false" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Hector/Hector_HP_V_7.flv" type="homeBackLogin" id="homeBackLogin6" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Jess/Jessica_HP_V_3.flv" type="homeBackLogin" id="homeBackLogin7" loggedin="false" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Keith/Keith_HP_V_2.flv" type="homeBackLogin" id="homeBackLogin8" loggedin="false" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Hector/Hector_HP_V_4.flv" type="welcomeBack" id="welcomeBack1" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Keith/Keith_HP_V_9.flv" type="welcomeBack" id="welcomeBack2" loggedin="false" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Keith/Keith_HP_V_6.flv" type="timeout" id="timeout1" loggedin="true" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Lisa/Lisa_HP_V_3.flv" type="timeout" id="timeout2" loggedin="true" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Hector/Hector_HP_V_2.flv" type="timeout" id="timeout3" loggedin="false" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Keith/Keith_HP_V_4.flv" type="timeout" id="timeout4" loggedin="false" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Lisa/Lisa_HP_V_2.flv" type="timeout" id="timeout5" loggedin="false" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Hector/Hector_HP_V_8.flv" type="timeout" id="timeout6" loggedin="false" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Jess/Jessica_HP_V_1.flv" type="timeout" id="timeout7" loggedin="false" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Lisa/Lisa_HP_V_8.flv" type="timeout" id="timeout8" loggedin="false" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Keith/Keith_HP_V_6.flv" type="timeout" id="timeout9" loggedin="false" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Lisa/Lisa_HP_V_5.flv" type="timeout" id="timeout10" loggedin="true" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Jess/Jessica_HP_V_5.flv" type="timeout" id="timeout11" loggedin="false" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Keith/Keith_HP_V_8.flv" type="timeout" id="timeout12" loggedin="false" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Keith/Keith_HP_V_9.flv" type="timeout" id="timeout13" loggedin="false" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Hector/Hector_HP_V_7.flv" type="timeout" id="timeout14" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Jess/Jessica_HP_V_3.flv" type="timeout" id="timeout15" loggedin="false" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Keith/Keith_HP_V_2.flv" type="timeout" id="timeout16" loggedin="false" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Hector/Hector_HP_V_7.flv" type="timeout" id="timeout17" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Jess/Jessica_HP_V_3.flv" type="timeout" id="timeout18" loggedin="false" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Keith/Keith_HP_V_2.flv" type="timeout" id="timeout19" loggedin="false" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Jess/Jessica_HP_V_3.flv" type="timeout" id="timeout20" loggedin="false" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Keith/Keith_HP_V_2.flv" type="timeout" id="timeout21" loggedin="false" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Hector/Hector_HP_V_7.flv" type="timeout" id="timeout22" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Jess/Jessica_HP_V_3.flv" type="timeout" id="timeout23" loggedin="false" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/home/singles/Keith/Keith_HP_V_2.flv" type="timeout" id="timeout24" loggedin="false" xCoord="-90" yCoord="284" width="558.05" height="366.1" />
+			</videos>
+ -->
+			<pauseons>
+				<pauseon id="btn_go" src="go_PO.mp3" />
+				<pauseon id="btn_forgotpass" src="forgotPassword_PO.mp3" />
+				<pauseon id="btn_next" src="next_PO.mp3" />
+				<pauseon id="btn_getpass" src="getPassword_PO.mp3" />
+				<pauseon id="hit_createuser" src="createUsername_PO.mp3" />
+				<pauseon id="hit_createpass" src="createPassword_PO.mp3" />
+				<pauseon id="hit_enteruser" src="enterUsername.mp3" />
+				<pauseon id="hit_enterpass" src="enterPassword.mp3" />
+				<pauseon id="hit_retypepass" src="retypePassword_PO.mp3" />
+				<pauseon id="hit_secretquestion" src="secretQuestion_PO.mp3" />
+				<pauseon id="hit_typeanswer" src="typeAnswer_PO.mp3" />
+			</pauseons>
+		</section>
+		<section label="PROFILES" title="The Electric Company - Profiles" src="swf/portals/profile.swf" asset="swf/smashups/ProfilePlayer.swf">
+			<videos>
+                <video src="new/Profiles/Lisa_Annie/Lisa_Annie_Profiles_V_1.flv" type="welcomeLogout" id="welcomeLogout1" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/Profiles/Lisa/Lisa_Profiles_V_1.flv" type="welcomeLogout" id="welcomeLogout2" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/Profiles/Annie/Annie_Profile_V_1.flv" type="welcomeLogout" id="welcomeLogout3" xCoord="-30" yCoord="284" width="558.05" height="366.1" />		
+                <video src="new/Profiles/Lisa_Annie/Lisa_Annie_Profiles_V_3.flv" type="welcomeLogin1" id="welcomeLogin" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/Profiles/Lisa/Lisa_Profiles_V_2.flv" type="welcomeLogin" id="welcomeLogin2" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/Profiles/Annie/Annie_Profile_V_2.flv" type="welcomeLogin" id="welcomeLogin3" xCoord="-30" yCoord="284" width="558.05" height="366.1" />									
+                <video src="new/Profiles/Lisa/Lisa_Profiles_V_7.flv" type="welcomeBack" id="welcomeBack1" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/Profiles/Lisa/Lisa_Profiles_V_3.flv" type="welcomeBack" id="welcomeBack2" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/Profiles/Annie/Annie_Profile_V_3.flv" type="welcomeBack" id="welcomeBack3" xCoord="-30" yCoord="284" width="558.05" height="366.1" />										
+                <video src="new/Profiles/Lisa/Lisa_Profiles_V_4.flv" type="timeout" id="timeout1" loggedin="true" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+                <video src="new/Profiles/Lisa/Lisa_Profiles_V_5.flv" type="timeout" id="timeout2" loggedin="false" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/Profiles/Lisa/Lisa_Profiles_V_6.flv" type="timeout" id="timeout3" loggedin="false" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/Profiles/Annie/Annie_Profile_V_4.flv" type="timeout" id="timeout4" loggedin="false" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/Profiles/Annie/Annie_Profile_V_5.flv" type="timeout" id="timeout5" loggedin="false" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/Profiles/Annie/Annie_Profile_V_6.flv" type="timeout" id="timeout6" loggedin="false" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/Profiles/Annie/Annie_Profile_V_7.flv" type="timeout" id="timeout7" loggedin="false" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+			</videos>
+			<pauseons>
+				<pauseon id="btn_back" src="back_PO.mp3" />
+				<pauseon id="btn_edit" src="editProfile_PO.mp3" />
+				<pauseon id="btn_creations" src="myCreations_PO.mp3" />
+				<pauseon id="btn_videos" src="myVideos_PO.mp3" />
+				<pauseon id="btn_myprint" src="119_pr_cp_po_printouts_new.mp3" />
+				<pauseon id="btn_icontab" src="usericon.mp3" />
+				<pauseon id="btn_charactertab" src="mychar.mp3" />
+				<pauseon id="btn_bgtab" src="100_hp_ep_po_bg_new.mp3" />
+				<pauseon id="btn_zapstab" src="102_hp_ep_po_zaps_new.mp3" />
+				<pauseon id="hit_icon" src="075_hp_mp_po_profile.mp3" />
+				<pauseon id="hit_emptyzap" src="076_hp_mp_po_empZap.mp3" />
+				<pauseon id="hit_character" src="078_hp_mp_po_favCh.mp3" />
+				<pauseon id="hit_volts" src="020_hp_nav_po_volts_alt.mp3" />
+				<pauseon id="box_hector" src="111_pr_cp_po_hector.mp3" />
+				<pauseon id="box_jessica" src="110_pr_cp_po_jessica.mp3" />
+				<pauseon id="box_keith" src="112_pr_cp_po_keith.mp3" />
+				<pauseon id="box_lisa" src="113_pr_cp_po_lisa.mp3" />
+				<pauseon id="box_shock" src="109_pr_cp_po_shock.mp3" />
+				<pauseon id="box_annie" src="114_pr_cp_po_annie.mp3" />
+				<pauseon id="box_danny" src="116_pr_cp_po_danny.mp3" />
+				<pauseon id="box_francine" src="117_pr_cp_po_francine.mp3" />
+				<pauseon id="box_manny" src="115_pr_cp_po_manny.mp3" />
+				<pauseon id="box_marcus" src="bb_marcus.mp3" />
+				<pauseon id="box_gilda" src="bb_gilda.mp3" />
+				<pauseon id="box_paul" src="bb_paul.mp3" />
+			</pauseons>
+                        <instructions>
+                                <instruction id="intro" src="062_pr_mp_greet_1.mp3" />
+                                <instruction id="generalInstrux" src="063_pr_mp_greet_2.mp3" />
+                                <instruction id="noVideos" src="067_hp_mp_3.mp3" />
+                                <instruction id="haveVideos" src="080_hp_mp_po_myVid2.mp3" />                                
+                                <instruction id="changeImage" src="096_pr_ep_ins_1_alt2.mp3" />
+                                <instruction id="changeZap" src="098a_pr_ep_ins_1_ChgZap.mp3" />
+                        </instructions>
+		</section>
+		<section label="GAMES" title="The Electric Company - Games" src="swf/portals/games.swf">
+			<videos>				
+                                <video src="new/Games/Keith_Marcus/Keith_Marcus_Games_V_1.flv" type="welcomeLogout" id="welcomeLogout1" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+                                <video src="new/Games/Keith_Marcus/Keith_Marcus_Games_V_2.flv" type="welcomeLogin1" id="welcomeLogin1" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+								<video src="new/Games/Keith/Keith_Games_V_4.flv" type="welcomeLogin" id="welcomeLogin2" xCoord="-30" yCoord="284" width="558.05" height="366.1" />								
+                                <video src="new/Games/Keith/Keith_Games_V_3.flv" type="welcomeBack" id="welcomeBack1" xCoord="-30" yCoord="284" width="558.05" height="366.1" />	
+								<video src="new/Games/Keith/Keith_Games_V_3.flv" type="welcomeBack" id="welcomeBack2" xCoord="-30" yCoord="284" width="558.05" height="366.1" />	
+								<video src="new/Games/Keith_Marcus/Keith_Marcus_Games_V_1.flv" type="welcomeBack" id="welcomeBack4" xCoord="-30" yCoord="284" width="558.05" height="366.1" />								
+                                <video src="new/Games/Keith/Keith_Games_V_4.flv" type="timeout" id="timeout1" loggedin="true" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+                                <video src="new/Games/Keith/Keith_Games_V_1.flv" type="timeout" id="timeout2" loggedin="false" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+								<video src="new/Games/Keith/Keith_Games_V_2.flv" type="timeout" id="timeout3" loggedin="false" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+								<video src="new/Games/Keith/Keith_Games_V_3.flv" type="timeout" id="timeout4" loggedin="false" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+								<video src="new/Games/Keith/Keith_Games_V_4.flv" type="timeout" id="timeout5" loggedin="false" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+								<video src="new/Games/Keith/Keith_Games_V_1.flv" type="timeout" id="timeout6" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+								<video src="new/Games/Marcus/Marcus_Games_V_1.flv" type="timeout" id="timeout7" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+								<video src="new/Games/Marcus/Marcus_Games_V_1.flv" type="timeout" id="timeout8" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+			</videos>
+			<gamethumbs electric="http://www.pbs.org/parents/electriccompany/electric-racer.html" electricSound="mp3/games/electric/electric.mp3">
+				<thumb name="CHAIN" src="images/games/chain/chaingame.swf" swf="true"  />
+				<thumb name="COMBO" src="images/games/combo/combotronic.swf" swf="true"  />
+				<thumb name="WORD" src="images/games/word/word.swf" swf="true"  />
+				<thumb name="WHATS" src="images/games/what/what.swf" swf="true"  />
+				<thumb name="ESCAPES" src="images/games/escapes/escapes.swf" swf="true"  />
+				<thumb name="SHOCK" src="images/games/shock/shock.swf" swf="true"  />
+				<thumb name="SORT" src="images/games/sort/sortitout.swf" swf="true"  />
+				<thumb name="SAY" src="images/games/say/saywhat.swf" swf="true"  />
+				<thumb name="TNES" src="images/games/star/star.swf" swf="true"   />
+				<thumb name="MANNY" src="images/games/manny/manny.swf" swf="true"   />
+				<thumb name="STACKER" src="images/games/stacker/stacker.swf" swf="true"   />
+				<thumb name="BASKETBALL" src="images/games/ball/ball.swf" swf="true"   />
+			</gamethumbs>
+			<pauseons>
+				<pauseon id="btn_moregames" src="202_differentgames.mp3" />
+				<pauseon id="btn_diffgames" src="201_moregameslikethis.mp3" />                                
+			</pauseons>
+		    <games>
+				<funstuff>
+						<thumb src="images/funstuff/thumbs/wall.jpg" type="Wallpapers" link="WALLPAPERS" down="true" color="0xec008c" rollTitle="Wallpapers" sound="mp3/pauseons/wallpapers.mp3" rollCopy="The Electric Company has the coolest wallpapers for your computer screen! Click on the right size for your screen and show off your wallpaper to all of your friends." rolloverAudio="electric.mp3"/>
+						<thumb src="images/funstuff/thumbs/mag3.jpg" type="Magazine" link="MAGAZINE" down="true" color="0x0db14b" rollTitle="The Electric Company Magazine" sound="mp3/pauseons/magazine.mp3" rollCopy="Discover the Lost Guide to Pranskter Planet! Save all the words in the world, meet Manny's robots, and try Secret Prankster Recipes!"/>
+						<thumb src="images/funstuff/thumbs/mad.jpg" type="Downloads" link="DOWNLOADS" down="true" color="0xfdbf33" rollTitle="Printables" sound="mp3/pauseons/downloads.mp3" rollCopy="Want more of The Electric Company? You can PRINT out a door hanger, trading cards with cast photos, and even a bookmark to use with your favorite book!"/>
+						<thumb src="images/funstuff/thumbs/ElectricRacerTag.jpg" link="ELECTRICRACER" type="Electric Racer" down="false" color="0x682bb1" rollTitle="Electric Racer Game" sound="mp3/pauseons/electric_racer.mp3" rollCopy="Download this exciting driving game and grab a friend or grown up. Whether you're the driver or passenger, you'll need to work together to collect and unscramble words!"/>
+				</funstuff>
+				<mag>
+					<thumb name="0" src="images/funstuff/thumbs/mag.jpg" sound="mp3/pauseons/first_edition.mp3" type="First Edition" link="MAGAZINELOAD" swf="games/magazine/electric_company_magazine_fall09.swf" />
+					<thumb name="1" src="images/funstuff/thumbs/mag_2.jpg" sound="mp3/pauseons/second_edition.mp3" type="Second Edition" link="MAGAZINELOAD" swf="games/magazine_2/electric_company_magazine_winter11.swf" />
+					<thumb name="2" src="images/funstuff/thumbs/mag3.jpg" sound="mp3/pauseons/third_edition.mp3" type="Third Edition" link="MAGAZINELOAD" swf="games/magazine_3/electric_company_magazine_fall11.swf" />
+				</mag>
+				<print>
+					<thumb src="images/funstuff/thumbs/print/trading.jpg" sound="mp3/pauseons/trading_cards.mp3" type="Trading Cards" link="low/images/downloads/Trading_Cards_small.pdf"/>
+					<thumb src="images/funstuff/thumbs/print/poster1.jpg" sound="mp3/pauseons/poster1.mp3" type="Poster 1" link="low/images/downloads/TEC_Poster.pdf"/>
+					<thumb src="images/funstuff/thumbs/print/poster2.jpg" sound="mp3/pauseons/poster2.mp3" type="Poster 2" link="low/images/downloads/POSTER2.pdf"/>
+					<thumb src="images/funstuff/thumbs/print/door_thumb.jpg" sound="mp3/pauseons/bookmarkdoorhanger.mp3" type="Bookmark & Door Hangers" link="low/images/downloads/Door_Hangers.pdf"/>
+					<thumb src="images/funstuff/thumbs/print/mad1.jpg" sound="mp3/pauseons/madlibs1.mp3" type="Mad Libs 1" link="low/images/downloads/MeetTheElectricCompany.pdf"/>
+					<thumb src="images/funstuff/thumbs/print/mad2.jpg" sound="mp3/pauseons/madlibs2.mp3" type="Mad Libs 2" link="low/images/downloads/TheElectricCompanyPledge.pdf"/>
+				</print>
+				
+				<game id="TNES" alt="TNES" title="Next Electric Company Star" src="../../games/tnecs/TNECS.swf" rolloverAudio="tnes/tec_star1.mp3">
+					<featured id="tnes1" title="The Peanut Butter Stunt!" xmlFile="iteration10.xml" thumbnail="star/star.swf" rolloverAudio="tnes/tec_star1.mp3" />
+                 </game>
+				 <game id="STACKER" alt="STACKER" title="Sandwich Stacker" src="SandwichStacker/charSelector.swf" rolloverAudio="stacker/Sand_GmTitle.mp3">
+					<featured id="tnes1" title="The Peanut Butter Stunt!" xmlFile="iteration10.xml" thumbnail="star/star.swf" rolloverAudio="stacker/Sand_GmTitle.mp3" />
+				</game>
+				<game id="BASKETBALL" alt="BASKETBALL" title="Basketball Battle" src="BasketballGame/charSelector.swf" rolloverAudio="basketball/BB_GmTitle.mp3">
+					<featured id="tnes1" title="The Peanut Butter Stunt!" xmlFile="iteration10.xml" thumbnail="star/star.swf" rolloverAudio="basketball/BB_GmTitle.mp3" />
+				</game>	
+				 <game id="WHATS" alt="WHATSTHESTORY" title="What's the Story" src="../whatstory/whatstory.swf" rolloverAudio="whats/WTS_main.mp3">
+					<iteration id="whats2" title="A Funky Fairytale" xmlFile="config_ft1.xml" thumbnail="what/WTS_FT1.jpg" rolloverAudio="whats/WTS_FT1.mp3" />
+					<iteration id="whats3" title="A Crazy Commercial" xmlFile="config_com1.xml" thumbnail="what/WTS_Comm1.jpg" rolloverAudio="whats/WTS_Comm1.mp3" />
+					<iteration id="whats4" title="A Crazy Commercial 2" xmlFile="config_com2.xml" thumbnail="what/WTS_Comm2.jpg" rolloverAudio="whats/WTS_Comm2.mp3" />
+					<featured id="whats1" title="Breaking News" xmlFile="config_news1.xml" thumbnail="what/WTS_News1.jpg" rolloverAudio="whats/WTS_News1.mp3" />
+				</game>
+				 
+				 <game id="MANNY" alt="MANNYWORD" title="Word Mangler" src="wordmangle/MannyWord.swf" rolloverAudio="manny/MWM_GMTitle.mp3">
+					<featured id="manny4" title="Challenge 4" xmlFile="game4.xml" thumbnail="manny/MWM_4.jpg" rolloverAudio="manny/Challenge_4.mp3" />
+					<iteration id="manny3" title="Challenge 3" xmlFile="game3.xml" thumbnail="manny/MWM_3.jpg" rolloverAudio="manny/Challenge_3.mp3" />
+					<iteration id="manny2" title="Challenge 2" xmlFile="game2.xml" thumbnail="manny/MWM_2.jpg" rolloverAudio="manny/Challenge_2.mp3" />
+					<iteration id="manny1" title="Challenge 1" xmlFile="game1.xml" thumbnail="manny/MWM_1.jpg" rolloverAudio="manny/Challenge_1.mp3" />
+                 </game>
+												
+				
+				<game id="SAY" alt="SAYWHAT" title="Say What?" src="saywhat/saywhat.swf" rolloverAudio="say_what/silo_gameformat_ID_both.mp3" >
+					<iteration id="say1" xmlFile="iteration-br.xml" thumbnail="say/saywhat_br.jpg" rolloverAudio="say_what/silo_game1_ID.mp3" >
+                                                <title><![CDATA[Say What?: br]]></title>
+												</iteration>
+                      
+               		<iteration id="say2" xmlFile="iteration-cr.xml" thumbnail="say/saywhat_cr.jpg" rolloverAudio="say_what/silo_game2_ID_altB.mp3" >
+                                                <title><![CDATA[Say What?: cr]]></title>
+                                    </iteration>
+                                        <iteration id="say3" xmlFile="iteration-fl.xml" thumbnail="say/saywhat_fl.jpg" rolloverAudio="say_what/silo_game3_ID.mp3" >
+                                                <title><![CDATA[Say What?: fl]]></title>
+								    </iteration>
+                                        <iteration id="say4" xmlFile="iteration-st.xml" thumbnail="say/saywhat_st.jpg" rolloverAudio="say_what/silo_game4_ID_altB.mp3" >
+                                                <title><![CDATA[Say What?: st]]></title>
+                                    </iteration>
+                                        <iteration id="say5" xmlFile="iteration-ch.xml" thumbnail="say/saywhat_ch.jpg" rolloverAudio="say_what/silo_game5_ID.mp3" >
+                                                <title><![CDATA[Say What?: ch]]></title>
+									</iteration>
+                                  
+                                    <iteration id="say6" xmlFile="iteration-sh.xml" thumbnail="say/saywhat_sh.jpg" rolloverAudio="say_what/silo_game6_ID_altB.mp3" >
+                                                <title><![CDATA[Say What?: sh]]></title>
+                                    </iteration>
+                                    <iteration id="say7" xmlFile="iteration-ao.xml" thumbnail="say/saywhat_a-o.jpg" rolloverAudio="say_what/silo_game7_ID_altB.mp3" >
+                                                <title><![CDATA[Say What?: a-o]]></title>
+                                        </iteration>
+                                    <iteration id="say8" xmlFile="iteration-ee.xml" thumbnail="say/saywhat_e-ee.jpg" rolloverAudio="say_what/silo_game8_ID.mp3" >
+                                                <title><![CDATA[Say What?: e-ee]]></title>
+                                        </iteration>
+                                    <iteration id="say9" xmlFile="iteration-i.xml" thumbnail="say/saywhat_i.jpg" rolloverAudio="say_what/silo_game9_ID_altB.mp3" >
+                                                <title><![CDATA[Say What?: i]]></title>
+                                        </iteration>
+                                    <iteration id="say10" xmlFile="iteration-ou.xml" thumbnail="say/saywhat_ou.jpg" rolloverAudio="say_what/silo_game10_ID.mp3" >
+                                                <title><![CDATA[Say What?: ou]]></title>
+                                        </iteration>
+                                       <iteration id="say11" xmlFile="iteration-ug.xml" thumbnail="say/saywhat_ug.jpg" rolloverAudio="say_what/silo_game11_ID_altB.mp3" >
+                                                <title><![CDATA[Say What?: ug]]></title>
+                                       </iteration>
+                                     <iteration id="say12" xmlFile="iteration-ell.xml" thumbnail="say/saywhat_ell.jpg" rolloverAudio="say_what/silo_game12_ID.mp3" >
+                                                <title><![CDATA[Say What?: ell]]></title>
+                                        </iteration>
+                                            <iteration id="say13" xmlFile="iteration-ink.xml" thumbnail="say/saywhat_ink.jpg" rolloverAudio="say_what/silo_game13_ID_altB.mp3" >
+                                                <title><![CDATA[Say What?: ink]]></title>
+                                        </iteration>
+                                        <iteration id="say14" xmlFile="iteration-ight.xml" thumbnail="say/saywhat_ight.jpg" rolloverAudio="say_what/silo_game14_ID.mp3" >
+                                                <title><![CDATA[Say What?: ight]]></title>
+                                        </iteration>
+                                    <featured id="say15" xmlFile="iteration-ore.xml" thumbnail="say/saywhat_ore.jpg" rolloverAudio="say_what/silo_gameformat_ID_both.mp3" >
+                                                <title><![CDATA[Say What?: ore]]></title>
+                                        </featured>
+                                </game>
+				<game id="ESCAPES" alt="GREATESCAPES" title="Great Escapes" src="escapes/escapes.swf" rolloverAudio="great_escapes/ge_gameformat_ID.mp3" >
+					<iteration id="escapes1" title="The Great Cake Mistake!" xmlFile="silentE_iteration.xml" thumbnail="escapes/escape_cake.jpg" rolloverAudio="great_escapes/ge_game01_ID.mp3" />
+					<iteration id="escapes11" title="The Gloppy Grape Joke!" xmlFile="G_iteration.xml" thumbnail="escapes/escape_grape2.jpg" rolloverAudio="great_escapes/ge_game11_ID.mp3" />
+					<iteration id="escapes13" title="The Ice Cream Scoop!" xmlFile="C_iteration.xml" thumbnail="escapes/escape_icecream.jpg" rolloverAudio="great_escapes/ge_game13_ID.mp3" />
+					<iteration id="escapes8" title="The Shady Peas Squeeze!" xmlFile="SHS_iteration.xml" thumbnail="escapes/escape_peas.jpg" rolloverAudio="great_escapes/ge_game08_ID.mp3" />
+					<iteration id="escapes2" title="The Jelly Bean Explosion!" xmlFile="HESHEWE_iteration.xml" thumbnail="escapes/escape_jellybeans2.jpg" rolloverAudio="great_escapes/ge_game02_ID.mp3" />
+					<iteration id="escapes12" title="The Peanut Butter Stunt!" xmlFile="U_iteration.xml" thumbnail="escapes/escape_pbutter2.jpg" rolloverAudio="great_escapes/ge_game12_ID.mp3" />
+					<iteration id="escapes3" title="Here Comes Trouble!" xmlFile="COME_iteration.xml" thumbnail="escapes/escape_pbutter.jpg" rolloverAudio="great_escapes/ge_game03_ID.mp3" />
+					<iteration id="escapes4" title="The Grape Getaway!" xmlFile="GR_iteration.xml" thumbnail="escapes/escape_grape.jpg" rolloverAudio="great_escapes/ge_game04_ID.mp3" />
+					<iteration id="escapes6" title="The Basketball Flip Out!" xmlFile="FL_iteration.xml" thumbnail="escapes/escape_bballs2.jpg" rolloverAudio="great_escapes/ge_game06_ID.mp3" />
+					<iteration id="escapes7" title="The Candy Corn Crunch!" xmlFile="RVowels_iteration.xml" thumbnail="escapes/escape_candycorn.jpg" rolloverAudio="great_escapes/ge_game07_ID.mp3" />
+					<iteration id="escapes9" title="The Basketball Bounce Out!" xmlFile="QUOTES_iteration.xml" thumbnail="escapes/escape_bballs.jpg" rolloverAudio="great_escapes/ge_game09_ID.mp3" />
+					<iteration id="escapes10" title="The Jumping Jellybeans!" xmlFile="MMBMP_iteration.xml" thumbnail="escapes/escape_jellybeans.jpg" rolloverAudio="great_escapes/ge_game10_ID.mp3" />
+					<featured id="escapes5" title="Peas Are Forever!" xmlFile="AREWERE_iteration.xml" thumbnail="escapes/escape_peas2.jpg" rolloverAudio="great_escapes/ge_game05_ID.mp3" />
+				</game>
+                <game id="SHOCK" alt="SHOCKSBEATBOX" mask="false" title="Shock's Beatbox" src="shock/main.swf" rolloverAudio="shock/game_ID/game_format_id.mp3" assetLoad="shock/video/1_Intro_B.flv">
+					<iteration id="shock1" title="" xmlFile="iteration1.xml" thumbnail="shock/shock1.jpg" rolloverAudio="" />
+					<iteration id="shock2" title="" xmlFile="iteration2.xml" thumbnail="shock/shock2.jpg" rolloverAudio="" />
+					<iteration id="shock3" title="" xmlFile="iteration3.xml" thumbnail="shock/shock3.jpg" rolloverAudio="" />
+					<iteration id="shock12" title="" xmlFile="iteration12.xml" thumbnail="shock/shock12.jpg" rolloverAudio="" />
+					<iteration id="shock5" title="" xmlFile="iteration5.xml" thumbnail="shock/shock5.jpg" rolloverAudio="" />
+					<iteration id="shock6" title="" xmlFile="iteration6.xml" thumbnail="shock/shock6.jpg" rolloverAudio="" />
+					<iteration id="shock7" title="" xmlFile="iteration7.xml" thumbnail="shock/shock7.jpg" rolloverAudio="" />
+					<iteration id="shock8" title="" xmlFile="iteration8.xml" thumbnail="shock/shock8.jpg" rolloverAudio="" />
+					<iteration id="shock9" title="" xmlFile="iteration9.xml" thumbnail="shock/shock9.jpg" rolloverAudio="" />
+					<iteration id="shock10" title="" xmlFile="iteration10.xml" thumbnail="shock/shock10.jpg" rolloverAudio="" />
+					<featured id="shock11" title="" xmlFile="iteration11.xml" thumbnail="shock/shock11.jpg" rolloverAudio="" />
+					<featured  id="shock4" title="" xmlFile="iteration4.xml" thumbnail="shock/shock4.jpg" rolloverAudio="" />
+				</game>
+				<game id="WORD" alt="MUSICMAN" title="Word Transformer" src="musicman/musicman.swf" rolloverAudio="word_transformer/wt_gameformat_ID.mp3" >
+					<iteration id="musicman2" title="Word Party" xmlFile="BossyR_iteration.xml" thumbnail="word/word_r.jpg" rolloverAudio="word_transformer/wt_game2_ID.mp3" />
+					<featured id="musicman1" title="Prime Time Change" xmlFile="silentE_iteration.xml" thumbnail="word/word_e.jpg" rolloverAudio="word_transformer/wt_game3_ID.mp3" />
+					<iteration id="musicman3" title="Changing the Shape of Things" xmlFile="TransformerH_iteration.xml" thumbnail="word/word_h.jpg" rolloverAudio="word_transformer/wt_game1_ID.mp3" />-->
+
+
+				</game>
+				
+                                <game id="SORT" alt="SORTITOUT" title="Sort It Out" src="sortwords/sortwords.swf" rolloverAudio="sort_it_out/sort_gameformat_ID.mp3" >
+					<featured id="sort4" xmlFile="G1_iteration.xml" thumbnail="sort/sortwords_5.jpg" rolloverAudio="sort_it_out/sort_gameG1_ID.mp3" >
+                                                <title><![CDATA[Sort It Out: <i>G1</i>]]></title>
+                                        </featured>
+                                        <iteration id="sort2" xmlFile="C2_iteration.xml" thumbnail="sort/sortwords_3.jpg" rolloverAudio="sort_it_out/sort_gameC2_ID.mp3" >
+                                                <title><![CDATA[Sort It Out: <i>C2</i>]]></title>
+                                        </iteration>
+                                        <iteration id="sort3" xmlFile="C3_iteration.xml" thumbnail="sort/sortwords_4.jpg" rolloverAudio="sort_it_out/sort_gameC3_ID.mp3" >
+                                                <title><![CDATA[Sort It Out: <i>C3</i>]]></title>
+                                        </iteration>
+                                        <iteration id="sort1" xmlFile="C1_iteration.xml" thumbnail="sort/sortwords_2.jpg" rolloverAudio="sort_it_out/sort_gameC1_ID.mp3" >
+											<title><![CDATA[Sort It Out: <i>C1</i>]]></title>
+                                        </iteration>
+                                        <iteration id="sort5" xmlFile="G2_iteration.xml" thumbnail="sort/sortwords_6.jpg" rolloverAudio="sort_it_out/sort_gameG2_ID.mp3" >
+                                                <title><![CDATA[Sort It Out: <i>G2</i>]]></title>
+                                        </iteration>
+                                        <iteration id="sort6" xmlFile="G3_iteration.xml" thumbnail="sort/sortwords_1.jpg" rolloverAudio="sort_it_out/sort_gameG3_ID.mp3" >
+                                                <title><![CDATA[Sort It Out: <i>G3</i>]]></title>
+                                        </iteration>
+                                        <iteration id="sort7" xmlFile="OO1_iteration.xml" thumbnail="sort/sortwords_7.jpg" rolloverAudio="sort_it_out/sort_gameOO1_ID.mp3" >
+                                                <title><![CDATA[Sort It Out: <i>OO1</i>]]></title>
+                                        </iteration>
+                                        <iteration id="sort8" xmlFile="OO2_iteration.xml" thumbnail="sort/sortwords_8.jpg" rolloverAudio="sort_it_out/sort_gameOO2_ID.mp3" >
+                                                <title><![CDATA[Sort It Out: <i>OO2</i>]]></title>
+                                        </iteration>
+                                        <iteration id="sort9" xmlFile="OO3_iteration.xml" thumbnail="sort/sortwords_9.jpg" rolloverAudio="sort_it_out/sort_gameOO3_ID.mp3" >
+                                                <title><![CDATA[Sort It Out: <i>OO3</i>]]></title>
+                                        </iteration>
+                                        <iteration id="sort10" xmlFile="OW1_iteration.xml" thumbnail="sort/sortwords_10.jpg" rolloverAudio="sort_it_out/sort_gameOW1_ID.mp3" >
+                                                <title><![CDATA[Sort It Out: <i>OW1</i>]]></title>
+                                        </iteration>
+                                        <iteration id="sort11" xmlFile="OW2_iteration.xml" thumbnail="sort/sortwords_11.jpg" rolloverAudio="sort_it_out/sort_gameOW2_ID.mp3" >
+                                                <title><![CDATA[Sort It Out: <i>OW2</i>]]></title>
+                                        </iteration>
+                                        <iteration id="sort12" xmlFile="OW3_iteration.xml" thumbnail="sort/sortwords_12.jpg" rolloverAudio="sort_it_out/sort_gameOW3_ID.mp3" >
+                                                <title><![CDATA[Sort It Out: <i>OW3</i>]]></title>
+                                        </iteration>
+                                        <iteration id="sort13" xmlFile="S1_iteration.xml" thumbnail="sort/sortwords_2.jpg" rolloverAudio="sort_it_out/sort_gameS1_ID.mp3" >
+                                                <title><![CDATA[Sort It Out: <i>S1</i>]]></title>
+                                        </iteration>
+                                        <iteration id="sort14" xmlFile="S2_iteration.xml" thumbnail="sort/sortwords_4.jpg" rolloverAudio="sort_it_out/sort_gameS2_ID.mp3" >
+                                                <title><![CDATA[Sort It Out: <i>S2</i>]]></title>
+                                        </iteration>
+                                        <iteration id="sort15" xmlFile="Y1_iteration.xml" thumbnail="sort/sortwords_6.jpg" rolloverAudio="sort_it_out/sort_gameY1_ID.mp3" >
+                                                <title><![CDATA[Sort It Out: <i>Y1</i>]]></title>
+                                        </iteration>
+                                        <iteration id="sort16" xmlFile="Y2_iteration.xml" thumbnail="sort/sortwords_8.jpg" rolloverAudio="sort_it_out/sort_gameY2_ID.mp3" >
+                                                <title><![CDATA[Sort It Out: <i>Y2</i>]]></title>
+                                        </iteration>
+                                        <iteration id="sort17" xmlFile="Y3_iteration.xml" thumbnail="sort/sortwords_10.jpg" rolloverAudio="sort_it_out/sort_gameY3_ID.mp3" >
+                                                <title><![CDATA[Sort It Out: <i>Y3</i>]]></title>
+                                        </iteration>
+				</game>
+				
+				
+				
+                                <game id="COMBO" alt="COMBOTRONIC" title="Combotronic" src="combo/ComboWords.swf" rolloverAudio="combotronic/combotronic.mp3" >
+					<iteration id="combo10" xmlFile="ING_iteration.xml" thumbnail="combo/combo_9.jpg" rolloverAudio="combotronic/gm_fand_po_combo_ing.mp3">
+						<title><![CDATA[Combotronic: <i>ing</i>]]></title>
+					</iteration>
+					<iteration id="combo6" xmlFile="shorti.xml" thumbnail="combo/combo_8.jpg" rolloverAudio="combotronic/gm_fand_po_combo_i.mp3">
+						<title><![CDATA[Combotronic: short <i>i</i>]]></title>
+					</iteration>
+					<iteration id="combo8" xmlFile="DR_iteration.xml" thumbnail="combo/combo_11.jpg" rolloverAudio="combotronic/gm_fand_po_combo_dr.mp3">
+						<title><![CDATA[Combotronic: <i>dr</i>]]></title>
+					</iteration>
+					<iteration id="combo7" xmlFile="TR_iteration.xml" thumbnail="combo/combo_10.jpg" rolloverAudio="combotronic/gm_fand_po_combo_tr.mp3">
+						<title><![CDATA[Combotronic: <i>tr</i>]]></title>
+					</iteration>-->
+					<featured id="combo9" xmlFile="AI_iteration.xml" thumbnail="combo/combo_13.jpg" rolloverAudio="combotronic/gm_fand_po_combo_ai.mp3">
+						<title><![CDATA[Combotronic: <i>ai</i>]]></title>
+					</featured>
+					<iteration id="combo5" xmlFile="S_iteration.xml" thumbnail="combo/combo_7.jpg" rolloverAudio="combotronic/gm_fand_po_combo_s.mp3">
+						<title><![CDATA[Combotronic: <i>s</i>]]></title>
+					</iteration>
+					<iteration id="combo4" xmlFile="IGHT_iteration.xml" thumbnail="combo/combo_4.jpg" rolloverAudio="combotronic/gm_fand_po_combo_ight.mp3">
+						<title><![CDATA[Combotronic: <i>ight</i>]]></title>
+					</iteration>
+					<iteration id="combo3" xmlFile="Short_U_iteration.xml" thumbnail="combo/combo_3.jpg" rolloverAudio="combotronic/gm_fand_po_combo_u.mp3">
+						<title><![CDATA[Combotronic: short <i>u</i>]]></title>
+					</iteration>
+					<iteration id="combo2" xmlFile="C_iteration.xml" thumbnail="combo/combo_2.jpg" rolloverAudio="combotronic/gm_fand_po_combo_c.mp3">
+						<title><![CDATA[Combotronic: <i>c</i>]]></title>
+					</iteration>
+					<iteration id="combo1" xmlFile="ST_iteration.xml" thumbnail="combo/combo.jpg" rolloverAudio="combotronic/gm_fand_po_combo_st.mp3">
+						<title><![CDATA[Combotronic: <i>st</i>]]></title>
+					</iteration>
+				</game>
+				<game id="CHAIN" alt="CHAINGAME" title="Chain Game" src="chain/chaingame.swf" rolloverAudio="chain_game/chaingame.mp3">
+					<iteration id="chain13" xmlFile="SH_iteration.xml" thumbnail="chain/chaingame_14.jpg" rolloverAudio="chain_game/gm_fand_po_chain_sh.mp3">
+						<title><![CDATA[Chain Game: <i>sh</i>]]></title>
+					</iteration>
+					<iteration id="chain12" xmlFile="LDLT_iteration.xml" thumbnail="chain/chaingame_13.jpg" rolloverAudio="chain_game/gm_fand_po_chain_ldlt.mp3">
+						<title><![CDATA[Chain Game: <i>ld/lt</i>]]></title>
+					</iteration>
+					<iteration id="chain11" xmlFile="FR_iteration.xml" thumbnail="chain/chaingame_12.jpg" rolloverAudio="chain_game/gm_fand_po_chain_fr.mp3">
+						<title><![CDATA[Chain Game: <i>fr</i>]]></title>
+					</iteration>
+					<iteration id="chain10" xmlFile="TRDR_iteration.xml" thumbnail="chain/chaingame_3.jpg" rolloverAudio="chain_game/gm_fand_po_chain_trdr.mp3">
+						<title><![CDATA[Chain Game: <i>tr/dr</i>]]></title>
+					</iteration>
+					<iteration id="chain9" xmlFile="CR_iteration.xml" thumbnail="chain/chaingame_11.jpg" rolloverAudio="chain_game/gm_fand_po_chain_cr.mp3">
+						<title><![CDATA[Chain Game: <i>cr</i>]]></title>
+					</iteration>
+					<iteration id="chain4" xmlFile="short_A.xml" thumbnail="chain/chaingame_5.jpg" rolloverAudio="chain_game/gm_fand_po_chain_a.mp3">
+						<title><![CDATA[Chain Game: short <i>a</i>]]></title>
+					</iteration>-->
+					<iteration id="chain7" xmlFile="OU_iteration.xml" thumbnail="chain/chaingame_9.jpg" rolloverAudio="chain_game/gm_fand_po_chain_ou.mp3">
+						<title><![CDATA[Chain Game: <i>ou</i>]]></title>
+					</iteration>
+					<iteration id="chain6" xmlFile="MP_iteration.xml" thumbnail="chain/chaingame_8.jpg" rolloverAudio="chain_game/gm_fand_po_chain_mp.mp3">
+						<title><![CDATA[Chain Game: <i>mp</i>]]></title>
+					</iteration>
+					<iteration id="chain5" xmlFile="FL_iteration.xml" thumbnail="chain/chaingame_7.jpg" rolloverAudio="chain_game/gm_fand_po_chain_fl.mp3">
+						<title><![CDATA[Chain Game: <i>fl</i>]]></title>
+					</iteration>
+					<iteration id="chain8" xmlFile="GR_iteration.xml" thumbnail="chain/chaingame_10.jpg" rolloverAudio="chain_game/gm_fand_po_chain_gr.mp3">
+						<title><![CDATA[Chain Game: <i>gr</i>]]></title>
+					</iteration>
+					<featured id="chain3" xmlFile="short_U.xml" thumbnail="chain/chaingame_4.jpg" rolloverAudio="chain_game/gm_fand_po_chain_u.mp3">
+						<title><![CDATA[Chain Game: short <i>u</i>]]></title>
+					</featured>
+					<iteration id="chain2" xmlFile="short_E.xml" thumbnail="chain/chaingame_2.jpg" rolloverAudio="chain_game/gm_fand_po_chain_e.mp3">
+						<title><![CDATA[Chain Game: short <i>e</i>]]></title>
+					</iteration>
+					<iteration id="chain1" xmlFile="ST_iteration_v2.xml" thumbnail="chain/chain.jpg" rolloverAudio="chain_game/gm_fand_po_chain_st.mp3">
+						<title><![CDATA[Chain Game: <i>st</i>]]></title>
+					</iteration>
+				</game>
+				<!--<game id="SORT" alt="SORTITOUT" title="Sort It Out" rolloverAudio="sort_it_out/sort_gameformat_ID.mp3" preview="true" ></game>-->
+                <!--<game id="SAY" alt="SAYWHAT" title="Say What" rolloverAudio="say_what/silo_gameformat_ID_both.mp3" preview="true" ></game>-->
+                <!--<game id="ESCAPES" alt="GREATESCAPES" title="Great Escapes" rolloverAudio="great_escapes/ge_gameformat_ID.mp3" preview="true" ></game>-->
+				<!--<game id="WORD" title="Word Transformer" rolloverAudio="word_transformer/wt_gameformat_ID.mp3" preview="true" ></game>-->
+				<!--<game id="SHOCK" title="Shock's Beatbox" src="shock/main.swf" rolloverAudio="shock/game_ID/game_format_id.mp3" assetLoad="shock/video/1_Intro_B.flv" preview="true" ></game>-->				
+			</games>
+		</section>
+		<section label="VIDEOS" title="The Electric Company - Videos" src="swf/portals/videos.swf" asset="images/video_billboard.png">
+			<featured title="P" description="Prankster Planet 2.0" releasePath="rtmp://pbs.fcod.llnwd.net/a1863/o6/tp-live/PBS_CP_Electric_Company/elco_silente_MusicVideo.flv" thumbnailPath="http://www.pbs.org/upload/theplatform/staging/http/images/ECLO101_2.jpg" releaseId="cqF7kBDfg_U0psuiC9WJkQOIDHCNYb02" />
+				<gallery>
+					<featuredGallery>
+						<gal name="1" src="images/thumbs/video_swf/insidescoop.swf"  sound="mp3/pauseons/behind_the_scenes.mp3" link="active" category="" keywords="scoop" type="Behind the Scenes" color="0x682bb1" copy="The cast of The Electric Company shares super secret information about what happens while they make the TV show!" />
+						<gal name="2" src="images/thumbs/video_swf/meetthecast.swf"  sound="mp3/pauseons/meet_the_cast.mp3" link="active" category="" keywords="meetcast" type="Meet the Cast" color="0xfdbf33" copy="Get to know the stars of The Electric Company!" />
+						<gal name="3" src="images/thumbs/video_swf/bloopers.swf"  sound="mp3/pauseons/bloopers.mp3" link="active" category="" keywords="bloopers" type="Bloopers" color="0x0db14b" copy="See some of the goofs and do-overs that happen on The Electric Company!" />
+						<gal name="4" src="images/thumbs/video_swf/getcreative.swf"  sound="mp3/pauseons/get_creative.mp3" link="active" category="" keywords="creative" type="Get Creative!" color="0xed1c24" copy="What Inspires you?  Watch these stories about how to use the power of words to express your creativity." />
+						<gal name="5" src="images/thumbs/video_swf/howdtheydothat.swf"  sound="mp3/pauseons/how_did_they_do_that.mp3" link="active" category="" keywords="hdtdt" type="How Did They Do That?" color="0x00adef" copy="Are you an artist, a dancer, a writer, a builder, a musician? See how people like you use their skills to make The Electric Company!" />
+						<gal name="6" src="images/thumbs/video_swf/electriccams.swf"  sound="mp3/pauseons/electric_cam.mp3" link="active" category="" keywords="cams" type="Electric Cams" color="0xf7971d" copy="The cast of The Electric Company get behind the camera, and show us the fun they have while making the show!" />
+					</featuredGallery>	
+					<clipsGallery>
+						<gal name="1" src="images/thumbs/video_swf/musicvideos.swf"  sound="mp3/pauseons/music_videos.mp3" link="active" category="" keywords="musicvid" type="Music Videos" color="0xec008c" copy="See of all your favorite songs from the show!" />
+						<gal name="2" src="images/thumbs/video_swf/shockandfriends.swf"  sound="mp3/pauseons/shock_and_friends.mp3" link="active" category="" keywords="shockfriends" type="Shock & Friends" color="0x00adef" copy="Check out these videos of Shock and his friends making beats, rhymes, and songs!" />
+						<gal name="3" src="images/thumbs/video_swf/electricanimations.swf"  sound="mp3/pauseons/electric_animations.mp3" link="active" category="" keywords="animations" type="Electric Animations" color="0xfdbf33" copy="Which is your favorite Electric Company animation? Check out these videos and decide!" />
+						<gal name="4" src="images/thumbs/video_swf/whatstheword.swf"  sound="mp3/pauseons/whats_the_word.mp3" link="active" category="" keywords="wtw" type="What's the Word?" color="0xec008c" copy="Have all sorts of fun breaking down and building up words!" />
+						<gal name="5" src="images/thumbs/video_swf/prankstercompany.swf"  sound="mp3/pauseons/pranksters_and_co.mp3" link="active" category="" keywords="pranksclips" type="Pranksters & Company" color="0x0db14b" copy="Find your favorite Electric Company member moments, and Prankster pranks from the shows you love the most!" />
+					</clipsGallery>	
+				</gallery>
+			<videos>				
+                                <video src="new/videos/Francine_Gilda/Francine_Gilda_Videos_V_1.flv" type="welcomeLogout" id="welcomeLogout1" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+								<video src="new/videos/Francine_Gilda/Francine_Gilda_Videos_V_2.flv" type="welcomeLogout" id="welcomeLogout2" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+                                <video src="new/videos/Francine_Gilda/Francine_Gilda_Videos_V_3.flv" type="welcomeLogin1" id="welcomeLogin" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+								<video src="new/videos/Francine_Gilda/Francine_Gilda_Videos_V_4.flv" type="welcomeLogin2" id="welcomeLogin" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+								<video src="new/videos/Hector_Francine/Hector_Francine_Videos_V_1.flv" type="welcomeLogin3" id="welcomeLogin" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+								<video src="new/videos/Hector/Hector_Videos_V_1.flv" type="welcomeLogin" id="welcomeLogin4" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+								<video src="new/videos/Gilda/Gilda_Videos_V_1.flv" type="welcomeLogin" id="welcomeLogin5" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+                                <video src="new/videos/Hector/Hector_Videos_V_3.flv" type="welcomeBack" id="welcomeBack1" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+								<video src="new/videos/Francine/Francine_Videos_V_2.flv" type="welcomeBack" id="welcomeBack2" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+								<video src="new/videos/Gilda/Gilda_Videos_V_2.flv" type="welcomeBack" id="welcomeBack3" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+								<video src="new/videos/Hector/Hector_Videos_V_4.flv" type="welcomeBack" id="welcomeBack4" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+								<video src="new/videos/Hector_Francine/Hector_Francine_Videos_V_1.flv" type="welcomeBack" id="welcomeBack5" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+                                <video src="new/videos/Hector/Hector_Videos_V_5.flv" type="timeout" id="timeout1" loggedin="true" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+                                <video src="new/videos/Hector/Hector_Videos_V_6.flv" type="timeout" id="timeout2" loggedin="false" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+                                <video src="new/videos/Gilda/Gilda_Videos_V_3.flv" type="timeout" id="timeout3" loggedin="false" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+								<video src="new/videos/Gilda/Gilda_Videos_V_4.flv" type="timeout" id="timeout4" loggedin="false" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+								<video src="new/videos/Gilda/Gilda_Videos_V_5.flv" type="timeout" id="timeout5" loggedin="false" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+								<video src="new/videos/Francine/Francine_Videos_V_4.flv" type="timeout" id="timeout6" loggedin="false" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+								<video src="new/videos/Hector/Hector_Videos_V_2.flv" type="timeout" id="timeout7" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+								<video src="new/videos/Francine/Francine_Videos_V_1.flv" type="timeout" id="timeout8" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+			</videos>
+                        <pauseons>
+				<pauseon id="btn_addvideo" src="257_vd_pl_po_add.mp3" />
+			</pauseons>
+                        <instructions>
+                                <instruction id="allVideos" src="217_vd_men_ins_1_new.mp3" />
+                        </instructions>
+		</section>
+		<section label="BATTLE" title="The Electric Company - Battle" src="swf/portals/battle.swf">
+                        <videos>				
+				<video src="new/Battles/Manny_Jess/Manny_Jess_Battles_V_1.flv" type="welcomeLogout" id="welcomeLogout1" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/Battles/Manny_Jess/Manny_Jess_Battles_V_1.flv" type="welcomeLogout" id="welcomeLogout2" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/Battles/Manny_Jess/Manny_Jess_Battles_V_1.flv" type="welcomeLogout" id="welcomeLogout3" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/Battles/Jessica/Jessica_Battles_V_1.flv" type="welcomeLogout" id="welcomeLogout4" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/Battles/Manny/Manny_Battles_V_1.flv" type="welcomeLogout" id="welcomeLogout5" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/Battles/Manny_Jess/Manny_Jess_Battles_V_1.flv" type="welcomeLogin" id="welcomeLogin" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/Battles/Manny_Jess/Manny_Jess_Battles_V_1.flv" type="welcomeLogin" id="welcomeLogin1" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/Battles/Jessica/Jessica_Battles_V_3.flv" type="welcomeLogin" id="welcomeLogin2" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/Battles/Manny/Manny_Battles_V_2.flv" type="welcomeLogin" id="welcomeLogin3" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/Battles/Manny/Manny_Battles_V_3.flv" type="welcomeLogin" id="welcomeLogin4" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/Battles/Jessica/Jessica_Battles_V_4.flv" type="welcomeBack" id="welcomeBack" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/Battles/Manny/Manny_Battles_V_5.flv" type="welcomeBack" id="welcomeBack" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/Battles/Jessica/Jessica_Battles_V_4.flv" type="timeout" id="timeout1" loggedin="true" xCoord="-30" yCoord="284" width="558.05" height="366.1" />
+				<video src="new/Battles/Manny/Manny_Battles_V_6.flv" type="timeout" id="timeout2" loggedin="false" xCoord="-30" yCoord="284" width="558.05" height="366.1" /> 
+				<video src="new/Battles/Manny_Jess/Manny_Jess_Battles_V_1.flv" type="timeout" id="timeout3" xCoord="-30" yCoord="284" width="558.05" height="366.1" />               
+			</videos>
+			<instructions>
+				<instruction id="leaderboard" src="269a_bt_lb_ins_3_alt1.mp3" />
+			</instructions>
+			<battleGames>
+				<game id="STACKER" alt="Sandwich Stacker" title="Sandwich Stacker" src="SandwichStacker/charSelector.swf" rolloverAudio="tnes/tec_star1.mp3" />
+				<game id="BASKETBALL" alt="Basketball Battle" title="Basketball Bounce Off" src="BasketballGame/charSelector.swf" rolloverAudio="tnes/tec_star1.mp3" />
+			</battleGames>
+		</section>
+	</sections>
+</ec>

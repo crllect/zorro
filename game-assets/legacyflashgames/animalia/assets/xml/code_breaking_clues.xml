@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<clues>
+	<letters_3>
+		<data>
+			<clue><![CDATA[She carries a PDA]]></clue>
+			<word><![CDATA[Zoe]]></word>
+		</data>
+		<data>
+			<clue><![CDATA[The Eye in the ...]]></clue>
+			<word><![CDATA[Sky]]></word>
+		</data>	
+	</letters_3>
+	<letters_4>
+		<data>
+			<clue><![CDATA[What is the iguana called]]></clue>
+			<word><![CDATA[Iggy]]></word>
+		</data>
+		<data>
+			<clue><![CDATA[The elephants, Elni and ...]]></clue>
+			<word><![CDATA[Erno]]></word>
+		</data>
+		<data>
+			<clue><![CDATA[He is uber cool]]></clue>
+			<word><![CDATA[Alex]]></word>
+		</data>
+		<data>
+			<clue><![CDATA[Author of the book is Graeme ...]]></clue>
+			<word><![CDATA[Base]]></word>
+		</data>
+		<data>
+			<clue><![CDATA[Livingstone is a ...]]></clue>
+			<word><![CDATA[Lion]]></word>
+		</data>
+		<data>
+			<clue><![CDATA[The Media ...]]></clue>
+			<word><![CDATA[Mice]]></word>
+		</data>
+		<data>
+			<clue><![CDATA[The heart of Animalia is the ...]]></clue>
+			<word><![CDATA[Core]]></word>
+		</data>
+	</letters_4>
+	<letters_5>
+		<data>
+			<clue><![CDATA[He loves banannas]]></clue>
+			<word><![CDATA[Gbubu]]></word>
+		</data>
+	</letters_5>
+	<letters_6>
+		<data>
+			<clue><![CDATA[The head librarian]]></clue>
+			<word><![CDATA[Reenie]]></word>
+		</data>
+		<data>
+			<clue><![CDATA[Complete this phrase. The Bill of ...]]></clue>
+			<word><![CDATA[Writes]]></word>
+		</data>
+		<data>
+			<clue><![CDATA[What is Iggy a type of]]></clue>
+			<word><![CDATA[Iguana]]></word>
+		</data>
+		<data>
+			<clue><![CDATA[The Elephants ...]]></clue>
+			<word><![CDATA[Eatery]]></word>
+		</data>
+		<data>
+			<clue><![CDATA[Tyrannicus' assistant is ...]]></clue>
+			<word><![CDATA[Fushia]]></word>
+		</data>
+	</letters_6>
+
+	<!-- characters are limited from this round on to letters and numbers only -->
+	<!-- as they don't exist in the animalia character set                     -->
+	<letters_7>
+		<data>
+			<clue><![CDATA[GBUBU IS A]]></clue>
+			<word><![CDATA[GORILLA]]></word>
+		</data>
+		<data>
+			<clue><![CDATA[WHO IS THE ALLIGATOR]]></clue>
+			<word><![CDATA[ALLEGRA]]></word>
+		</data>
+	</letters_7>
+	<letters_7>
+		<data>
+			<clue><![CDATA[ONE OF ALLEGRAS SONGS]]></clue>
+			<word><![CDATA[PANCAKE]]></word>
+		</data>
+		<data>
+			<clue><![CDATA[ZED AND ZEE TRAVEL IN A]]></clue>
+			<word><![CDATA[ZEPPLIN]]></word>
+		</data>
+	</letters_7>
+	<letters_8>
+		<data>
+			<clue><![CDATA[WHERE DOES EVERYONE LIVE]]></clue>
+			<word><![CDATA[ANIMALIA]]></word>
+		</data>					 
+	</letters_8>
+	<letters_9>
+		<data>
+			<clue><![CDATA[WHAT TYPE OF ANIMAL IS ERNO]]></clue>
+			<word><![CDATA[ELEPHANT]]></word>
+		</data>
+		<data>
+			<clue><![CDATA[THE CORE PRODUCES]]></clue>
+			<word><![CDATA[CORESPORE]]></word>
+		</data>
+		<data>
+			<clue><![CDATA[REENIE IS THE HEAD]]></clue>
+			<word><![CDATA[LIBRARIAN]]></word>
+		</data>
+	</letters_9>
+	<letters_10>
+		<data>
+			<clue><![CDATA[HIS PUBLIC LOVES HIM]]></clue>
+			<word><![CDATA[TYRANNICUS]]></word>
+		</data>
+	</letters_10>
+	<letters_11>
+		<data>
+			<clue><![CDATA[THE KEEPER OF THE CORE]]></clue>
+			<word><![CDATA[LIVINGSTONE]]></word>
+		</data>
+	</letters_11>
+</clues>
