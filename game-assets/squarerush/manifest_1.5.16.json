@@ -1,0 +1,23 @@
+{
+  "short_name": "Square rush",
+  "name": "Square rush",
+  "icons": [
+    {
+      "src": "https://img.gamedistribution.com/0de19049f7384b21beb369da6c6cb9e3-512x512.jpeg",
+      "type": "image/jpeg",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "https://img.gamedistribution.com/0de19049f7384b21beb369da6c6cb9e3-512x512.jpeg",
+      "type": "image/png",
+      "sizes": "144x144",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "/0de19049f7384b21beb369da6c6cb9e3/index.html",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "/0de19049f7384b21beb369da6c6cb9e3/",
+  "theme_color": "#3367D6"
+}

@@ -1,0 +1,23 @@
+{
+  "short_name": "Square dash",
+  "name": "Square dash",
+  "icons": [
+    {
+      "src": "https://img.gamedistribution.com/ededc6fb0caa45f0be216da0a2442bd7-512x512.jpeg",
+      "type": "image/jpeg",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "https://img.gamedistribution.com/ededc6fb0caa45f0be216da0a2442bd7-512x512.jpeg",
+      "type": "image/png",
+      "sizes": "144x144",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "/ededc6fb0caa45f0be216da0a2442bd7/index.html",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "/ededc6fb0caa45f0be216da0a2442bd7/",
+  "theme_color": "#3367D6"
+}
