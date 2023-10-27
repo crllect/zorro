@@ -1,2 +1,0 @@
-var gdjs;(function(o){o.PixiFiltersTools.registerFilterCreator("AdvancedBloom",{makePIXIFilter:function(l,e){return new PIXI.filters.AdvancedBloomFilter},updatePreRender:function(l,e){},updateDoubleParameter:function(l,e,t){const i=l;e==="threshold"?i.threshold=t:e==="bloomScale"?i.bloomScale=t:e==="brightness"?i.brightness=t:e==="blur"?i.blur=t:e==="quality"?i.quality=t:e==="padding"&&(i.padding=t)},updateStringParameter:function(l,e,t){},updateBooleanParameter:function(l,e,t){}})})(gdjs||(gdjs={}));
-//# sourceMappingURL=advanced-bloom-pixi-filter.js.map
