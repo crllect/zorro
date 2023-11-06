@@ -30,3 +30,7 @@ while (true) {
 ```
 ---
 ![Crllect](http://readme-typing-svg.herokuapp.com/?font=Work+Sans&weight=500&duration=2000&pause=1000&color=e70056&background=00000000&center=true&vCenter=true&width=435&lines=Hello!;I+am+Crllect;Add+me+on+discord:;@Crllect;I+am+a+kali+enjoyer;And+I+dont+use+arch+btw;)
+---
+## Plans:
+-  Add GBA emulator to game list
+-  Add Proxy (most likely to be fracital or a custom UV implementation)
