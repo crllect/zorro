@@ -35,7 +35,7 @@ body {
     border-bottom-right-radius: 35px;
     user-select: none;
     pointer-events: none;
-    
+
     .logo {
         text-decoration: none;
         font-weight: 700;
@@ -47,7 +47,7 @@ body {
             color: var(--primary-color);
             text-shadow: #e70056 0px 0px 25px;
         }
-        
+
         &:hover {
             text-shadow: #e70056 0px 0px 25px;
             transition: 0.7s;
@@ -87,7 +87,7 @@ body {
             }
         }
     }
-    
+
     .container {
         display: flex;
         justify-content: space-between;
@@ -106,7 +106,7 @@ body {
             height: 90%;
             cursor: pointer;
             pointer-events: auto;
-        }   
+        }
         #panicButton {
             width: 70px;
             height: 35%;
@@ -114,7 +114,7 @@ body {
             pointer-events: auto;
         }
     }
-    
+
     nav {
         display: flexbox;
     }

@@ -7,15 +7,15 @@
 
     <script>
         // set zorro version
-        var zorroVersion = "0.2";
+        var zorroVersion = "0.3";
         // page title
-        document.title = "Zorro " + zorroVersion + "-PRE ALPHA";
+        document.title = "Zorro " + zorroVersion;
     </script>
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!-- Include the INSERT SYLESHEET stylesheet -->
+    <!-- Include the games stylesheet -->
     <link rel="stylesheet" href="css/games.css">
 
     <!-- sets the favicon -->
@@ -23,9 +23,28 @@
 
     <!-- Imports particle.js, making my own system was fun, but I need to have something more stable -->
     <script src="dist/particles.js"></script>
+<!--<style>
+        .body::-webkit-scrollbar {
+        background-color: #eee;
+        overflow-y: scroll; /* Add the ability to scroll */
+      }
+
+      /* Hide scrollbar for Chrome, Safari and Opera */
+      .body::-webkit-scrollbar {
+          display: none;
+      }
+
+      /* Hide scrollbar for IE, Edge and Firefox */
+      .bdy {
+        -ms-overflow-style: none;  /* IE and Edge */
+        scrollbar-width: none;  /* Firefox */
+      }
+    </style>
+-->
+
 </head>
 
-<body>
+<body class="all">
     <div id="particles-js"></div>
 
     <div class="navbar" style="position: fixed; top: 0; left: 0; right: 0; z-index: 9999;">
@@ -64,7 +83,7 @@
                             Proxies
                         </a>
                     </li>
-                    
+
                     <span>
                         &nbsp;&sol;&nbsp;
                     </span>
@@ -86,7 +105,7 @@
                 <a href="https://classroom.google.com" class="openPanic" id="panicButton">
                     <img src="assets/favicon3.svg" alt="panic">
                 </a>
-                
+
                 <script>
                     function openGame() {
                         var win = window.open();
@@ -164,7 +183,7 @@
 </body>
 
 <script>
-    var zorroVersion = "0.2";
+    var zorroVersion = "0.3";
 
     // Replace zorro version placeholder with the actual version
     document.getElementById("zorroVersionPlaceholder").textContent = zorroVersion;
