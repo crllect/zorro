@@ -20,7 +20,6 @@ body {
   transition: 0.3s linear;
   margin: 0;
   font-family: "Work Sans";
-  overflow: visible;
   min-height: 100vh;
 }
 
@@ -173,17 +172,17 @@ body {
 }
 
 .table {
-  margin-top: 2500px;
+  margin-top: 115em;
   display: grid;
-  grid-template-columns: repeat(3, 400px);
-  grid-gap: 100px 200px;
+  grid-template-columns: repeat(3, 17em);
+  grid-gap: 5em 10em;
   justify-items: center;
   position: absolute;
 }
 
 .cell {
-  width: 400px;
-  height: 500px;
+  width: 17em;
+  height: 22.5em;
   border: 2.5px solid #e70052;
   border-radius: 35px;
   background-size: 100% 70%, 100% 30%;
@@ -214,5 +213,5 @@ body {
   left: 50%;
   transform: translateX(-50%);
   color: white;
-  font-size: 50px;
+  font-size: 2.5em;
 }/*# sourceMappingURL=games.css.map */
