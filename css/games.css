@@ -172,10 +172,10 @@ body {
 }
 
 .table {
-  margin-top: 115em;
+  margin-top: 75em;
   display: grid;
-  grid-template-columns: repeat(3, 17em);
-  grid-gap: 5em 10em;
+  grid-template-columns: repeat(4, 17em);
+  grid-gap: 5em 7.5em;
   justify-items: center;
   position: absolute;
 }
