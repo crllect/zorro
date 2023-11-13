@@ -1,4 +1,4 @@
-Pretty simple proccess, you have your game in html, at the end of the main html file, you paste this code before the </body> tag:
+Pretty simple proccess, you have your game in html, at the end of the main html file, you paste this code before the `</body>` tag:
 
 ```html
 <div class="githubCorner"><a href="https://crllect.github.io/Zorro/games.html" style="position: fixed; bottom: 0; left: 0; z-index: 9999;">
