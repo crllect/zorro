@@ -192,12 +192,14 @@ body {
 }
 
 .table {
-    margin-top: ((2.5 * ($cells-row * $cells-row)) - (47.5 * $cells-row) + 225) * $scale-factor * 40em; // when 3 should be 35, when 4 should be 20.
+    margin-top: ((2.5 * ($cells-row * $cells-row)) - (47.5 * $cells-row) + 225) * $scale-factor * 134.5em; // when 3 should be 35, when 4 should be 20.
     display: grid;
     grid-template-columns: repeat($cells-row, $cell-width); // Conrol the amoung of cells per row
     grid-gap: $horizontal-gap $vertical-gap;
     justify-items: center;
     position: absolute;
+    user-select: none;
+    pointer-events: auto;
 }
 
 .cell {
@@ -234,9 +236,10 @@ body {
 
 .cell-content {
     position: absolute;
-    bottom: 10%;
+    bottom: 5%;
     left: 50%;
     transform: translateX(-50%);
     color: white;
-    font-size: 2.5em;
+    text-align: center;
+    font-size: 2em;
 }
