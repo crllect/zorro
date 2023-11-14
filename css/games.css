@@ -172,12 +172,16 @@ body {
 }
 
 .table {
-  margin-top: 3000em;
+  margin-top: 10087.5em;
   display: grid;
   grid-template-columns: repeat(4, 17em);
   grid-gap: 5em 7.5em;
   justify-items: center;
   position: absolute;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+  pointer-events: auto;
 }
 
 .cell {
@@ -209,9 +213,10 @@ body {
 
 .cell-content {
   position: absolute;
-  bottom: 10%;
+  bottom: 5%;
   left: 50%;
   transform: translateX(-50%);
   color: white;
-  font-size: 2.5em;
+  text-align: center;
+  font-size: 2em;
 }/*# sourceMappingURL=games.css.map */
