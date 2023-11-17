@@ -73,6 +73,6 @@ particlesJS('particles-js', {
         }
       }
     },
-    retina_detect: true, // Disable retina detection
-    fps_limit: 60 // Limit FPS to 60
+    retina_detect: false, // Disable retina detection
+    fps_limit: 240 // Limit FPS to 60
 });
