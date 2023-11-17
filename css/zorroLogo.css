@@ -56,8 +56,6 @@
   margin-top: 3em;
   position: absolute;
   top: 0; /* Adjust the top value as needed */
-  left: 50%; /* Position it in the horizontal center of its parent */
-  transform: translateX(-50%); /* Center it horizontally */
   z-index: 9999; /* Set the z-index to a value greater than the canvas */
   cursor: pointer;
 }
