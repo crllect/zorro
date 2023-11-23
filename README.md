@@ -35,3 +35,4 @@ while (true) {
 ## Plans:
 -  Add GBA emulator to game list
 -  Add Proxy (working on this rn, trying to build a hyprland-esch looking ui)
+-  Add settings
