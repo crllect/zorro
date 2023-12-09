@@ -36,3 +36,4 @@ while (true) {
 -  Add GBA emulator to game list
 -  Add Proxy (working on this rn, trying to build a hyprland-esch looking ui)
 -  Add settings
+-  Add xorro theme option once tgats done
